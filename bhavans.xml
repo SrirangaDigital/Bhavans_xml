@@ -60417,161 +60417,1749 @@
 				<allauthors />
 			</entry>
 		</issue>
-		<issue inum="04" date="00" month="00" year="0000" cover="">%raghu
+		<issue inum="04" date="25" month="09" year="1977" cover="">
 			<entry>
-				<title num=""></title>
-				<feature></feature>
+				<title num="">Prayer</title>
+				<feature>Prayer</feature>
 				<series></series>
-				<page>0000-0000</page>
+				<page>0007-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="04">Kathopanishad</title>
+				<feature></feature>
+				<series>Kathopanishad</series>
+				<page>0009-0013</page>
 				<allauthors>
-					<author></author>
+					<author>Aiyar, T. R. Rajagopala</author>
 				</allauthors>
 			</entry>
-		</issue>
-		<issue inum="05" date="00" month="00" year="0000" cover="">
 			<entry>
-				<title num=""></title>
+				<title num="04">Six Systems of Indian Philosophy</title>
+				<feature></feature>
+				<series>Six Systems of Indian Philosophy</series>
+				<page>0015-0019</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="05">The Gandhian Alternative to Western Socialism</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
+				<page>0021-0023</page>
 				<allauthors>
-					<author></author>
+					<author>Rao, Dr. V. K. R. V.</author>
 				</allauthors>
 			</entry>
-		</issue>
-		<issue inum="06" date="00" month="00" year="0000" cover="">
 			<entry>
-				<title num=""></title>
+				<title num="">Bhavan Makes History</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
+				<page>0025-0054</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="11">Living with a Heaven-Born Husband</title>
+				<feature></feature>
+				<series>Living with a Heaven-Born Husband</series>
+				<page>0057-0062</page>
 				<allauthors>
-					<author></author>
+					<author>Menon, Smt. Saraswati K.P.S.</author>
 				</allauthors>
 			</entry>
-		</issue>
-		<issue inum="07" date="00" month="00" year="0000" cover="">
 			<entry>
-				<title num=""></title>
+				<title num="02">Tagore and Ananda Coomaraswamy</title>
+				<feature></feature>
+				<series>Tagore and Ananda Coomaraswamy</series>
+				<page>0063-0071</page>
+				<allauthors>
+					<author>Chandrasekharan, K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Notes &amp; News</title>
+				<feature>Notes &amp; News</feature>
+				<series></series>
+				<page>0073-0076</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Book Review</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0077-0080</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="05" date="09" month="10" year="1977" cover="Maharashtra's Governor, Shri Sadiq Ali, presenting Bhavan's memento to Shri Jayaprakashji">
+			<entry>
+				<title num="">Prayer</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0007-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Homage to Jayaprakash narayan</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
-				<allauthors>
-					<author></author>
-				</allauthors>
+				<page>0008-0008</page>
+				<allauthors />
 			</entry>
-		</issue>
-		<issue inum="08" date="00" month="00" year="0000" cover="">
 			<entry>
-				<title num=""></title>
+				<title num="">Bhavan's Hon. Membership for Jayaprakashji</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
-				<allauthors>
-					<author></author>
-				</allauthors>
+				<page>0009-0027</page>
+				<allauthors />
 			</entry>
-		</issue>
-		<issue inum="09" date="00" month="00" year="0000" cover="">
 			<entry>
-				<title num=""></title>
+				<title num="">Where Knowledge ends and Wisdom begins</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
+				<page>0028-0030</page>
 				<allauthors>
-					<author></author>
+					<author>Roy, Dilip Kumar</author>
 				</allauthors>
 			</entry>
-		</issue>
-		<issue inum="10" date="00" month="00" year="0000" cover="">
 			<entry>
-				<title num=""></title>
+				<title num="">Inferiority Complex</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
+				<page>0031-0037</page>
 				<allauthors>
-					<author></author>
+					<author>Sagittaricus</author>
 				</allauthors>
 			</entry>
-		</issue>
-		<issue inum="11" date="00" month="00" year="0000" cover="">
 			<entry>
-				<title num=""></title>
+				<title num="05">Six Systems of Indian Philosophy</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
+				<page>0039-0044</page>
 				<allauthors>
-					<author></author>
+					<author>Bahadur, K. P.</author>
 				</allauthors>
 			</entry>
-		</issue>
-		<issue inum="12" date="00" month="00" year="0000" cover="">
 			<entry>
-				<title num=""></title>
+				<title num="">On Excesses</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
+				<page>0045-0045</page>
 				<allauthors>
-					<author></author>
+					<author>Khanolkar, Smt. Savitribai</author>
 				</allauthors>
 			</entry>
-		</issue>
-		<issue inum="13" date="00" month="00" year="0000" cover="">
 			<entry>
-				<title num=""></title>
+				<title num="12">Living with a Heaven-Born Husband</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
+				<page>0047-0053</page>
 				<allauthors>
-					<author></author>
+					<author>Menon, Smt. Saraswati K. P. S.</author>
 				</allauthors>
 			</entry>
-		</issue>
-		<issue inum="14" date="00" month="00" year="0000" cover="">
 			<entry>
-				<title num=""></title>
+				<title num="">Sir Walter Scott&#8212;His Personality and Wisdom</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
+				<page>0055-0056</page>
 				<allauthors>
-					<author></author>
+					<author>Rao, P. Nagaraja</author>
 				</allauthors>
 			</entry>
-		</issue>
-		<issue inum="15" date="00" month="00" year="0000" cover="">
 			<entry>
-				<title num=""></title>
+				<title num="05">Kathopanishad</title>
+				<feature></feature>
+				<series>Kathopanishad</series>
+				<page>0057-0071</page>
+				<allauthors>
+					<author>Aiyar, T. R. Rajagopala</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Notes &amp; News</title>
+				<feature>Notes &amp; News</feature>
+				<series></series>
+				<page>0073-0079</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="06" date="23" month="10" year="1977" cover="Sri Sri Paramahansa Yogananda">
+			<entry>
+				<title num="">Prayer</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0013-0013</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Nation Pays Homage to Sri Sri Paramahansa Yogananda</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
-				<allauthors>
-					<author></author>
-				</allauthors>
+				<page>0017-0018</page>
+				<allauthors />
 			</entry>
-		</issue>
-		<issue inum="16" date="00" month="00" year="0000" cover="">
 			<entry>
-				<title num=""></title>
+				<title num="">Seek God Now!</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
+				<page>0019-0023</page>
 				<allauthors>
-					<author></author>
+					<author>Yogananda, Sri Paramahansa</author>
 				</allauthors>
 			</entry>
-		</issue>
-		<issue inum="17" date="00" month="00" year="0000" cover="">
 			<entry>
-				<title num=""></title>
+				<title num="">Paramahansa Yogananda as I Knew Him</title>
 				<feature></feature>
 				<series></series>
-				<page>0000-0000</page>
+				<page>0025-0030</page>
 				<allauthors>
-					<author></author>
+					<author>Mata, Sri Daya</author>
 				</allauthors>
 			</entry>
+			<entry>
+				<title num="">Yogoda Satsanga Society of India</title>
+				<feature></feature>
+				<series></series>
+				<page>0031-0035</page>
+				<allauthors>
+					<author>Giri, Swami Shantananda</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Paramahansa Yogananda's Kriya Yoga</title>
+				<feature></feature>
+				<series></series>
+				<page>0036-0039</page>
+				<allauthors>
+					<author>Giri, Swami Anandamoy</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A Star to Guide Our Destiny</title>
+				<feature></feature>
+				<series></series>
+				<page>0040-0042</page>
+				<allauthors>
+					<author>Sen, Dr. Binay Ranjan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Light of Lights</title>
+				<feature></feature>
+				<series></series>
+				<page>0043-0044</page>
+				<allauthors>
+					<author>Vaidya, Justice G. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Herbinger of Peace</title>
+				<feature></feature>
+				<series></series>
+				<page>0045-0047</page>
+				<allauthors>
+					<author>Divatia, P. J.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A Modern Apostle of Ancient Religion</title>
+				<feature></feature>
+				<series></series>
+				<page>0048-0051</page>
+				<allauthors>
+					<author>Jr. Quincy Howe</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Teachings of a World Teacher</title>
+				<feature></feature>
+				<series></series>
+				<page>0052-0055</page>
+				<allauthors>
+					<author>Giri, Swami Bhavananda</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Yoga and the Miracle of Incorruption</title>
+				<feature></feature>
+				<series></series>
+				<page>0056-0057</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">My India (Poem)</title>
+				<feature></feature>
+				<series></series>
+				<page>0058-0059</page>
+				<allauthors>
+					<author>Yogananda, Paramahansa</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Notes &amp; News</title>
+				<feature>Notes &amp; News</feature>
+				<series></series>
+				<page>0061-0064</page>
+				<allauthors />
+			</entry>
 		</issue>
-		<issue inum="18" date="00" month="00" year="0000" cover="">
+		<issue inum="07" date="06" month="11" year="1977" cover="Goddess Sarada Devi (Sringeri Sarada Peeth)">
+			<entry>
+				<title num="">Prayer</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0019-0019</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">President's Message</title>
+				<feature>President's Message</feature>
+				<series></series>
+				<page>0021-0021</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">What India Stands for</title>
+				<feature></feature>
+				<series></series>
+				<page>0023-0037</page>
+				<allauthors>
+					<author>Munshi, Kulapati K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bhavan's Book University&#8212;Prospect and Retrospect</title>
+				<feature></feature>
+				<series></series>
+				<page>0039-0047</page>
+				<allauthors>
+					<author>Ramakrishnan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="01">The Grace and Glory of the Divine Mother</title>
+				<feature></feature>
+				<series>The Grace and Glory of the Divine Mother</series>
+				<page>0049-0060</page>
+				<allauthors>
+					<author>Iyengar, Dr. K. R. Srinivasa</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Great as Boy, Gracious as Guru, Glorious for ever</title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0070</page>
+				<allauthors>
+					<author>Narasimhayya, S. G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sringeri Sarada Peetha&#8212;Its Ultimate Significance</title>
+				<feature></feature>
+				<series></series>
+				<page>0071-0073</page>
+				<allauthors>
+					<author>Aiyar, C. P. Ramaswami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sandhyopasana or Gayatri Meditation</title>
+				<feature></feature>
+				<series></series>
+				<page>0075-0077</page>
+				<allauthors>
+					<author>Keshavadas, Sant</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bhakti</title>
+				<feature></feature>
+				<series></series>
+				<page>0079-0080</page>
+				<allauthors>
+					<author>Swamigal, Sri-La-Sri Pandrimalai</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Jai Jai Vitthala Hari</title>
+				<feature></feature>
+				<series></series>
+				<page>0083-0096</page>
+				<allauthors>
+					<author>Ganguli, Nirmal Chandra</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Aldous Huxley&#8212;a Spokesman for Salvation</title>
+				<feature></feature>
+				<series></series>
+				<page>0097-0104</page>
+				<allauthors>
+					<author>Ashok, A. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">There's No Instant Samadhi</title>
+				<feature></feature>
+				<series></series>
+				<page>0105-0112</page>
+				<allauthors>
+					<author>Palit, S. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Why is the West Interested in Yoga</title>
+				<feature></feature>
+				<series></series>
+				<page>0113-0118</page>
+				<allauthors>
+					<author>Iyengar, B. K. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Kalki Comes Alive</title>
+				<feature></feature>
+				<series></series>
+				<page>0119-0127</page>
+				<allauthors>
+					<author>Sivaramakrishnan, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">World's Interest in Sanskrit : Paris Conference Review</title>
+				<feature></feature>
+				<series></series>
+				<page>0129-0135</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Chhottanikkara Temple</title>
+				<feature></feature>
+				<series></series>
+				<page>0137-0144</page>
+				<allauthors>
+					<author>Vaidyanathan, K. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Missing Link</title>
+				<feature></feature>
+				<series></series>
+				<page>0145-0154</page>
+				<allauthors>
+					<author>Sanku</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Stress&#8212;Yogic Remedy</title>
+				<feature></feature>
+				<series></series>
+				<page>0155-0169</page>
+				<allauthors>
+					<author>Sitaramaiah, Yogacharya A.</author>
+					<author>Nagabhushanam, Dr. P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A Tribute to Udayshankar</title>
+				<feature></feature>
+				<series></series>
+				<page>0171-0175</page>
+				<allauthors>
+					<author>Bagchee, Moni</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Towards Solving Poverty and Unemployment</title>
+				<feature></feature>
+				<series></series>
+				<page>0177-0205</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="08" date="20" month="11" year="1977" cover="Kathakali pose">
+			<entry>
+				<title num="">Prayer</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0005-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Echoes from Eternity</title>
+				<feature></feature>
+				<series></series>
+				<page>0007-0008</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="06">Kathopanishad</title>
+				<feature>Kathopanishad</feature>
+				<series></series>
+				<page>0009-0013</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="02">The Grace and Glory of the Divine Mother</title>
+				<feature></feature>
+				<series>The Grace and Glory of the Divine Mother</series>
+				<page>0015-0021</page>
+				<allauthors>
+					<author>Iyengar, Dr. K. R. Srinivasa</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Dr. E. F. Schumacher</title>
+				<feature></feature>
+				<series></series>
+				<page>0023-0024</page>
+				<allauthors>
+					<author>Bharadwaj, Prof. Ranganath</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sir C. V. Raman</title>
+				<feature></feature>
+				<series></series>
+				<page>0025-0029</page>
+				<allauthors>
+					<author>Balakrishnan, Purasu</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Einstein</title>
+				<feature></feature>
+				<series></series>
+				<page>0031-0037</page>
+				<allauthors>
+					<author>Bagchee, Moni</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sukracharya</title>
+				<feature></feature>
+				<series></series>
+				<page>0039-0043</page>
+				<allauthors>
+					<author>Rao, Dr. D. Lakshmana</author>
+					<author>Murthy, A. V. V. Narasimha</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Mathematics and Spirituality</title>
+				<feature></feature>
+				<series></series>
+				<page>0045-0047</page>
+				<allauthors>
+					<author>Ananthu, T. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">El Greco-the Mystic Painter of Spiritual Agony</title>
+				<feature></feature>
+				<series></series>
+				<page>0048-0050</page>
+				<allauthors>
+					<author>Subramanian, V. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="02">Planning Education for Prosperity</title>
+				<feature></feature>
+				<series></series>
+				<page>0051-0055</page>
+				<allauthors>
+					<author>Joshi, R. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">India's Role in Africa's liberation</title>
+				<feature></feature>
+				<series></series>
+				<page>0057-0062</page>
+				<allauthors>
+					<author>Taleyarkhan, H. J. H.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A Blessed Soul Departs</title>
+				<feature></feature>
+				<series></series>
+				<page>0063-0064</page>
+				<allauthors>
+					<author>Vaidyanathan, K. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sadhana</title>
+				<feature></feature>
+				<series></series>
+				<page>0065-0065</page>
+				<allauthors>
+					<author>Khanolkar, Smt. Savitribai</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Reaching the Summit</title>
+				<feature></feature>
+				<series></series>
+				<page>0067-0069</page>
+				<allauthors>
+					<author>Ramasubban, Smt. Bhagirathy</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Serving God By Serving Man</title>
+				<feature></feature>
+				<series></series>
+				<page>0070-0071</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">News &amp; News</title>
+				<feature>News &amp; News</feature>
+				<series></series>
+				<page>0072-0076</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Book Review</title>
+				<feature></feature>
+				<series></series>
+				<page>0077-0080</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="09" date="04" month="12" year="1977" cover="Rajaji">
+			<entry>
+				<title num="">Prayer</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0007-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Yuga Purusha</title>
+				<feature></feature>
+				<series></series>
+				<page>0009-0010</page>
+				<allauthors>
+					<author>Ramakrishnan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="01">Rajaji, the Great Dissenter</title>
+				<feature></feature>
+				<series></series>
+				<page>0013-0017</page>
+				<allauthors>
+					<author>Aiyar, T. V. Viswanatha</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Photo Feature</title>
+				<feature>Photo News</feature>
+				<series></series>
+				<page>0018-0020</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Pearls from Satya Sai Baba</title>
+				<feature></feature>
+				<series></series>
+				<page>0021-0023</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="03">The Grace and Glory of the Divine Mother</title>
+				<feature></feature>
+				<series>The Grace and Glory of the Divine Mother</series>
+				<page>0025-0028</page>
+				<allauthors>
+					<author>Iyengar, Dr. K. R. Srinivasa</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Nala and Damayanti</title>
+				<feature></feature>
+				<series></series>
+				<page>0031-0033</page>
+				<allauthors>
+					<author>Subramanian, Dr. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Diet, Vegetarianism and Eating Habits</title>
+				<feature></feature>
+				<series></series>
+				<page>0035-0037</page>
+				<allauthors>
+					<author>Khanolkar, Smt. Savitribai</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Hunger and Thirst</title>
+				<feature></feature>
+				<series></series>
+				<page>0039-0039</page>
+				<allauthors>
+					<author>Parappally, Krishnan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A New Approach to Prosperity</title>
+				<feature></feature>
+				<series></series>
+				<page>0041-0049</page>
+				<allauthors>
+					<author>Schumacher, E. F.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="02">India's Role in Africa's Liberation</title>
+				<feature></feature>
+				<series>India's Role in Africa's Liberation</series>
+				<page>0051-0056</page>
+				<allauthors>
+					<author>Taleyarkhan, H. J. H.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="07">Kathopanishad</title>
+				<feature></feature>
+				<series>Kathopanishad</series>
+				<page>0057-0065</page>
+				<allauthors>
+					<author>Iyer, T. R. Rajagopala</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="15">Francisco Goya&#8212;Spanish Genius</title>
+				<feature></feature>
+				<series>Great Artists</series>
+				<page>0067-0071</page>
+				<allauthors>
+					<author>Subramanian, V. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Notes &amp; News</title>
+				<feature>Notes &amp; News</feature>
+				<series></series>
+				<page>0073-0076</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Book Review</title>
+				<feature></feature>
+				<series></series>
+				<page>0077-0080</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="10" date="18" month="12" year="1977" cover="Virgin Mary with Infant Jesus">
+			<entry>
+				<title num="">Prayer</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0007-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">X'mas Message : Guidelines for the Religious</title>
+				<feature></feature>
+				<series></series>
+				<page>0009-0010</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="04">Grace and Glory of the Divine Mother</title>
+				<feature></feature>
+				<series>Grace and Glory of the Divine Mother</series>
+				<page>0011-0015</page>
+				<allauthors>
+					<author>Iyengar, Dr. K. R. Srinivasa</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">How to Know Your Spiritual Progress</title>
+				<feature></feature>
+				<series></series>
+				<page>0016-0018</page>
+				<allauthors>
+					<author>Ramdas, Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="08">Kathopanishad</title>
+				<feature></feature>
+				<series>Kathopanishad</series>
+				<page>0019-0022</page>
+				<allauthors>
+					<author>Aiyar, T. R. Rajagopala</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Some Table Manners</title>
+				<feature></feature>
+				<series></series>
+				<page>0023-0024</page>
+				<allauthors>
+					<author>Khanolkar, Smt. Savitribai</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Highest Function of the Intellect</title>
+				<feature></feature>
+				<series></series>
+				<page>0025-0029</page>
+				<allauthors>
+					<author>Chindananda, Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="02">Rajaji&#8212;the Great Dissenter</title>
+				<feature></feature>
+				<series>Rajaji&#8212;the Great Dissenter</series>
+				<page>0030-0034</page>
+				<allauthors>
+					<author>Aiyar, T. V. Viswanatha</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="09">Brihaspati&#8212;the Devaguru</title>
+				<feature></feature>
+				<series>Charactors from our Epics</series>
+				<page>0035-0040</page>
+				<allauthors>
+					<author>Rao, Dr. D. Lakshmana</author>
+					<author>Murthy, A. V. V. Narasimha</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Mango Tree</title>
+				<feature></feature>
+				<series></series>
+				<page>0041-0045</page>
+				<allauthors>
+					<author>Mallya, K. G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Tomorrow's Medicine and Tomorrow's Doctors</title>
+				<feature></feature>
+				<series></series>
+				<page>0047-0051</page>
+				<allauthors>
+					<author>Mahler, H.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="16">Claude Monet</title>
+				<feature></feature>
+				<series>Great Artists</series>
+				<page>0053-0055</page>
+				<allauthors>
+					<author>Subramanian, V. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="02">Nala and Damayanti</title>
+				<feature></feature>
+				<series>Children's Story</series>
+				<page>0057-0064</page>
+				<allauthors>
+					<author>Subrahmanian, Dr. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Taksashila Vishvavidyalaya</title>
+				<feature></feature>
+				<series></series>
+				<page>0065-0069</page>
+				<allauthors>
+					<author>Jain, N. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Notes &amp; News</title>
+				<feature>Notes &amp; News</feature>
+				<series></series>
+				<page>0071-0077</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Book Review</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0078-0080</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="11" date="01" month="01" year="1978" cover="New Dawn">
+			<entry>
+				<title num="">Prayer</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0007-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Rajaji Centenary</title>
+				<feature></feature>
+				<series></series>
+				<page>0009-0018</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="05">Grace and Glory of the Divine Mother</title>
+				<feature></feature>
+				<series>Grace and Glory of the Divine Mother</series>
+				<page>0019-0024</page>
+				<allauthors>
+					<author>Iyengar, Dr. K. R. Srinivasa</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="01">Streamlining of Our Religion</title>
+				<feature></feature>
+				<series>Streamlining Our Religion</series>
+				<page>0025-0031</page>
+				<allauthors>
+					<author>Lal, R. B.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Dynamics of Thought Control</title>
+				<feature></feature>
+				<series></series>
+				<page>0033-0037</page>
+				<allauthors>
+					<author>Raghunathan, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="09">Kathopanishad</title>
+				<feature></feature>
+				<series>Kathopanishad</series>
+				<page>0038-0043</page>
+				<allauthors>
+					<author>Aiyar, T. R. Rajagopala</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Andrew Wyeth</title>
+				<feature></feature>
+				<series></series>
+				<page>0044-0047</page>
+				<allauthors>
+					<author>Subramanian, V. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Ancient Insights &amp; Modern Discoveries</title>
+				<feature>An Appeal</feature>
+				<series></series>
+				<page>0048-0049</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Miracles</title>
+				<feature></feature>
+				<series></series>
+				<page>0051-0051</page>
+				<allauthors>
+					<author>Limaye, Avadhutaswami Maharaj</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">New York Cotton</title>
+				<feature></feature>
+				<series></series>
+				<page>0052-0056</page>
+				<allauthors>
+					<author>Mallya, K. G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Dhaumya</title>
+				<feature></feature>
+				<series></series>
+				<page>0057-0062</page>
+				<allauthors>
+					<author>Rao, Dr. D. Lakshmana</author>
+					<author>Murthy, A. V. V. Narasimha</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Beauty</title>
+				<feature></feature>
+				<series></series>
+				<page>0063-0063</page>
+				<allauthors>
+					<author>Khanolkar, Savitribai</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="03">Rajaji&#8212;the Great Dissenter</title>
+				<feature></feature>
+				<series>Rajaji&#8212;the Great Dissenter</series>
+				<page>0064-0069</page>
+				<allauthors>
+					<author>Aiyar, T. V. Viswanatha</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Kalaaguru Ravibhai Passes away</title>
+				<feature></feature>
+				<series></series>
+				<page>0071-0072</page>
+				<allauthors>
+					<author>Tolat, S. G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Notes &amp; News</title>
+				<feature>Notes &amp; News</feature>
+				<series></series>
+				<page>0073-0076</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Book Review</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0077-0080</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="12" date="15" month="01" year="1978" cover="Lilavati Munshi">
+			<entry>
+				<title num="">Prayer</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0007-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">A Life of Glory</title>
+				<feature></feature>
+				<series></series>
+				<page>0009-0013</page>
+				<allauthors>
+					<author>Ramakrishnan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">End of an Era</title>
+				<feature></feature>
+				<series></series>
+				<page>0014-0016</page>
+				<allauthors>
+					<author>Tolat, S. G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="06">Grace and Glory of the Divine Mother</title>
+				<feature></feature>
+				<series>Grace and Glory of the Divine Mother</series>
+				<page>0018-0023</page>
+				<allauthors>
+					<author>Iyengar, Dr. K. R. Srinivasa</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="02">Streamlining Our Religion</title>
+				<feature></feature>
+				<series>Streamlining Our Religion</series>
+				<page>0025-0034</page>
+				<allauthors>
+					<author>Lal, R. B.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="10">Kathopanishad</title>
+				<feature></feature>
+				<series>Kathopanishad</series>
+				<page>0035-0037</page>
+				<allauthors>
+					<author>Aiyar, T. R. Rajagopala</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Purandaradasa</title>
+				<feature></feature>
+				<series></series>
+				<page>0039-0041</page>
+				<allauthors>
+					<author>Keshavdas, Sant</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Yogeeswara Yajnavalkya</title>
+				<feature></feature>
+				<series></series>
+				<page>0043-0052</page>
+				<allauthors>
+					<author>Iyer, M. S. Krishnamurthy</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="02">Dynamics of Thought Control</title>
+				<feature></feature>
+				<series>Dynamics of Thought Control</series>
+				<page>0053-0055</page>
+				<allauthors>
+					<author>Raghunathan, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Charlie Chaplin</title>
+				<feature></feature>
+				<series></series>
+				<page>0057-0058</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Education for Prosperity</title>
+				<feature></feature>
+				<series></series>
+				<page>0059-0063</page>
+				<allauthors>
+					<author>Joshi, R. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sati Kirthisena</title>
+				<feature></feature>
+				<series>A Short Story</series>
+				<page>0065-0072</page>
+				<allauthors>
+					<author>Mascreen, P. J.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Notes &amp; News</title>
+				<feature>Notes &amp; News</feature>
+				<series></series>
+				<page>0073-0076</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Book Review</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0077-0080</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="13" date="29" month="01" year="1978" cover="A Time to Rejoice">
+			<entry>
+				<title num="">Prayer</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0007-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Republic Day Musings</title>
+				<feature></feature>
+				<series></series>
+				<page>0009-0014</page>
+				<allauthors>
+					<author>Ramakrishnan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">JP clarifies Total Revolution &#8212; an interview with Dr. R. R. Diwakar</title>
+				<feature></feature>
+				<series></series>
+				<page>0015-0023</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="07">Grace and Glory of the Divine Mother</title>
+				<feature></feature>
+				<series>Grace and Glory of the Divine Mother</series>
+				<page>0025-0026</page>
+				<allauthors>
+					<author>Iyengar, Dr. K. R. Srinivasa</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="01">Fundamental Rights</title>
+				<feature></feature>
+				<series>Fundamental Rights</series>
+				<page>0027-0030</page>
+				<allauthors>
+					<author>Kripalani, Acharya J. B.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="03">Streamlining Our Religion</title>
+				<feature></feature>
+				<series>Streamlining Our Religion</series>
+				<page>0031-0037</page>
+				<allauthors>
+					<author>Lal, R. B.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Trouble about Gurus</title>
+				<feature></feature>
+				<series></series>
+				<page>0038-0038</page>
+				<allauthors>
+					<author>Khanolkar, Savitribai</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">What is Happiness in Life</title>
+				<feature></feature>
+				<series></series>
+				<page>0039-0045</page>
+				<allauthors>
+					<author>Arunachalam, A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sandro Botticelli</title>
+				<feature></feature>
+				<series></series>
+				<page>0046-0049</page>
+				<allauthors>
+					<author>Subramanian, V. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Deluge</title>
+				<feature></feature>
+				<series>A Short Story</series>
+				<page>0051-0055</page>
+				<allauthors>
+					<author>Mallya, K. G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="11">Kathopanishad</title>
+				<feature></feature>
+				<series>Kathopanishad</series>
+				<page>0057-0063</page>
+				<allauthors>
+					<author>Aiyar, T. R. Rajagopala</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sanskrit Repromulgator</title>
+				<feature></feature>
+				<series></series>
+				<page>0065-0068</page>
+				<allauthors>
+					<author>Sankaran, Lakshmi</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A Glimpse into the Beyond</title>
+				<feature></feature>
+				<series></series>
+				<page>0069-0072</page>
+				<allauthors>
+					<author>Malhotra, D. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Notes &amp; News</title>
+				<feature>Notes &amp; News</feature>
+				<series></series>
+				<page>0073-0076</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Book Review</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0077-0080</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="14" date="12" month="02" year="1978" cover="A Study in Grace">
+			<entry>
+				<title num="">Prayer</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0007-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Avoid Sterile Disputations</title>
+				<feature></feature>
+				<series></series>
+				<page>0009-0010</page>
+				<allauthors>
+					<author>Sringeri, H. H.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Adi Sankara Temple in Bombay</title>
+				<feature></feature>
+				<series></series>
+				<page>0011-0014</page>
+				<allauthors>
+					<author>Devalingam, Sthapati</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Nammalvar and Vishishtadvaita</title>
+				<feature></feature>
+				<series></series>
+				<page>0015-0018</page>
+				<allauthors>
+					<author>Parthasarathy, K. E.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Madhvacharya's Philosophy</title>
+				<feature></feature>
+				<series></series>
+				<page>0019-0023</page>
+				<allauthors>
+					<author>Sharma, Dr. B. N. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="08">Grace and Glory of Divine Mother</title>
+				<feature></feature>
+				<series>Grace and Glory of Divine Mother</series>
+				<page>0025-0031</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="12">Kathopanishad</title>
+				<feature></feature>
+				<series>Kathopanishad</series>
+				<page>0033-0044</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="02">Fundamental Rights</title>
+				<feature></feature>
+				<series>Fundamental Rights</series>
+				<page>0045-0052</page>
+				<allauthors>
+					<author>Kripalani, Acharya J. B.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Breathing Well for Better Life</title>
+				<feature></feature>
+				<series></series>
+				<page>0053-0055</page>
+				<allauthors>
+					<author>Sagittaricus</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Easy Way</title>
+				<feature></feature>
+				<series></series>
+				<page>0057-0057</page>
+				<allauthors>
+					<author>Khanolkar, Savitribai</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="04">Streamlining Our Religion</title>
+				<feature></feature>
+				<series>Streamlining Our Religion</series>
+				<page>0059-0067</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="22">Great Artists (E. Manet)</title>
+				<feature></feature>
+				<series>Great Artists</series>
+				<page>0068-0072</page>
+				<allauthors>
+					<author>Subramanian, V. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Notes &amp; News</title>
+				<feature>Notes &amp; News</feature>
+				<series></series>
+				<page>0073-0076</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Book Review</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0077-0080</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="15" date="26" month="02" year="1978" cover="Dakshinamurti">
+			<entry>
+				<title num="">Prayer</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0007-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="09">Grace and Glory of the Divine Mother</title>
+				<feature></feature>
+				<series></series>
+				<page>0009-0012</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="01">Epilogue to `Roses in December'</title>
+				<feature></feature>
+				<series>Epilogue to `Roses in December'</series>
+				<page>0013-0017</page>
+				<allauthors>
+					<author>Chagla, M. C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="03">Fundamental Rights</title>
+				<feature></feature>
+				<series>Fundamental Rights</series>
+				<page>0018-0022</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Adoption</title>
+				<feature></feature>
+				<series></series>
+				<page>0023-0024</page>
+				<allauthors>
+					<author>Khanolkar, Savitribai</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="13">Kathopanishad</title>
+				<feature></feature>
+				<series>Kathopanishad</series>
+				<page>0025-0031</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Living with a Heaven-bent Wife</title>
+				<feature></feature>
+				<series>Living with a Heaven-bent Wife</series>
+				<page>0032-0037</page>
+				<allauthors>
+					<author>Menon, K. P. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bauls&#8212;the Wandering Bards of Bengal</title>
+				<feature></feature>
+				<series></series>
+				<page>0039-0042</page>
+				<allauthors>
+					<author>Halder, Arun</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Fasting</title>
+				<feature></feature>
+				<series></series>
+				<page>0043-0046</page>
+				<allauthors>
+					<author>Garg, Surendra Prasad</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="05">Streamlining Our Religion</title>
+				<feature></feature>
+				<series>Streamlining Our Religion</series>
+				<page>0047-0055</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Tension</title>
+				<feature></feature>
+				<series></series>
+				<page>0057-0061</page>
+				<allauthors>
+					<author>Sagittaricus</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="23">Great Artists : Eugene Delacroix</title>
+				<feature></feature>
+				<series>Great Artists</series>
+				<page>0062-0067</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Sri Narayana Guru</title>
+				<feature></feature>
+				<series></series>
+				<page>0070-0072</page>
+				<allauthors>
+					<author>Sukumaran, R. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Notes &amp; News</title>
+				<feature>Notes &amp; News</feature>
+				<series></series>
+				<page>0073-0076</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Book Review</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0077-0080</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="16" date="12" month="03" year="1978" cover="Giant Lotus Leaves">
+			<entry>
+				<title num="">Prayer</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0007-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">The Mother</title>
+				<feature></feature>
+				<series></series>
+				<page>0009-0015</page>
+				<allauthors>
+					<author>Jatti, B. D.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Transformation</title>
+				<feature></feature>
+				<series></series>
+				<page>0016-0017</page>
+				<allauthors>
+					<author>Roy, Dilip Kumar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Light on the Blessing and Dignity of Work</title>
+				<feature></feature>
+				<series></series>
+				<page>0019-0021</page>
+				<allauthors>
+					<author>Allen, James</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Lone Path</title>
+				<feature></feature>
+				<series></series>
+				<page>0022-0023</page>
+				<allauthors>
+					<author>Khanolkar, Savitribai</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="04">Fundamental Rights</title>
+				<feature></feature>
+				<series>Fundamental Rights</series>
+				<page>0025-0029</page>
+				<allauthors>
+					<author>Kripalani, J. B.</author>
+					<author>Subramanian, V. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="24">Great Artists : Edgar Degas</title>
+				<feature></feature>
+				<series>Great Artists</series>
+				<page>0031-0035</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="14">Kathopanishad</title>
+				<feature></feature>
+				<series></series>
+				<page>0037-0047</page>
+				<allauthors>
+					<author>Aiyar, T. R. Rajagopala</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Triple Modality of Indian Meditation</title>
+				<feature></feature>
+				<series></series>
+				<page>0049-0055</page>
+				<allauthors>
+					<author>Dave, Makarand</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="02">Epilogue to `Roses in December'</title>
+				<feature></feature>
+				<series>Epilogue to `Roses in December'</series>
+				<page>0057-0063</page>
+				<allauthors>
+					<author>Chagla, M. C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="06">Streamlining Our Religion</title>
+				<feature></feature>
+				<series>Streamlining Our Religion</series>
+				<page>0065-0072</page>
+				<allauthors>
+					<author>Lal, R. B.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Notes &amp; News</title>
+				<feature>Notes &amp; News</feature>
+				<series></series>
+				<page>0073-0076</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Book Review</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0077-0080</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="17" date="26" month="03" year="1978" cover="Akademi Award Winners : Balachander &amp; Nayana">
+			<entry>
+				<title num="">Prayer</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0007-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Art&#8212;A Pathway to God</title>
+				<feature></feature>
+				<series></series>
+				<page>0009-0011</page>
+				<allauthors>
+					<author>Ramakrishnan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Veena Yogi S. Balachander</title>
+				<feature></feature>
+				<series></series>
+				<page>0013-0016</page>
+				<allauthors>
+					<author>Ramanujam, Prof. T. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Nayana Jhaveri</title>
+				<feature></feature>
+				<series></series>
+				<page>0017-0022</page>
+				<allauthors>
+					<author>Kothari, Dr. Sunil</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">How to be a True Disciple of Jesus</title>
+				<feature></feature>
+				<series></series>
+				<page>0023-0024</page>
+				<allauthors>
+					<author>Allen, James</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="10">Grace and Glory of the Divine Mother</title>
+				<feature></feature>
+				<series>Grace and Glory of the Divine Mother</series>
+				<page>0025-0028</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="07">Streamlining Our Religion</title>
+				<feature></feature>
+				<series>Streamlining Our Religion</series>
+				<page>0029-0037</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="03">Epilogue to `Roses in December'</title>
+				<feature></feature>
+				<series>Epilogue to `Roses in December'</series>
+				<page>0039-0047</page>
+				<allauthors>
+					<author>Chagla, M. C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Helen Keller</title>
+				<feature></feature>
+				<series></series>
+				<page>0049-0055</page>
+				<allauthors>
+					<author>Bagchee, Moni</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Alcohol or Oxygen Intoxication ? Choice is Yours !</title>
+				<feature></feature>
+				<series></series>
+				<page>0057-0064</page>
+				<allauthors>
+					<author>Sitaramiah, Yogacharya A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Way to Shed Fear</title>
+				<feature></feature>
+				<series></series>
+				<page>0065-0066</page>
+				<allauthors>
+					<author>Khanolkar, Savitribai</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="25">Great Artists : Jean Antoine Watteau</title>
+				<feature></feature>
+				<series>Great Artists</series>
+				<page>0067-0070</page>
+				<allauthors>
+					<author>Subramanian, V. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">What is Common Sense ?</title>
+				<feature></feature>
+				<series></series>
+				<page>0071-0072</page>
+				<allauthors>
+					<author>Lewis, Ralph M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Notes &amp; News</title>
+				<feature>Notes &amp; News</feature>
+				<series></series>
+				<page>0073-0076</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Book Review</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0077-0080</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="18" date="00" month="00" year="0000" cover="">%raghu
 			<entry>
 				<title num=""></title>
 				<feature></feature>
