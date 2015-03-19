@@ -1235,7 +1235,7 @@
 			</entry>
 			<entry>
 				<title num="">From Here and There</title>
-				<feature></feature>
+				<feature>Here and There</feature>
 				<series></series>
 				<page>0047-0047</page>
 				<allauthors />
@@ -1367,8 +1367,8 @@
 			</entry>
 			<entry>
 				<title num="">Democracy in Action</title>
-				<feature></feature>
-				<series>From Here and There</series>
+				<feature>Here and There</feature>
+				<series></series>
 				<page>0049-0049</page>
 				<allauthors />
 			</entry>
@@ -112852,7 +112852,1947 @@ d			<entry>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="19" date="00" month="00" year="0000" cover="">%raghu, vol 29, issue 19
+		<part pnum="19" date="01" month="05" year="1983" cover="Kanchi Acharya">
+			<entry>
+				<title num="">Prayer to Mother</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0007-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Sri Durga Pancharatna Stotram</title>
+				<feature></feature>
+				<series></series>
+				<page>0009-0010</page>
+				<allauthors>
+					<author type="0">Acharya, Kanchi</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A Unique Monarch</title>
+				<feature></feature>
+				<series></series>
+				<page>0011-0017</page>
+				<allauthors>
+					<author type="0">Ramakrishnan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">What Life Has Taught Me</title>
+				<feature></feature>
+				<series></series>
+				<page>0019-0024</page>
+				<allauthors>
+					<author type="0">Acharya, Kanchi</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Santi Durga</title>
+				<feature></feature>
+				<series></series>
+				<page>0025-0027</page>
+				<allauthors>
+					<author type="0">Narayanan, Chittoor S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">In Tukaram's Footsteps</title>
+				<feature></feature>
+				<series></series>
+				<page>0029-0034</page>
+				<allauthors>
+					<author type="0">Subramanian, N. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Dharma in Mahabharata</title>
+				<feature></feature>
+				<series></series>
+				<page>0035-0041</page>
+				<allauthors>
+					<author type="0">Subramaniam, Kamala</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Two Meals A Day</title>
+				<feature></feature>
+				<series></series>
+				<page>0043-0047</page>
+				<allauthors>
+					<author type="0">Sachdev, N. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Do We Need Expensive Rituals</title>
+				<feature></feature>
+				<series></series>
+				<page>0049-0049</page>
+				<allauthors>
+					<author type="0">Subramanian, V. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Indomitable Chalapathi Rau</title>
+				<feature></feature>
+				<series></series>
+				<page>0051-0055</page>
+				<allauthors>
+					<author type="0">Sivaramakrishnan, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Two Artists With the Pen</title>
+				<feature></feature>
+				<series></series>
+				<page>0057-0061</page>
+				<allauthors>
+					<author type="0">Anjaneyulu, D.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Scrupulous Shaw</title>
+				<feature></feature>
+				<series></series>
+				<page>0062-0064</page>
+				<allauthors>
+					<author type="0">Raghunathan, N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">George Bernard Shaw</title>
+				<feature></feature>
+				<series></series>
+				<page>0065-0067</page>
+				<allauthors>
+					<author type="0">Rau, M. Chalapathi</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="28">Fainting</title>
+				<feature></feature>
+				<series>Your Health</series>
+				<page>0068-0070</page>
+				<allauthors>
+					<author type="0">Narayanam, Dr. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Our Donors</title>
+				<feature></feature>
+				<series></series>
+				<page>0071-0072</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Notes and News</title>
+				<feature>Notes and News</feature>
+				<series></series>
+				<page>0073-0076</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Folk Tales of Himachal Pradesh</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0077-0078</page>
+				<allauthors>
+					<author type="2">Ram, Dr. Atma</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sai Baba, The Saint of Shirdi</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0078-0078</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Inspiring Quotations</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0078-0079</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Test Your English</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0079-0079</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Sanskrit-English : Sat-Darsanam of Bhagavan Sri Ramana</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0079-0080</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Sanskrit-Tamil : Adi Sankara's Maneesha Panchakam</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0080-0080</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Yakshaprasnam</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0080-0080</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="20" date="16" month="05" year="1983" cover="The Call of the Temple">
+			<entry>
+				<title num="">Prayer to Vishnu</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0007-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's New President and Vice-Presidents</title>
+				<feature></feature>
+				<series></series>
+				<page>0008-0009</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Three days with Sri Sathya Sai Baba</title>
+				<feature></feature>
+				<series></series>
+				<page>0010-0017</page>
+				<allauthors>
+					<author type="0">Ramanujam, K. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Temple Worship</title>
+				<feature></feature>
+				<series></series>
+				<page>0019-0024</page>
+				<allauthors>
+					<author type="0">Saraswati, H. H. Jayendra</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Buddha and Adi Sankara</title>
+				<feature></feature>
+				<series></series>
+				<page>0025-0029</page>
+				<allauthors>
+					<author type="0">Ranganathananda, Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Swatantrya Veer Savarkar</title>
+				<feature>A Tribute</feature>
+				<series></series>
+				<page>0030-0035</page>
+				<allauthors>
+					<author type="0">Das, J. L.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Lokamanya and the Mahatma</title>
+				<feature></feature>
+				<series></series>
+				<page>0036-0045</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Law Was His Life</title>
+				<feature></feature>
+				<series></series>
+				<page>0046-0050</page>
+				<allauthors>
+					<author type="0">Anjaneyulu, D.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="15">Whispers in the Wind and Agonies of the Heart</title>
+				<feature></feature>
+				<series>African Literature</series>
+				<page>0051-0055</page>
+				<allauthors>
+					<author type="0">Sivaramakrishnan, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Here and There</title>
+				<feature>Here and There</feature>
+				<series></series>
+				<page>0057-0059</page>
+				<allauthors>
+					<author type="0">V. S. R. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Death of a Clerk</title>
+				<feature>Short Story</feature>
+				<series></series>
+				<page>0060-0062</page>
+				<allauthors>
+					<author type="0">Chekov, Anton</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="28">Diphtheria</title>
+				<feature></feature>
+				<series>Your Health</series>
+				<page>0063-0065</page>
+				<allauthors>
+					<author type="0">Narayanan, Dr. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="20">Aihole</title>
+				<feature></feature>
+				<series>India Through the Ages</series>
+				<page>0066-0070</page>
+				<allauthors>
+					<author type="0">Subramanian, V. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Our Donors</title>
+				<feature></feature>
+				<series></series>
+				<page>0071-0072</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Notes and News</title>
+				<feature>Notes and News</feature>
+				<series></series>
+				<page>0073-0076</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Sadhana of Service</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0077-0077</page>
+				<allauthors>
+					<author type="0">Lal, R. B.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Love Poems of Tagore</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0077-0078</page>
+				<allauthors>
+					<author type="0">Nandakumar, Prema</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bhagvan Ramana and Mother</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0078-0079</page>
+				<allauthors>
+					<author type="0">Kulkarni, Prof. B. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Eka Sloki of Bhagavan Sri Ramana Maharshi</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0078-0079</page>
+				<allauthors>
+					<author type="0">Kulkarni, Prof. B. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sat Darshan</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0078-0079</page>
+				<allauthors>
+					<author type="0">Kulkarni, Prof. B. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Ramana Tatha</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0078-0079</page>
+				<allauthors>
+					<author type="0">Kulkarni, Prof. B. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Popular Festivals of India</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0079-0080</page>
+				<allauthors>
+					<author type="0">Moothathu, V. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sanskrit-English Purusha-Suktam</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0079-0080</page>
+				<allauthors>
+					<author type="0">Moothathu, V. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sree Durga-Charitamritha</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0080-0080</page>
+				<allauthors>
+					<author type="0">Moothathu, V. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bhakti-Prapathi</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0080-0080</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="21" date="01" month="06" year="1983" cover="Shri G. D. Birla flanked by Lord Philip Noel-Baker and Lord Fenner Brockway">
+			<entry>
+				<title num="">Prayer to Sri Krishna</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0007-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">G. D. Birla &#8212; Some Glimpses</title>
+				<feature></feature>
+				<series></series>
+				<page>0008-0021</page>
+				<allauthors>
+					<author type="0">Ramakrishnan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Munshi, the Man and His Mission</title>
+				<feature></feature>
+				<series></series>
+				<page>0023-0024</page>
+				<allauthors>
+					<author type="0">Diwakar, R. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">1. A Stream's Tale</title>
+				<feature>Stories for Young and Old</feature>
+				<series></series>
+				<page>0025-0028</page>
+				<allauthors>
+					<author type="0">Vasanti</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Yoga Way to Freedom</title>
+				<feature></feature>
+				<series></series>
+				<page>0029-0033</page>
+				<allauthors>
+					<author type="0">Bhattacharya, Dr. B.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Tirubhuvanam</title>
+				<feature></feature>
+				<series></series>
+				<page>0035-0039</page>
+				<allauthors>
+					<author type="0">Ramakrishna, N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="29">Bacillary Dysentery</title>
+				<feature></feature>
+				<series>Your Health</series>
+				<page>0040-0045</page>
+				<allauthors>
+					<author type="0">Narayanan, Dr. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="16">Songs in the Air and Chants in the Crypt</title>
+				<feature></feature>
+				<series>African Literature</series>
+				<page>0047-0054</page>
+				<allauthors>
+					<author type="0">Sivaramakrishnan, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Mushrooms</title>
+				<feature></feature>
+				<series></series>
+				<page>0055-0056</page>
+				<allauthors>
+					<author type="0">Dave, J. J.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Here and There</title>
+				<feature>Here and There</feature>
+				<series></series>
+				<page>0057-0060</page>
+				<allauthors>
+					<author type="0">V. S. R. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A Psychiatrist Answers</title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0066</page>
+				<allauthors>
+					<author type="0">Mehta, H. H.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Mohini Attom</title>
+				<feature></feature>
+				<series></series>
+				<page>0067-0069</page>
+				<allauthors>
+					<author type="0">Venu, G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Harsha the Great Giver</title>
+				<feature></feature>
+				<series></series>
+				<page>0070-0071</page>
+				<allauthors>
+					<author type="0">Banerji, Santosh K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Notes and News</title>
+				<feature>Notes and News</feature>
+				<series></series>
+				<page>0073-0076</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Truculent Clay</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0077-0079</page>
+				<allauthors>
+					<author type="0">Sastry, N. Nanjunda</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Verse from Abroad the Sanskrit File</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0079-0080</page>
+				<allauthors>
+					<author type="0">Nandakumar, Prema</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Down Near the Back Road : Visions in the Plain Style</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0079-0080</page>
+				<allauthors>
+					<author type="0">Nandakumar, Prema</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Pearls from Peria Puranam</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0080-0080</page>
+				<allauthors>
+					<author type="0">R. B. C.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="22" date="16" month="06" year="1983" cover="Mrs. Margaret Thatcher">
+			<entry>
+				<title num="">Prayer to Mother Earth</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0007-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Gems from Aurobindo</title>
+				<feature></feature>
+				<series></series>
+				<page>0009-0012</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Smt. Margaret Thatcher</title>
+				<feature></feature>
+				<series></series>
+				<page>0013-0019</page>
+				<allauthors>
+					<author type="0">Ramakrishnam, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">No Vain Disputes</title>
+				<feature></feature>
+				<series></series>
+				<page>0021-0023</page>
+				<allauthors>
+					<author type="0">Buddha</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Pythagoras the Sublime</title>
+				<feature></feature>
+				<series></series>
+				<page>0025-0032</page>
+				<allauthors>
+					<author type="0">Spiers, John</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Ramana and His Silent Eloquence</title>
+				<feature></feature>
+				<series></series>
+				<page>0033-0039</page>
+				<allauthors>
+					<author type="0">Osborne, Arthur</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Guru Arjun Dev</title>
+				<feature></feature>
+				<series></series>
+				<page>0041-0044</page>
+				<allauthors>
+					<author type="0">Nagar, G. P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sri Ramanujacharya</title>
+				<feature></feature>
+				<series></series>
+				<page>0045-0047</page>
+				<allauthors>
+					<author type="0">Seshadri, T. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Saint Purandaradasa</title>
+				<feature></feature>
+				<series></series>
+				<page>0048-0050</page>
+				<allauthors>
+					<author type="0">Rao, P. R. Srinivasa</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Erich Fromm</title>
+				<feature></feature>
+				<series></series>
+				<page>0051-0054</page>
+				<allauthors>
+					<author type="0">Ashok, A. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Om Tat Sat</title>
+				<feature></feature>
+				<series></series>
+				<page>0055-0056</page>
+				<allauthors>
+					<author type="0">Mohapatra, Dr. Amulya Ranjan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">2. Dr. Spider</title>
+				<feature>Stories for Young and Old</feature>
+				<series></series>
+				<page>0057-0061</page>
+				<allauthors>
+					<author type="0">Vasanti</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Here and There</title>
+				<feature>Here and There</feature>
+				<series></series>
+				<page>0063-0066</page>
+				<allauthors>
+					<author type="0">V. S. R. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="30">Epilepsy</title>
+				<feature></feature>
+				<series>Your Health</series>
+				<page>0067-0072</page>
+				<allauthors>
+					<author type="0">Narayanan, Dr. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Notes and News</title>
+				<feature>Notes and News</feature>
+				<series></series>
+				<page>0073-0076</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Symbolism of Hindu Gods and Rituals</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0077-0077</page>
+				<allauthors>
+					<author type="2">Kulkarni, Prof. B. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Toxic Sun</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0077-0079</page>
+				<allauthors>
+					<author type="2">Nandakumar, Prema</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Blue Again</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0077-0079</page>
+				<allauthors>
+					<author type="2">Nandakumar, Prema</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">An Outline</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0077-0079</page>
+				<allauthors>
+					<author type="2">Nandakumar, Prema</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Narcissus Wept</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0077-0079</page>
+				<allauthors>
+					<author type="2">Nandakumar, Prema</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Blue Vanda</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0077-0079</page>
+				<allauthors>
+					<author type="2">Nandakumar, Prema</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Milestones to the Sun</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0077-0079</page>
+				<allauthors>
+					<author type="2">Nandakumar, Prema</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Wild Words</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0078-0079</page>
+				<allauthors>
+					<author type="2">Nandakumar, Prema</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Fugitive Wings</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0078-0079</page>
+				<allauthors>
+					<author type="2">Nandakumar, Prema</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Selected Poems</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0078-0079</page>
+				<allauthors>
+					<author type="2">Nandakumar, Prema</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Ramakrishna Movement</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0079-0080</page>
+				<allauthors>
+					<author type="2">Kulkarni, Prof. B. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Ramakrishna Movement</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0080-0080</page>
+				<allauthors>
+					<author type="2">Kulkarni, Prof. B. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Warmth of Love</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0080-0080</page>
+				<allauthors>
+					<author type="2">Parakal, Anthony</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="23" date="01" month="07" year="1983" cover="Inner Poise">
+			<entry>
+				<title num="">Prayer to Saraswati</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0009-0009</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">What is Wrong with the World</title>
+				<feature></feature>
+				<series></series>
+				<page>0010-0017</page>
+				<allauthors>
+					<author type="0">Harding, Douglas E.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Guru Dakshina</title>
+				<feature></feature>
+				<series></series>
+				<page>0018-0020</page>
+				<allauthors>
+					<author type="0">Dharmakeerti</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sri Chaitanya Mahaprabhu</title>
+				<feature></feature>
+				<series></series>
+				<page>0021-0022</page>
+				<allauthors>
+					<author type="0">Bhattacharya, Dr. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Hindu Women Saints</title>
+				<feature></feature>
+				<series></series>
+				<page>0023-0024</page>
+				<allauthors>
+					<author type="0">Lakhotia, R. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Two Voices</title>
+				<feature></feature>
+				<series></series>
+				<page>0025-0033</page>
+				<allauthors>
+					<author type="0">Budhananda, Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Swami Budhananda</title>
+				<feature></feature>
+				<series></series>
+				<page>0034-0036</page>
+				<allauthors>
+					<author type="0">Gopalakrishnan, N. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">When Man Failed and God Saved</title>
+				<feature></feature>
+				<series></series>
+				<page>0037-0039</page>
+				<allauthors>
+					<author type="0">Prema, S. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Here and There</title>
+				<feature>Here and There</feature>
+				<series></series>
+				<page>0040-0044</page>
+				<allauthors>
+					<author type="0">V. S. R. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">North and South Indian Music</title>
+				<feature></feature>
+				<series></series>
+				<page>0045-0049</page>
+				<allauthors>
+					<author type="0">Satyanath, T. C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Franz Kafka</title>
+				<feature>A Tribute</feature>
+				<series></series>
+				<page>0050-0053</page>
+				<allauthors>
+					<author type="0">Pandia, Mahendra N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="01">Literary Quiz</title>
+				<feature></feature>
+				<series>Literary Quiz</series>
+				<page>0054-0056</page>
+				<allauthors>
+					<author type="0">M. N. P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Padmaraju's Place in Telugu Literary World</title>
+				<feature></feature>
+				<series></series>
+				<page>0057-0061</page>
+				<allauthors>
+					<author type="0">Anjaneyulu, D.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">3. Brother Gopal</title>
+				<feature>Stories for Young and Old</feature>
+				<series></series>
+				<page>0062-0066</page>
+				<allauthors>
+					<author type="0">Vasanti</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="31">Bed-Wetting</title>
+				<feature></feature>
+				<series>Your Health</series>
+				<page>0067-0071</page>
+				<allauthors>
+					<author type="0">Narayanan, Dr. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Faith Reaffirmed</title>
+				<feature></feature>
+				<series></series>
+				<page>0073-0074</page>
+				<allauthors>
+					<author type="0">Vaidyanathan, K. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Notes and News</title>
+				<feature>Notes and News</feature>
+				<series></series>
+				<page>0075-0078</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Joy of the Illumined</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0079-0080</page>
+				<allauthors>
+					<author type="2">Kulkarni, Prof. B. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Saving Challenge of Religion</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0079-0080</page>
+				<allauthors>
+					<author type="2">Kulkarni, Prof. B. R.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="24" date="16-31" month="07" year="1983" cover="Shri G. D. Birla">
+			<entry>
+				<title num="">Prayer to Siva</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0005-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's Homage to Shri G. D. Birla</title>
+				<feature></feature>
+				<series></series>
+				<page>0006-0017</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">``London Times'' on G. D. Birla</title>
+				<feature></feature>
+				<series></series>
+				<page>0018-0020</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Shri G. D. Birla's Secret of Success</title>
+				<feature></feature>
+				<series></series>
+				<page>0021-0024</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Gandhiji and Ghanshyamdasji</title>
+				<feature></feature>
+				<series></series>
+				<page>0025-0037</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Krishnam Vande Jagadgurum</title>
+				<feature></feature>
+				<series></series>
+				<page>0038-0045</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">A Garland of Tributes</title>
+				<feature></feature>
+				<series></series>
+				<page>0046-0049</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="01">Ariyakudi the Colossus</title>
+				<feature></feature>
+				<series>Great Musicians</series>
+				<page>0051-0056</page>
+				<allauthors>
+					<author type="0">Ramanujam, Prof. T. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Here and There</title>
+				<feature>Here and There</feature>
+				<series></series>
+				<page>0057-0061</page>
+				<allauthors>
+					<author type="0">V. S. R. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="32">Burns</title>
+				<feature></feature>
+				<series>Your Health</series>
+				<page>0063-0066</page>
+				<allauthors>
+					<author type="0">Narayanan, Dr. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Story of a Squirrel</title>
+				<feature></feature>
+				<series></series>
+				<page>0067-0070</page>
+				<allauthors>
+					<author type="0">Vasanti</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Queen's Chocolate</title>
+				<feature></feature>
+				<series></series>
+				<page>0071-0071</page>
+				<allauthors>
+					<author type="0">Verma, D. P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Notes and News</title>
+				<feature>Notes and News</feature>
+				<series></series>
+				<page>0073-0077</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">The Path of Sri Ramana</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0079-0079</page>
+				<allauthors>
+					<author type="2">S. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Telugu : Gayatri Kalpa Vrikshamu - I Part</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0079-0080</page>
+				<allauthors>
+					<author type="2">Visakha</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Faith re-affirmed</title>
+				<feature></feature>
+				<series></series>
+				<page>0080-0080</page>
+				<allauthors>
+					<author type="0">Vaidyanatnan, K. S.</author>
+				</allauthors>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="030">
+		<part pnum="01" date="01-15" month="08" year="1983" cover="They Lit the Torch of Freedom">
+			<entry>
+				<title num="">A Prayer for Virtue</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0027-0027</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">May We Work Together With Vigour</title>
+				<feature></feature>
+				<series></series>
+				<page>0029-0031</page>
+				<allauthors>
+					<author type="0">Ramakrishnan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Messages</title>
+				<feature></feature>
+				<series></series>
+				<page>0033-0036</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Do Not Lose Hope</title>
+				<feature></feature>
+				<series></series>
+				<page>0037-0037</page>
+				<allauthors>
+					<author type="0">Paramahamsa, Sri Ramakrishna</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Use Your Reason</title>
+				<feature></feature>
+				<series></series>
+				<page>0038-0038</page>
+				<allauthors>
+					<author type="0">Vivekananda, Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Secret of Health</title>
+				<feature></feature>
+				<series></series>
+				<page>0039-0039</page>
+				<allauthors>
+					<author type="0">Tirtha, Swami Rama</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Prayer</title>
+				<feature></feature>
+				<series></series>
+				<page>0040-0040</page>
+				<allauthors>
+					<author type="0">Gandhi, Mahatma</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Enduring Joy</title>
+				<feature></feature>
+				<series></series>
+				<page>0041-0043</page>
+				<allauthors>
+					<author type="0">Paramacharya, Kanchi</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Jagadguru Dispels Devotees Doubts</title>
+				<feature></feature>
+				<series></series>
+				<page>0045-0050</page>
+				<allauthors>
+					<author type="0">Jagadguru, Sringeri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">How To Know God</title>
+				<feature></feature>
+				<series></series>
+				<page>0051-0053</page>
+				<allauthors>
+					<author type="0">Mata, Sri Sri Daya</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Scenes from Ramayana</title>
+				<feature></feature>
+				<series></series>
+				<page>0054-0062</page>
+				<allauthors>
+					<author type="0">Sivaramamurti, Dr. C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Shri G. D. Birla : The Superb Master Sculptor</title>
+				<feature></feature>
+				<series></series>
+				<page>0066-0071</page>
+				<allauthors>
+					<author type="0">Mandelia, D. P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Power of Love</title>
+				<feature></feature>
+				<series></series>
+				<page>0073-0075</page>
+				<allauthors>
+					<author type="0">Khan, Khan Abdul Gaffar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Two Giants of Dakshina Bharat</title>
+				<feature></feature>
+				<series></series>
+				<page>0077-0079</page>
+				<allauthors>
+					<author type="0">Narasimhan, C. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Voices from the Past</title>
+				<feature>Voices from the Past</feature>
+				<series></series>
+				<page>0081-0089</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">We are All Hindus by Race</title>
+				<feature></feature>
+				<series></series>
+				<page>0091-0096</page>
+				<allauthors>
+					<author type="0">Chagla, M. C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Indian Art Through the Ages</title>
+				<feature></feature>
+				<series></series>
+				<page>0098-0109</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Enemies of Promise (Verse)</title>
+				<feature></feature>
+				<series></series>
+				<page>0110-0111</page>
+				<allauthors>
+					<author type="0">Iyengar, Prof. K. R. Srinivasa</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Smt. Kamala Subramaniam</title>
+				<feature></feature>
+				<series></series>
+				<page>0114-0121</page>
+				<allauthors>
+					<author type="0">Sadasivam, Smt. Radha</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Gandhiji and Vijiaraghavachariar</title>
+				<feature></feature>
+				<series></series>
+				<page>0123-0128</page>
+				<allauthors>
+					<author type="0">Parthasarathy, R. T.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Japanese Gandhi is 99</title>
+				<feature></feature>
+				<series></series>
+				<page>0130-0139</page>
+				<allauthors>
+					<author type="0">Pohekar, G. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">In Search of Beauty</title>
+				<feature></feature>
+				<series></series>
+				<page>0141-0149</page>
+				<allauthors>
+					<author type="0">Sivaramakrishnan, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sivaramamurtiji As We Knew Him</title>
+				<feature></feature>
+				<series></series>
+				<page>0152-0157</page>
+				<allauthors>
+					<author type="0">Swali, Haridas</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">An Unrivalled Iconologist</title>
+				<feature></feature>
+				<series></series>
+				<page>0161-0171</page>
+				<allauthors>
+					<author type="0">Morley, Grace</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Twelve Tandavas of Siva</title>
+				<feature></feature>
+				<series></series>
+				<page>0173-0183</page>
+				<allauthors>
+					<author type="0">Ramakrishna, N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Literature &#8212; A Verbal Art</title>
+				<feature></feature>
+				<series></series>
+				<page>0185-0191</page>
+				<allauthors>
+					<author type="0">Pandia, Mahendra N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Tilottama</title>
+				<feature>Short Story</feature>
+				<series></series>
+				<page>0193-0205</page>
+				<allauthors>
+					<author type="0">Banphul</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="02" date="16-31" month="08" year="1983" cover="Sri Krishna">
+			<entry>
+				<title num="">Prayer to Sri Krishna</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0005-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Pathway to God in the Vedas</title>
+				<feature></feature>
+				<series></series>
+				<page>0010-0019</page>
+				<allauthors>
+					<author type="0">Sangoram, K. D.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">What is Culture?</title>
+				<feature></feature>
+				<series></series>
+				<page>0021-0024</page>
+				<allauthors>
+					<author type="0">Aiyar, Dr. C. P. Ramaswamy</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Dr. M. S. Swaminathan: The Man and the Scientist &#8212; Interview by A. L. Venkateswaran</title>
+				<feature></feature>
+				<series></series>
+				<page>0025-0032</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">The Sicilian Gandhi</title>
+				<feature></feature>
+				<series></series>
+				<page>0033-0037</page>
+				<allauthors>
+					<author type="0">Satyanath, T. C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Kalaprapurna Bharadwaja</title>
+				<feature></feature>
+				<series></series>
+				<page>0039-0041</page>
+				<allauthors>
+					<author type="0">Chowdary, T. H.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Mrinalini &#8212; A Legend and A Song</title>
+				<feature></feature>
+				<series></series>
+				<page>0042-0047</page>
+				<allauthors>
+					<author type="0">Tandon, P. D.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Blue Hibiscus</title>
+				<feature>Short Story</feature>
+				<series></series>
+				<page>0048-0056</page>
+				<allauthors>
+					<author type="0">Vasanti</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Here and There</title>
+				<feature>Here and There</feature>
+				<series></series>
+				<page>0057-0062</page>
+				<allauthors>
+					<author type="0">V. S. R. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bhavan's U.K. Centre Completes Ten Years</title>
+				<feature></feature>
+				<series></series>
+				<page>0063-0067</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's U.S. Centre Celebrates First Anniversary</title>
+				<feature></feature>
+				<series></series>
+				<page>0068-0073</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Notes and News</title>
+				<feature>Notes and News</feature>
+				<series></series>
+				<page>0074-0076</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Cultural Integration in India</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0077-0078</page>
+				<allauthors>
+					<author type="2">Bose, Dr. Anima</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Yoga : The Art of Integration</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0078-0080</page>
+				<allauthors>
+					<author type="2">Parasuram, I. G.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="03" date="01-15" month="09" year="1983" cover="Sri Ganesa">
+			<entry>
+				<title num="">Prayer to Ganesa</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0007-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Ganesh Temple of Ganapatipule</title>
+				<feature></feature>
+				<series></series>
+				<page>0009-0011</page>
+				<allauthors>
+					<author type="0">Dixit, D. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Shodasa (16) Ganapatis</title>
+				<feature></feature>
+				<series></series>
+				<page>0012-0018</page>
+				<allauthors>
+					<author type="0">Ramakrishnan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Valmiki Hridayam</title>
+				<feature></feature>
+				<series></series>
+				<page>0019-0021</page>
+				<allauthors>
+					<author type="0">Rangachari, R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Shri Sadasivam's Sathabhishekam</title>
+				<feature></feature>
+				<series></series>
+				<page>0022-0022</page>
+				<allauthors>
+					<author type="0">Ramakrishnan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Let us learn to respect our Teachers</title>
+				<feature></feature>
+				<series></series>
+				<page>0023-0024</page>
+				<allauthors>
+					<author type="0">Dandapani, Dr. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Vasantrao Deshpande &#8212; the Marathi Stage Phenomenon</title>
+				<feature></feature>
+				<series></series>
+				<page>0025-0030</page>
+				<allauthors>
+					<author type="0">Nadkarni, Dnyaneshwar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="02">Literary Quiz</title>
+				<feature></feature>
+				<series>Literary Quiz</series>
+				<page>0031-0034;0046-0046</page>
+				<allauthors>
+					<author type="0">Pandia, Mahendra N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A Patriarch Keeps His Promise</title>
+				<feature>Short Story</feature>
+				<series></series>
+				<page>0035-0040</page>
+				<allauthors>
+					<author type="0">Lidchi, Maggi</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sri Sri the Poet of Protest</title>
+				<feature></feature>
+				<series></series>
+				<page>0041-0046</page>
+				<allauthors>
+					<author type="0">Anjaneyulu, Dr. D.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="33">Tropical Eosinophilia</title>
+				<feature></feature>
+				<series>Your Health</series>
+				<page>0047-0050</page>
+				<allauthors>
+					<author type="0">Narayanan, Dr. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">George Orwell &#8212; Seer or Satirist?</title>
+				<feature></feature>
+				<series></series>
+				<page>0051-0056</page>
+				<allauthors>
+					<author type="0">Pandiya, M. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Here and There</title>
+				<feature>Here and There</feature>
+				<series></series>
+				<page>0057-0062</page>
+				<allauthors>
+					<author type="0">V. S. R. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Blue Hibiscus</title>
+				<feature>Short Story</feature>
+				<series></series>
+				<page>0063-0070</page>
+				<allauthors>
+					<author type="0">Vasanti</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Notes and News</title>
+				<feature>Notes and News</feature>
+				<series></series>
+				<page>0073-0075</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">The Sacred and the Secular in India's Performing Arts</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0077-0078</page>
+				<allauthors>
+					<author type="2">Bose, Dr. Anima</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">World Poetry: Poetry Asia</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0078-0000</page>
+				<allauthors>
+					<author type="2"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Madhva</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0078-0078</page>
+				<allauthors>
+					<author type="2">Nandakumar, Prema</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Muhammad</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0078-0078</page>
+				<allauthors>
+					<author type="2">Nandakumar, Prema</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sanskrit-Tamil : Sri-Radha-Krishna Pooja Vidhanam</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0078-0079</page>
+				<allauthors>
+					<author type="2">Nandakumar, Prema</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Life and Times of Yesterday's Hero</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0078-0079</page>
+				<allauthors>
+					<author type="2">Nandakumar, Prema</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Marathi : Bhakticha Kalas : Life of Shri Bhausaheb Maharaj Umadikar</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0079-0080</page>
+				<allauthors>
+					<author type="2">Kulkarni, B. R.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="04" date="00" month="00" year="0000" cover="">%raghu, vol - 30, issue 04
+			<entry>
+				<title num=""></title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="05" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="06" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="07" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="08" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="09" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="10" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="11" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="12" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="13" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="14" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="15" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="16" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="17" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="18" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="19" date="00" month="00" year="0000" cover="">
 			<entry>
 				<title num=""></title>
 				<feature>Prayer</feature>
@@ -112879,7 +114819,7 @@ d			<entry>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Ishavasya Upanishad</title>
+				<title num=""></title>
 				<feature></feature>
 				<series></series>
 				<page>0000-0000</page>
@@ -112933,7 +114873,7 @@ d			<entry>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Ishavasya Upanishad</title>
+				<title num=""></title>
 				<feature></feature>
 				<series></series>
 				<page>0000-0000</page>
@@ -112951,7 +114891,7 @@ d			<entry>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Ishavasya Upanishad</title>
+				<title num=""></title>
 				<feature></feature>
 				<series></series>
 				<page>0000-0000</page>
