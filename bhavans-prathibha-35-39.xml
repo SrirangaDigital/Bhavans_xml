@@ -2985,9 +2985,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Symbols of God-The Circle</title>
+				<title num="01">The Circle</title>
 				<feature></feature>
-				<series></series>
+				<series>Symbols of God</series>
 				<page>0030-0032</page>
 				<allauthors>
 					<author type="0">Dhalla, Dr. Viraf Minochar</author>
@@ -4868,19 +4868,19 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="08" date="30" month="11" year="1989" cover="">%%%%%%%%%%% prathibha
+		<part pnum="08" date="30" month="11" year="1989" cover="">
 			<entry>
 				<title num="">Prayer</title>
 				<feature>Prayer</feature>
 				<series></series>
-				<page>00-00</page>
+				<page>0005-0005</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="25">Divine Integrators</title>
+				<title num="25">Madhusudana Saraswati (1525 c. to 1632 A.D.)</title>
 				<feature></feature>
 				<series>Divine Integrators</series>
-				<page>0006-00</page>
+				<page>0006-0007</page>
 				<allauthors>
 					<author type="0">S. R.</author>
 				</allauthors>
@@ -4889,16 +4889,14 @@
 				<title num="">Election In India&#8212;Kanchi Paramacharya on Lessons From Our Historic Past</title>
 				<feature></feature>
 				<series></series>
-				<page>0009-00</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
+				<page>0009-0053</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title num="">Qualification for Legislators</title>
 				<feature></feature>
 				<series></series>
-				<page>0055-00</page>
+				<page>0055-0059</page>
 				<allauthors>
 					<author type="0">Sastri, Rt. Hon. V. S. Srinivasa</author>
 				</allauthors>
@@ -4907,16 +4905,14 @@
 				<title num="">Vidura Neeti&#8212;2</title>
 				<feature></feature>
 				<series></series>
-				<page>0060-00</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
+				<page>0060-0061</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title num="">Satya Bai Baba's Message and Mission</title>
 				<feature></feature>
 				<series></series>
-				<page>0063-00</page>
+				<page>0063-0069</page>
 				<allauthors>
 					<author type="0">Vaswani, Prof. K. N.</author>
 				</allauthors>
@@ -4925,16 +4921,16 @@
 				<title num="">Perception&#8212;Knowledge&#8212;Reality&#8212;3</title>
 				<feature></feature>
 				<series></series>
-				<page>0071-00</page>
+				<page>0071-0075</page>
 				<allauthors>
 					<author type="0">Vaidyanathan, P. P. I.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="16">Architects and Builders of Modern India</title>
+				<title num="16">Dr. M. Visvesvaraya (1861-1962)</title>
 				<feature></feature>
 				<series>Architects and Builders of Modern India</series>
-				<page>0076-00</page>
+				<page>0076-0077</page>
 				<allauthors>
 					<author type="0">S. R.</author>
 				</allauthors>
@@ -4943,7 +4939,7 @@
 				<title num="">Philosophy Through Science&#8212;2</title>
 				<feature></feature>
 				<series></series>
-				<page>0079-00</page>
+				<page>0079-0085</page>
 				<allauthors>
 					<author type="0">Ramakrishnan, Prof. S.</author>
 				</allauthors>
@@ -4952,27 +4948,27 @@
 				<title num="">Understanding One Another&#8212;2</title>
 				<feature></feature>
 				<series></series>
-				<page>0087-00</page>
+				<page>0087-0089</page>
 				<allauthors>
 					<author type="0">Mata, Sri Daya</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Anangaraga Riddles&#8212;1: Why Did Ganesa Laugh and Weep At the Same Time?</title>
+				<title num="01">Why Did Ganesa Laugh and Weep At the Same Time?</title>
 				<feature></feature>
-				<series></series>
-				<page>0090-00</page>
+				<series>Riddles from Anangaraga</series>
+				<page>0090-0091</page>
 				<allauthors>
 					<author type="0">V.S.R.K.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Book Review</title>
+				<title num="">Mata Amritanandamayi's Teachings</title>
 				<feature>Book Review</feature>
 				<series></series>
-				<page>0093-00</page>
+				<page>0093-0095</page>
 				<allauthors>
-					<author type="0">Teachings, Mata Amritanandamayi's</author>
+					<author type="0">V.S.</author>
 				</allauthors>
 			</entry>
 		</part>
@@ -4982,24 +4978,22 @@
 				<feature>Prayer</feature>
 				<series></series>
 				<page>0005-0005</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title num="">Acharya Narendra Dave</title>
 				<feature></feature>
 				<series></series>
-				<page>0006-00</page>
+				<page>0006-0009</page>
 				<allauthors>
 					<author type="0">Patwardhan, Achyut</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="26">Divine Integrators</title>
+				<title num="26">Surdas (1479-1584 A.D.)</title>
 				<feature></feature>
 				<series>Divine Integrators</series>
-				<page>0010-00</page>
+				<page>0010-0011</page>
 				<allauthors>
 					<author type="0">S. R.</author>
 				</allauthors>
@@ -5008,7 +5002,7 @@
 				<title num="">Swami Vidyaranya: A Great Philosopher-Mathematician</title>
 				<feature></feature>
 				<series></series>
-				<page>0012-00</page>
+				<page>0012-0019</page>
 				<allauthors>
 					<author type="0">Gupta, Dr. R. C.</author>
 				</allauthors>
@@ -5017,14 +5011,14 @@
 				<title num="">Vidura Neeti-3</title>
 				<feature></feature>
 				<series></series>
-				<page>0020-00</page>
+				<page>0020-0021</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title num="">Rashbehary Ghose&#8212;The Great Donor</title>
 				<feature></feature>
 				<series></series>
-				<page>0022-00</page>
+				<page>0022-0029</page>
 				<allauthors>
 					<author type="0">Ghosh, Dr. S. N.</author>
 					<author type="0">Ghosh, Atanu</author>
@@ -5034,14 +5028,14 @@
 				<title num="">Reincarnation Can Be Scientifically Proven</title>
 				<feature></feature>
 				<series></series>
-				<page>0031-00</page>
+				<page>0031-0034</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title num="">A. V. Tilak Memorial Essay Competition, 1989 Towards The 21st Century</title>
 				<feature></feature>
 				<series></series>
-				<page>0035-00</page>
+				<page>0035-0041</page>
 				<allauthors>
 					<author type="0">Raj, Miss Vanita Ananda</author>
 				</allauthors>
@@ -5050,7 +5044,7 @@
 				<title num="">Perception&#8212;Knowledge&#8212;Reality&#8212;4</title>
 				<feature></feature>
 				<series></series>
-				<page>0042-00</page>
+				<page>0042-0046</page>
 				<allauthors>
 					<author type="0">Vaidyanathan, P. P. I.</author>
 				</allauthors>
@@ -5059,41 +5053,41 @@
 				<title num="19">The Mahabharata</title>
 				<feature></feature>
 				<series>Mahabharata through Pictures</series>
-				<page>0047-00</page>
+				<page>0047-0050</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Philosophy Through Science&#8212;3</title>
+				<title num="">Philosophy Through Science&#8212;3: Time</title>
 				<feature></feature>
 				<series></series>
-				<page>0051-00</page>
+				<page>0051-0059</page>
 				<allauthors>
 					<author type="0">Ramakrishnan, Prof. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="17">Architects and Builders of Modern India</title>
+				<title num="17">Swami Vivekananda (1863-1902)</title>
 				<feature></feature>
 				<series>Architects and Builders of Modern India</series>
-				<page>0060-00</page>
+				<page>0060-0061</page>
 				<allauthors>
 					<author type="0">S. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="8">The Flower</title>
+				<title num="08">The Flower</title>
 				<feature></feature>
 				<series>The Tree of Yoga</series>
-				<page>0062-00</page>
+				<page>0062-0067</page>
 				<allauthors>
 					<author type="0">Iyengar, Yogacharya B. K. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Riddles from Anangaraga-2: When Weakness is Strength</title>
+				<title num="02">When Weakness is Strength</title>
 				<feature></feature>
-				<series></series>
-				<page>0068-00</page>
+				<series>Riddles from Anangaraga</series>
+				<page>0068-0070</page>
 				<allauthors>
 					<author type="0">V.S.R.K.</author>
 				</allauthors>
@@ -5102,7 +5096,7 @@
 				<title num="">Kalidasa and Shakespeare</title>
 				<feature></feature>
 				<series></series>
-				<page>0071-00</page>
+				<page>0071-0085</page>
 				<allauthors>
 					<author type="0">Anjaneyulu, Dr. D.</author>
 				</allauthors>
@@ -5111,10 +5105,8 @@
 				<title num="">Bhavan's News</title>
 				<feature>Bhavan's News</feature>
 				<series></series>
-				<page>0087-00</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
+				<page>0087-0095</page>
+				<allauthors />
 			</entry>
 		</part>
 		<part pnum="10" date="31" month="12" year="1989" cover="India's Seventh Prime Minister Artist: N. A. Padmashali">
@@ -5122,16 +5114,14 @@
 				<title num="">Prayer</title>
 				<feature>Prayer</feature>
 				<series></series>
-				<page>0005-00</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
+				<page>0005-0005</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title num="">India's Seventh Prime Minister Shri Vishwanath Pratap Singh: Modest But Firm</title>
+				<title num="">India's Seventh Prime Minister: Shri Vishwanath Pratap Singh: Modest But Firm</title>
 				<feature></feature>
 				<series></series>
-				<page>0007-00</page>
+				<page>0007-0014</page>
 				<allauthors>
 					<author type="0">Ramakrishnan, S.</author>
 				</allauthors>
@@ -5140,7 +5130,7 @@
 				<title num="">Astrological Significance of Shri V. P. Singh's Hour of Swearing-in</title>
 				<feature></feature>
 				<series></series>
-				<page>0015-00</page>
+				<page>0015-0017</page>
 				<allauthors>
 					<author type="0">Nambiar, Dr. K. Damodaran</author>
 				</allauthors>
@@ -5149,34 +5139,34 @@
 				<title num="09">The Fruit</title>
 				<feature></feature>
 				<series>The Tree of Yoga</series>
-				<page>0019-00</page>
+				<page>0019-0027</page>
 				<allauthors>
 					<author type="0">Iyengar, Yogacharya B. K. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="27">Divine Integrators</title>
+				<title num="27">Ramprasad (1720-1800 AD)</title>
 				<feature></feature>
 				<series>Divine Integrators</series>
-				<page>0028-00</page>
+				<page>0028-0029</page>
 				<allauthors>
 					<author type="0">S. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title num="">Biography of Dr. Radhakrishnan</title>
-				<feature></feature>
+				<feature>Review Article</feature>
 				<series></series>
-				<page>0031-00</page>
+				<page>0031-0037</page>
 				<allauthors>
 					<author type="0">Anjaneyulu, Dr. D.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Remembering Rambhaben Gandhi</title>
+				<title num="">Remembering Rambhaben Gandhi (1911-1986): Playwright with A passion for Excellence</title>
 				<feature></feature>
 				<series></series>
-				<page>0039-00</page>
+				<page>0039-0046</page>
 				<allauthors>
 					<author type="0">Bhatt, B. P.</author>
 				</allauthors>
@@ -5185,16 +5175,14 @@
 				<title num="20">The Mahabharata</title>
 				<feature></feature>
 				<series>Mahabharata through Pictures</series>
-				<page>0047-00</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
+				<page>0047-0050</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title num="">Vaitarani: The Sacred Teertha</title>
 				<feature></feature>
 				<series></series>
-				<page>0051-00</page>
+				<page>0051-0055</page>
 				<allauthors>
 					<author type="0">Kar, Ramachandra</author>
 				</allauthors>
@@ -5203,25 +5191,21 @@
 				<title num="04">Vidura Neeti</title>
 				<feature></feature>
 				<series>Vidura Neeti</series>
-				<page>0056-00</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
+				<page>0056-0057</page>
+				<allauthors /> 
 			</entry>
 			<entry>
 				<title num="">Reincarnation Can Be Scientifically Proven</title>
 				<feature></feature>
 				<series></series>
-				<page>0059-00</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
+				<page>0059-0061</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title num="18">Architects and Builders of Modern India</title>
+				<title num="18">Sayaji Rao III, The Gaekwad of Baroda (1863-1939)</title>
 				<feature></feature>
 				<series>Architects and Builders of Modern India</series>
-				<page>0062-00</page>
+				<page>0062-0063</page>
 				<allauthors>
 					<author type="0">S. R.</author>
 				</allauthors>
@@ -5230,16 +5214,16 @@
 				<title num="">Icon-Making: A Sacred Art at Swamimalai</title>
 				<feature></feature>
 				<series></series>
-				<page>0065-00</page>
+				<page>0065-0073</page>
 				<allauthors>
 					<author type="0">Swamy, N. V. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Riddles from Anangaraga-3: A Beauty Contest</title>
+				<title num="03">A Beauty Contest</title>
 				<feature></feature>
-				<series></series>
-				<page>0075-00</page>
+				<series>Riddles from Anangaraga</series>
+				<page>0075-0079</page>
 				<allauthors>
 					<author type="0">V.S.R.K.</author>
 				</allauthors>
@@ -5248,337 +5232,1417 @@
 				<title num="">Bhavan's News</title>
 				<feature>Bhavan's News</feature>
 				<series></series>
-				<page>0081-00</page>
+				<page>0081-0096</page>
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="" date="" month="" year="" cover="">
+		<part pnum="11" date="15" month="01" year="1990" cover="The Vice-President signing Bhavan's Visitor Book, as Shri Maneck Dalal, Chairman, and Shri Mathoor Krishnamurti, Executive Director of Bhavan's London Centre, look on.">
 			<entry>
-				<title num=""></title>
+				<title num="">Prayer</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0005-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="28">Vishnuchitta (Perialwar)</title>
+				<feature></feature>
+				<series>Divine Integrators</series>
+				<page>0006-0007</page>
+				<allauthors>
+					<author type="0">S.R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Relevance of Kanchi Paramacharya's Views on Elections</title>
 				<feature></feature>
 				<series></series>
-				<page>00-00</page>
+				<page>0009-0012</page>
+				<allauthors>
+					<author type="0">Ramakrishnan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Dr. Shankar Dayal Sharma Commends Bhavan's work in the U.K.</title>
+				<feature></feature>
+				<series></series>
+				<page>0013-0012</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="19">Asutosh Mookerjee (1864-1924)</title>
+				<feature></feature>
+				<series>Architects and Builders of Modern India</series>
+				<page>0022-0023</page>
+				<allauthors>
+					<author type="0">S.R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="02">The Triangle</title>
+				<feature></feature>
+				<series>Symbols of God</series>
+				<page>0025-0025</page>
+				<allauthors>
+					<author type="0">Dhalla, Dr. Viraf Minocher</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="05">Vidura Neeti</title>
+				<feature></feature>
+				<series>Vidura Neeti</series>
+				<page>0026-0027</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Perception&#8212;Knowledge&#8212;Reality&#8212;5</title>
+				<feature></feature>
+				<series></series>
+				<page>0029-0039</page>
+				<allauthors>
+					<author type="0">Vaidyanathan ICS (Retd.), P. P. I.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Planning Process</title>
+				<feature></feature>
+				<series></series>
+				<page>0040-0045</page>
+				<allauthors>
+					<author type="0">Hegde, Ramakrishna</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="21">The Mahabharata</title>
+				<feature></feature>
+				<series>Mahabharata through Pictures</series>
+				<page>0047-0050</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Economic Vision in our Constitution</title>
+				<feature></feature>
+				<series></series>
+				<page>0051-0065</page>
+				<allauthors>
+					<author type="0">Brahmananda, Prof. P. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Only Way to Happiness</title>
+				<feature></feature>
+				<series></series>
+				<page>0067-0069</page>
+				<allauthors>
+					<author type="0">Mata, Sri Sri Daya</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="04">The Way of the Cowards</title>
+				<feature></feature>
+				<series>Riddles from Anangaraga</series>
+				<page>0070-0073</page>
+				<allauthors>
+					<author type="0">V.S.R.K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
+				<series></series>
+				<page>0074-0088</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">The World of Books</title>
+				<feature>World of Books</feature>
+				<series></series>
+				<page>0089-0095</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="12" date="31" month="01" year="1990" cover="">
+			<entry>
+				<title num="">Prayer</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0005-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Laksha Deepam: Adoration with Hundred Thousand Lights!</title>
+				<feature></feature>
+				<series></series>
+				<page>0007-0009</page>
 				<allauthors>
 					<author type="0"></author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="29">Vipra Narayana (Tondaradippodi Alvar)</title>
+				<feature></feature>
+				<series>Divine Integrators</series>
+				<page>0010-0011</page>
+				<allauthors>
+					<author type="0">S.R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">What Gandhiji Believed in</title>
 				<feature></feature>
 				<series></series>
-				<page>00-00</page>
+				<page>0012-0017</page>
+				<allauthors>
+					<author type="0">Varma, Ravindra</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="06">Vidura Neeti</title>
+				<feature></feature>
+				<series>Vidura Neeti</series>
+				<page>0018-0019</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Shri Bhuvaneshvari Swamigal</title>
+				<feature></feature>
+				<series></series>
+				<page>0021-0023</page>
+				<allauthors>
+					<author type="0">Devotee, A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="20">Lala Lajpat Rai</title>
+				<feature></feature>
+				<series>Architects and Builders of Modern India</series>
+				<page>0024-0025</page>
+				<allauthors>
+					<author type="0">S.R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">On Pavhari Baba</title>
+				<feature></feature>
+				<series></series>
+				<page>0026-0027</page>
+				<allauthors>
+					<author type="0">Sadasivam, T.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A Real Experience: Guruvayoorappan's Grace</title>
+				<feature></feature>
+				<series></series>
+				<page>0029-0029</page>
+				<allauthors>
+					<author type="0">Nair, M. Kuttikrishnan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Mahabharata: Moksha Dharma</title>
+				<feature></feature>
+				<series></series>
+				<page>0031-0031</page>
 				<allauthors>
 					<author type="0"></author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">The Lesson of Mahabharata</title>
 				<feature></feature>
 				<series></series>
-				<page>00-00</page>
+				<page>0033-0035:0075-0075</page>
+				<allauthors>
+					<author type="0">Pillai, J. Sivashanmugam</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="03">Triangle</title>
+				<feature></feature>
+				<series>Symbols of God</series>
+				<page>0036-0037</page>
+				<allauthors>
+					<author type="0">Dhalla, Dr. Viraf Minocher</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Uma Shankar Joshi: The Man I Knew</title>
+				<feature></feature>
+				<series></series>
+				<page>0038-0041:0081-0081</page>
+				<allauthors>
+					<author type="0">Mehta, Dhiru</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">They Only Way to Happiness</title>
+				<feature></feature>
+				<series></series>
+				<page>0043-0045</page>
+				<allauthors>
+					<author type="0">Mata, Sri Daya</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="22">The Mahabharata</title>
+				<feature></feature>
+				<series>Mahabharata through Pictures</series>
+				<page>0047-0050</page>
 				<allauthors>
 					<author type="0"></author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">The Mysterious Yeti-1: Evidence of an ancient humanoid civilization on Mars</title>
 				<feature></feature>
 				<series></series>
-				<page>00-00</page>
+				<page>0051-0063</page>
+				<allauthors>
+					<author type="0">Ashkenazi, Brian Samelovich</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Philosophy through Science-4</title>
+				<feature></feature>
+				<series></series>
+				<page>0065-0069</page>
+				<allauthors>
+					<author type="0">Ramakrishnan, Prof. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Dr. N. V. Krishna Warrier: A Man of Many Parts</title>
+				<feature></feature>
+				<series></series>
+				<page>0071-0075</page>
+				<allauthors>
+					<author type="0">Sharma, Dr. V. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="05">Judgement of the Gods</title>
+				<feature></feature>
+				<series>Riddles from Anangaraga</series>
+				<page>0077-0081</page>
+				<allauthors>
+					<author type="0">V.S.R.K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
+				<series></series>
+				<page>0083-0095</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="13" date="15" month="02" year="1990" cover="">
+			<entry>
+				<title num="">Prayer</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0005-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="30">Tiruppan Alvar</title>
+				<feature></feature>
+				<series>Divine Integrators</series>
+				<page>0006-0007</page>
+				<allauthors>
+					<author type="0">S.R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Homage to a Great Gandhian-Karmayogi R.R. Diwakar</title>
+				<feature></feature>
+				<series></series>
+				<page>0008-0020</page>
+				<allauthors>
+					<author type="0">Ramakrishnan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Shri R.R. Diwakar: A True Gandhian in Word and Deed</title>
+				<feature></feature>
+				<series></series>
+				<page>0023-0029</page>
+				<allauthors>
+					<author type="0">Bajaj, Ramkrishna</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="04">Triangle</title>
+				<feature></feature>
+				<series>Symbols of God</series>
+				<page>0031-0031</page>
+				<allauthors>
+					<author type="0">Dhall, Dr. Viraf Minocher</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Trade Union Tactics Not For Volunteers</title>
+				<feature></feature>
+				<series></series>
+				<page>0033-0035</page>
+				<allauthors>
+					<author type="0">Diwakar, R. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="21">Gopal Krishna Gokhale (1866-1915)</title>
+				<feature></feature>
+				<series>Architects and Builders of Modern India</series>
+				<page>0036-0037</page>
+				<allauthors>
+					<author type="0">S.R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Small is Great (Poem)</title>
+				<feature></feature>
+				<series></series>
+				<page>0039-0039</page>
+				<allauthors>
+					<author type="0">K.S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Mehr Chand Mahajan: A Great Judge</title>
+				<feature>A Tribute</feature>
+				<series></series>
+				<page>0041-0046</page>
+				<allauthors>
+					<author type="0">Palkhivala, Nani A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="23">The Mahabharata</title>
+				<feature></feature>
+				<series>Mahabharata through Pictures</series>
+				<page>0047-0050</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">A Devout Nationalist H.H. Jagadguru Bharati Krishna Teertha</title>
+				<feature></feature>
+				<series></series>
+				<page>0051-0055</page>
+				<allauthors>
+					<author type="0">Pande, Dr. T. G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="07">Vidura Neeti</title>
+				<feature></feature>
+				<series>Vidura Neeti</series>
+				<page>0056-0057</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Prominent Rishis and Munis of Vedic Age</title>
+				<feature></feature>
+				<series></series>
+				<page>0059-0071</page>
+				<allauthors>
+					<author type="0">Jois, Ms. Swaroop P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="06">The Repentant Heart</title>
+				<feature></feature>
+				<series>Riddles from Anangaraga</series>
+				<page>0073-0077</page>
+				<allauthors>
+					<author type="0">V.S.R.K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
+				<series></series>
+				<page>0079-0094</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="14" date="28" month="02" year="1990" cover="Kerala Gandhi Kelappan, Inset: The Siva Temple at Vaikom. Artist: Padmashali.">
+			<entry>
+				<title num="">Prayer</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0005-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="31">Bhaktisara</title>
+				<feature></feature>
+				<series>Divine Integrators</series>
+				<page>0006-0007</page>
+				<allauthors>
+					<author type="0">S.R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Kelappan, the Gandhian Leader of Kerala</title>
+				<feature></feature>
+				<series></series>
+				<page>0009-0017</page>
+				<allauthors>
+					<author type="0">Moosad, Prof. C.K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Norms for Choice of Governors</title>
+				<feature></feature>
+				<series></series>
+				<page>0019-0029</page>
+				<allauthors>
+					<author type="0">Subramaniam, C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="22">Mohandas Karamchand Gandhi (1869-1948)</title>
+				<feature></feature>
+				<series>Architects and Builders of Modern India</series>
+				<page>0030-0031</page>
+				<allauthors>
+					<author type="0">S.R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A Sivaratri Feature: Twelve Jyotirlingas</title>
+				<feature></feature>
+				<series></series>
+				<page>0032-0045</page>
+				<allauthors>
+					<author type="0">Sivaramakrishnan, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="24">The Mahabharata</title>
+				<feature></feature>
+				<series>Mahabharata through Pictures</series>
+				<page>0047-0050</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">The Sage of Dakshineshwar&#8212;The Witness of the Motherhood of God</title>
+				<feature></feature>
+				<series></series>
+				<page>0051-0059</page>
+				<allauthors>
+					<author type="0">Navaratnam, Ratna Ma</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="08">Vidura Neeti</title>
+				<feature></feature>
+				<series>Vidura Neeti</series>
+				<page>0060-0061</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Dakshinamurti Stotra: Advaita in Essence</title>
+				<feature>Review Article</feature>
+				<series></series>
+				<page>0063-0073</page>
+				<allauthors>
+					<author type="0">Mukhyananda, Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="07">Who Deceived Whom?</title>
+				<feature></feature>
+				<series>Riddles from Anangaraga</series>
+				<page>0076-0079</page>
+				<allauthors>
+					<author type="0">V.S.R.K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bhavan's Books</title>
+				<feature>Bhavan's Books</feature>
+				<series></series>
+				<page>0080-0081</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">`Mantrapushpam' - A Book of Hymns</title>
+				<feature>World of Books</feature>
+				<series></series>
+				<page>0082-0086</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
+				<series></series>
+				<page>0087-0096</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="15" date="15" month="03" year="1990" cover="Nelson and Winnie Mandela Artist: N.A. Padmashali">
+			<entry>
+				<title num="">Prayer</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0005-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="32">Madhurakavi</title>
+				<feature></feature>
+				<series>Divine Integrators</series>
+				<page>0006-0007</page>
+				<allauthors>
+					<author type="0">S.R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Kanchi Paramacharya's Views of Elections</title>
+				<feature></feature>
+				<series></series>
+				<page>0009-0011</page>
+				<allauthors>
+					<author type="0">Deshpande, Justice V. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="23">Mahayogi Sri Aurobindo (Ghose) (1872-1950)</title>
+				<feature></feature>
+				<series>Architects and Builders of Modern India</series>
+				<page>0012-0013</page>
+				<allauthors>
+					<author type="0">S.R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="05">Triangle: Combinations</title>
+				<feature></feature>
+				<series>Symbols of God</series>
+				<page>0015-0015</page>
+				<allauthors>
+					<author type="0">Dhalla, Dr. Viraf Minocher</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Nelson Mandela</title>
+				<feature></feature>
+				<series></series>
+				<page>0017-0021</page>
+				<allauthors>
+					<author type="0">Ramakrishnan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Vidura Neeti</title>
+				<feature></feature>
+				<series>Vidura Neeti</series>
+				<page>0022-0023</page>
 				<allauthors>
 					<author type="0"></author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">The Lessons of Mahabharata</title>
 				<feature></feature>
 				<series></series>
-				<page>00-00</page>
+				<page>0024-0027</page>
+				<allauthors>
+					<author type="0">Radhakrishnan, Dr. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Vaikunthbhai Mehta, the Self-effacing Co-operator</title>
+				<feature></feature>
+				<series></series>
+				<page>0028-0035</page>
+				<allauthors>
+					<author type="0">Mehta, Dhiru</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Divine Art of Making Friends</title>
+				<feature></feature>
+				<series></series>
+				<page>0037-0039</page>
+				<allauthors>
+					<author type="0">Yogananda, Paramahansa</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Men and Institutions-1</title>
+				<feature></feature>
+				<series></series>
+				<page>0040-0045</page>
+				<allauthors>
+					<author type="0">Ananda</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Mahabharata</title>
+				<feature></feature>
+				<series>Mahabharata through Pictures</series>
+				<page>0047-0050</page>
 				<allauthors>
 					<author type="0"></author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="01">Facts About Kashmir</title>
 				<feature></feature>
-				<series></series>
-				<page>00-00</page>
+				<series>Facts About Kashmir</series>
+				<page>0051-0063</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Sivaramakrishnan, V.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">The Mysterious Yeti-II: Who Was The Minnesota Iceman?</title>
 				<feature></feature>
 				<series></series>
-				<page>00-00</page>
+				<page>0065-0077</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Ashkenazi, Brian Samelovich</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="08">The Elusive City</title>
 				<feature></feature>
-				<series></series>
-				<page>00-00</page>
+				<series>Riddles from Anangaraga</series>
+				<page>0081-0086</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">V.S.R.K.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
-				<feature></feature>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
 				<series></series>
-				<page>00-00</page>
+				<page>0087-0095</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="16" date="31" month="03" year="1990" cover="(L to R) Smt. Janaki Nandakumara, Dr. Nandakumara, Shri Mathoor Krishnamoorti, Sir Geoffrey Howe.">
+			<entry>
+				<title num="">Prayer</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0005-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="33">Mahadevi Akka</title>
+				<feature></feature>
+				<series>Divine Integrators</series>
+				<page>0006-0007</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">S. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">A Letter From the President</title>
 				<feature></feature>
 				<series></series>
-				<page>00-00</page>
+				<page>0009-0016</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Subramaniam, C.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="24">Sardar Vallabhbhai Patel (1875-1950)</title>
 				<feature></feature>
-				<series></series>
-				<page>00-00</page>
+				<series>Architects and Builders of Modern India</series>
+				<page>0022-0023</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">S. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">`India is On The Move'-Britain's</title>
 				<feature></feature>
 				<series></series>
-				<page>00-00</page>
+				<page>0024-0033</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Tribute, Dy. P. M's</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="06">Triangle</title>
 				<feature></feature>
-				<series></series>
-				<page>00-00</page>
+				<series>Symbols of God</series>
+				<page>0034-0035</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Dhalla, Dr. Viraf Minocher</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">Vidura Neeti</title>
+				<feature></feature>
+				<series>Vidura Neeti</series>
+				<page>0036-0037</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Role of Parsis in India-Their Problems and Contribution</title>
 				<feature></feature>
 				<series></series>
-				<page>00-00</page>
+				<page>0039-0045</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Taleyarkhan, Homi J. H.</author>
+				</allauthors>
+			</entry>
+ 			<entry>
+				<title num="26">The Mahabharata</title>
+				<feature></feature>
+				<series>Mahabharata through Picutres</series>
+				<page>0047-0050</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="02">U. N. Efforts Towards A Cease-fire</title>
+				<feature></feature>
+				<series>Facts About Kashmir</series>
+				<page>0051-0057</page>
+				<allauthors>
+					<author type="0">Sivaramakrishnan, V.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">Men and Institutions-2</title>
 				<feature></feature>
 				<series></series>
-				<page>00-00</page>
+				<page>0059-0069</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Ananda</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">The Divine Art of Making Friends</title>
 				<feature></feature>
 				<series></series>
-				<page>00-00</page>
+				<page>0071-0074</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Yogananda, Paramahansa</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">Kakasaheb Karkhanis - A Synthesis of Gandhism and Tilakism</title>
 				<feature></feature>
 				<series></series>
-				<page>00-00</page>
+				<page>0075-0081</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Kulkarni, Prof. B. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="09">Sighing for What you Don't Have</title>
 				<feature></feature>
-				<series></series>
-				<page>00-00</page>
+				<series>Riddles from Anangaraga</series>
+				<page>0083-0089</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">V.S.R.K.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="76">The Respiratory System in Health and Disease</title>
 				<feature></feature>
-				<series></series>
-				<page>00-00</page>
+				<series>Your Health</series>
+				<page>0091-0096</page>
 				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>00-00</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>00-00</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>00-00</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>00-00</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>00-00</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>00-00</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>00-00</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>00-00</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>00-00</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>00-00</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>00-00</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>00-00</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>00-00</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>00-00</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>00-00</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>00-00</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>00-00</page>
-				<allauthors>
-					<author type="0"></author>
+					<author type="0">Narayanan, Dr. K.</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="" date="" month="" year="" cover="">
+		<part pnum="17" date="15" month="04" year="1990" cover="Sri Rama Pattabhisheka">
+			<entry>
+				<title num="">Prayer</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0005-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="34">Tirumangai Alvar</title>
+				<feature></feature>
+				<series>Divine Integrators</series>
+				<page>0006-0007</page>
+				<allauthors>
+					<author type="0">S.R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A Letter From The President</title>
+				<feature></feature>
+				<series></series>
+				<page>0008-0013</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="25">Sarojini Naidu (1879-1949)</title>
+				<feature></feature>
+				<series>Architects and Builders of Modern India</series>
+				<page>0014-0015</page>
+				<allauthors>
+					<author type="0">S.R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Shri Kashinath Samsthan: Shishya Sweekar Ceremony</title>
+				<feature></feature>
+				<series></series>
+				<page>0017-0019</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Vidura Neeti</title>
+				<feature></feature>
+				<series>Vidura Neeti</series>
+				<page>0020-0021</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Nature of Bharata's Surrender</title>
+				<feature></feature>
+				<series></series>
+				<page>0022-0030</page>
+				<allauthors>
+					<author type="0">Ramanujananda, Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sri Rama and Sri Krishna</title>
+				<feature></feature>
+				<series></series>
+				<page>0031-0037</page>
+				<allauthors>
+					<author type="0">Chettiar, R. Narayanan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Vibheeshana (Poem)</title>
+				<feature></feature>
+				<series></series>
+				<page>0038-0039</page>
+				<allauthors>
+					<author type="0">Ananthakrishnan, Dr. Janaki</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">G.D. Birla, the Sage Among Businessmen</title>
+				<feature></feature>
+				<series></series>
+				<page>0040-0045</page>
+				<allauthors>
+					<author type="0">Ramanujam, K. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="27">The Mahabharata</title>
+				<feature></feature>
+				<series>Mahabharata through Pictures</series>
+				<page>0047-0050</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="03">The U.N. Intervention</title>
+				<feature></feature>
+				<series>Facts About Kashmir</series>
+				<page>0051-0057</page>
+				<allauthors>
+					<author type="0">Sivaramakrishnan, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Vinoba, the Rishi of the Gandhian Era</title>
+				<feature></feature>
+				<series></series>
+				<page>0058-0069</page>
+				<allauthors>
+					<author type="0">Mehta, Dhiru</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Men and Institutions-3</title>
+				<feature></feature>
+				<series></series>
+				<page>0071-0076</page>
+				<allauthors>
+					<author type="0">Ananda</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="10">Who is the Stronger One-Kāla or Kāma?</title>
+				<feature></feature>
+				<series>Riddles from Anangaraga</series>
+				<page>0077-0081</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
+				<series></series>
+				<page>0083-0091</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">The World of Books</title>
+				<feature>World of Books</feature>
+				<series></series>
+				<page>0093-0096</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="18" date="30" month="04" year="1990" cover="Artist-N.A. Padmashali">
+			<entry>
+				<title num="">Prayer</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0005-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="35">Dadu</title>
+				<feature></feature>
+				<series>Divine Integrators</series>
+				<page>0006-0007</page>
+				<allauthors>
+					<author type="0">S.R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A Letter From The President</title>
+				<feature></feature>
+				<series></series>
+				<page>0008-0015</page>
+				<allauthors>
+					<author type="0">Subramaniam, C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Maniben Patel: The Doughty Daughter of a Dauntless Warrior of Freedom</title>
+				<feature></feature>
+				<series></series>
+				<page>0016-0025</page>
+				<allauthors>
+					<author type="0">Ramakrishnan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A Self-effacing Life - Some Vignettes</title>
+				<feature></feature>
+				<series></series>
+				<page>0026-0027</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="26">Chakravarty Rajagopalachari (Rajaji) (1878-1972)</title>
+				<feature></feature>
+				<series>Architects and Builders of Modern India</series>
+				<page>0028-0029</page>
+				<allauthors>
+					<author type="0">S.R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bharat Ratna B.R. Ambedker</title>
+				<feature></feature>
+				<series></series>
+				<page>0031-0031</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">`India Immortal'</title>
+				<feature></feature>
+				<series></series>
+				<page>0032-0033</page>
+				<allauthors>
+					<author type="0">S.R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Advaita as The Culmination of Mathematics</title>
+				<feature></feature>
+				<series></series>
+				<page>0035-0037</page>
+				<allauthors>
+					<author type="0">Ramamurti, S. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Life of Sri Ramanujacharya</title>
+				<feature></feature>
+				<series></series>
+				<page>0038-0046</page>
+				<allauthors>
+					<author type="0">Raghurajan, Dr. (Smt.) Shanta</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="28">The Mahabharata</title>
+				<feature></feature>
+				<series>Mahabharata through Pictures</series>
+				<page>0047-0050</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="04">Sheikh Abdullah's Volte-face</title>
+				<feature></feature>
+				<series>Facts About Kashmir</series>
+				<page>0051-0059</page>
+				<allauthors>
+					<author type="0">V.S.R.K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Vidura Neeti</title>
+				<feature></feature>
+				<series>Vidura Neeti</series>
+				<page>0060-0061</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Men and Institutions-4</title>
+				<feature></feature>
+				<series></series>
+				<page>0063-0067</page>
+				<allauthors>
+					<author type="0">Ananda</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Oriental Romantic Tales: Madhupamanjari</title>
+				<feature></feature>
+				<series></series>
+				<page>0068-0073</page>
+				<allauthors>
+					<author type="0">V.S.R.K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
+				<series></series>
+				<page>0075-0095</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="19" date="15" month="05" year="1990" cover="Shikhara of Parvati Temple, Pune.">
+			<entry>
+				<title num="">Prayer</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0005-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="36">Divine Integrators</title>
+				<feature></feature>
+				<series>Divine Integrators</series>
+				<page>0006-00</page>
+				<allauthors>
+					<author type="0">S.R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A Letter from the President</title>
+				<feature></feature>
+				<series></series>
+				<page>0009-00</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Maniben Patel: Some Personal Reminiscences</title>
+				<feature></feature>
+				<series></series>
+				<page>0014-00</page>
+				<allauthors>
+					<author type="0">Ramakrishnan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="27">Architects and Buiulders of Modern India</title>
+				<feature></feature>
+				<series></series>
+				<page>0024-00</page>
+				<allauthors>
+					<author type="0">S.R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Empty Heart (Poem)</title>
+				<feature></feature>
+				<series></series>
+				<page>0025-00</page>
+				<allauthors>
+					<author type="0">Swaminathan, Prof. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Light</title>
+				<feature></feature>
+				<series>Symbols of God</series>
+				<page>0026-00</page>
+				<allauthors>
+					<author type="0">Dhalla, Dr. V. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Vidura Neeti</title>
+				<feature></feature>
+				<series>Vidura Neeti</series>
+				<page>0028-00</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Budget of A Honest Humanist</title>
+				<feature></feature>
+				<series></series>
+				<page>0030-00</page>
+				<allauthors>
+					<author type="0">Palkhivala, N. A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">C.R. Narasimhan: A Life of Dedication and Sacrifice</title>
+				<feature></feature>
+				<series></series>
+				<page>0035-00</page>
+				<allauthors>
+					<author type="0">Vedamurthy, K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Yoga in Perspective</title>
+				<feature></feature>
+				<series></series>
+				<page>0038-00</page>
+				<allauthors>
+					<author type="0">Sharma, S. L. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="05">War Cries from without and Divided Counsel from within</title>
+				<feature></feature>
+				<series>Facts about Kashmir</series>
+				<page>0040-00</page>
+				<allauthors>
+					<author type="0">Sivaramakrishnan, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="29">The Mahabharata</title>
+				<feature></feature>
+				<series>Mahabharata through Pictures</series>
+				<page>0047-00</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Oriental Romantic Tales-2: Madhupamanjari-The Tale of the Bamboo Leaf</title>
+				<feature></feature>
+				<series></series>
+				<page>0051-00</page>
+				<allauthors>
+					<author type="0">V.S.R.K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Gita the Nectar of Life</title>
+				<feature></feature>
+				<series></series>
+				<page>0055-00</page>
+				<allauthors>
+					<author type="0">Trivedi, R. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Men and Institutions-5</title>
+				<feature></feature>
+				<series></series>
+				<page>0059-00</page>
+				<allauthors>
+					<author type="0">Ananda</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Mysterious Yeti-III: The Yeti and the UFO</title>
+				<feature></feature>
+				<series></series>
+				<page>0070-00</page>
+				<allauthors>
+					<author type="0">Ashkenazi, B.S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The World of Books</title>
+				<feature>World of Books</feature>
+				<series></series>
+				<page>0092-00</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="20" date="31" month="05" year="1990" cover="Mysore Vasudevacharya">
+			<entry>
+				<title num="">Prayer</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0005-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="37">Divine Integrators</title>
+				<feature></feature>
+				<series>Divine Integrators</series>
+				<page>0006-00</page>
+				<allauthors>
+					<author type="0">S.R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A Letter from the President</title>
+				<feature></feature>
+				<series></series>
+				<page>0008-00</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's Role in Resuscitating Indian Culture</title>
+				<feature></feature>
+				<series></series>
+				<page>0017-00</page>
+				<allauthors>
+					<author type="0">Upendra, P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="28">Architects and Builders of Modern India</title>
+				<feature></feature>
+				<series>Architects and Builders of Modern India</series>
+				<page>0022-00</page>
+				<allauthors>
+					<author type="0">S.R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Mysore K. Vasudevacharya</title>
+				<feature></feature>
+				<series></series>
+				<page>0024-00</page>
+				<allauthors>
+					<author type="0">Gundappa, Dr. D. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Vidura Neeti</title>
+				<feature></feature>
+				<series>Vidura Neeti</series>
+				<page>0028-00</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Know Thyself</title>
+				<feature></feature>
+				<series></series>
+				<page>0030-00</page>
+				<allauthors>
+					<author type="0">Mandelia, D.P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Jawaharlal Nehru's Outlook on Science and Philosophy</title>
+				<feature></feature>
+				<series></series>
+				<page>0037-00</page>
+				<allauthors>
+					<author type="0">Swamy, Dr. K.V.N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="06">Vital Role of Delegation</title>%%%%%%%%%
+				<feature></feature>
+				<series>Men and Institutions</series>
+				<page>0040-00</page>
+				<allauthors>
+					<author type="0">Ananda</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="30">The Mahabharata</title>
+				<feature></feature>
+				<series>Mahabharata throught Pictures</series>
+				<page>0046-00</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Moral Education-1</title>
+				<feature></feature>
+				<series></series>
+				<page>0051-00</page>
+				<allauthors>
+					<author type="0">Lodha, Kalyan Mal</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Heaven Lies Within</title>
+				<feature></feature>
+				<series></series>
+				<page>0063-00</page>
+				<allauthors>
+					<author type="0">Mata, Sri Sri Daya</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Facts About Kashmir-6</title>
+				<feature></feature>
+				<series></series>
+				<page>0066-00</page>
+				<allauthors>
+					<author type="0">Sivaramakrishnan, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Oriental Romantic Tales-3 Madhupamanjari: The Faith of a Princess</title>
+				<feature></feature>
+				<series></series>
+				<page>0073-00</page>
+				<allauthors>
+					<author type="0">V.S.R.K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Gita in Practice The Ultimate in Balanced and Peaceful Living</title>
+				<feature></feature>
+				<series></series>
+				<page>0077-00</page>
+				<allauthors>
+					<author type="0">Gupta, Badlu Ram</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The World of Books</title>
+				<feature>World of Books</feature>
+				<series></series>
+				<page>0081-00</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
+				<series></series>
+				<page>0087-00</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="" date="" month="" year="" cover="">%%%%%%%%%%%%% 
 			<entry>
 				<title num=""></title>
 				<feature></feature>
@@ -5588,8 +6652,6 @@
 					<author type="0"></author>
 				</allauthors>
 			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
 			<entry>
 				<title num=""></title>
 				<feature></feature>
@@ -5599,8 +6661,6 @@
 					<author type="0"></author>
 				</allauthors>
 			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
 			<entry>
 				<title num=""></title>
 				<feature></feature>
@@ -5610,8 +6670,6 @@
 					<author type="0"></author>
 				</allauthors>
 			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
 			<entry>
 				<title num=""></title>
 				<feature></feature>
@@ -5621,8 +6679,6 @@
 					<author type="0"></author>
 				</allauthors>
 			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
 			<entry>
 				<title num=""></title>
 				<feature></feature>
@@ -5632,8 +6688,6 @@
 					<author type="0"></author>
 				</allauthors>
 			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
 			<entry>
 				<title num=""></title>
 				<feature></feature>
@@ -5643,30 +6697,6 @@
 					<author type="0"></author>
 				</allauthors>
 			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>00-00</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>00-00</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
 			<entry>
 				<title num=""></title>
 				<feature></feature>
