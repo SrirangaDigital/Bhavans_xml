@@ -163,9 +163,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">How I came to Treat JP</title>
+				<title num="01">How I came to Treat JP</title>
 				<feature></feature>
-				<series></series>
+				<series>How I came to Treat JP</series>
 				<page>0135-0145</page>
 				<allauthors>
 					<author type="0">Mani, Dr. M. K.</author>
@@ -240,7 +240,7 @@
 				<series></series>
 				<page>0205-0213</page>
 				<allauthors>
-					<author type="0">V. S. R. K.</author>
+					<author type="0">V.S.R.K.</author>
 				</allauthors>
 			</entry>
 		</part>
@@ -328,7 +328,7 @@
 				<series></series>
 				<page>0087-0095</page>
 				<allauthors>
-					<author type="0">V. S. R. K.</author>
+					<author type="0">V.S.R.K.</author>
 				</allauthors>
 			</entry>
 		</part>
@@ -468,13 +468,13 @@
 				<series></series>
 				<page>0075-0080</page>
 				<allauthors>
-					<author type="0">V. S. R. K.</author>
+					<author type="0">V.S.R.K.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">How I came to Treat JP &#8212; 2</title>
+				<title num="02">How I came to Treat JP</title>
 				<feature></feature>
-				<series></series>
+				<series>How I came to Treat JP</series>
 				<page>0081-0087</page>
 				<allauthors>
 					<author type="0">Mani, Dr. M. K.</author>
@@ -624,7 +624,7 @@
 				<series></series>
 				<page>0076-0081</page>
 				<allauthors>
-					<author type="0">V. S. R. K.</author>
+					<author type="0">V.S.R.K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -767,7 +767,7 @@
 				<series></series>
 				<page>0072-0079</page>
 				<allauthors>
-					<author type="0">V. S. R. K.</author>
+					<author type="0">V.S.R.K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -871,7 +871,7 @@
 				<series></series>
 				<page>0036-0043</page>
 				<allauthors>
-					<author type="0">V. S. R. K.</author>
+					<author type="0">V.S.R.K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -894,9 +894,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="19">We, The Bankers</title>
+				<title num="19">We, the Bankers</title>
 				<feature></feature>
-				<series>We, The Bankers</series>
+				<series>We, the Bankers</series>
 				<page>0064-0074</page>
 				<allauthors>
 					<author type="0">Mallya, K. G.</author>
@@ -1051,7 +1051,7 @@
 			</entry>
 			<entry>
 				<title num="">A Centenary Tribute</title>
-				<feature></feature>
+				<feature>A Tribute</feature>
 				<series></series>
 				<page>0087-0099</page>
 				<allauthors>
@@ -1065,7 +1065,7 @@
 				<series></series>
 				<page>0101-0109</page>
 				<allauthors>
-					<author type="0">V. S. R. K.</author>
+					<author type="0">V.S.R.K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1285,7 +1285,7 @@
 				<series></series>
 				<page>0075-0081</page>
 				<allauthors>
-					<author type="0">V. S. R. K.</author>
+					<author type="0">V.S.R.K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1361,7 +1361,7 @@
 				<series></series>
 				<page>0038-0046</page>
 				<allauthors>
-					<author type="0">V. S. R. K.</author>
+					<author type="0">V.S.R.K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1527,7 +1527,7 @@
 				<series></series>
 				<page>0038-0046</page>
 				<allauthors>
-					<author type="0">V. S. R. K.</author>
+					<author type="0">V.S.R.K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1698,7 +1698,7 @@
 				<series></series>
 				<page>0065-0074</page>
 				<allauthors>
-					<author type="0">V. S. R. K.</author>
+					<author type="0">V.S.R.K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1812,7 +1812,7 @@
 				<series></series>
 				<page>0063-0072</page>
 				<allauthors>
-					<author type="0">V. S. R. K.</author>
+					<author type="0">V.S.R.K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1835,7 +1835,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="21">We the Bankers</title>
+				<title num="21">We, the Bankers</title>
 				<feature></feature>
 				<series>We, the Bankers</series>
 				<page>0091-0095</page>
@@ -1951,7 +1951,7 @@
 				<series></series>
 				<page>0070-0076</page>
 				<allauthors>
-					<author type="0">V. S. R. K.</author>
+					<author type="0">V.S.R.K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2049,7 +2049,7 @@
 				<series></series>
 				<page>0053-0057</page>
 				<allauthors>
-					<author type="0">V. S. R. K.</author>
+					<author type="0">V.S.R.K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2120,7 +2120,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Muthuswamy Dikshitar</title>
+				<title num="08">Muthuswamy Dikshitar</title>
 				<feature></feature>
 				<series>Divine Integrators</series>
 				<page>0010-0011</page>
@@ -2200,7 +2200,7 @@
 				<series></series>
 				<page>0074-0081</page>
 				<allauthors>
-					<author type="0">V. S. R. K.</author>
+					<author type="0">V.S.R.K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2337,7 +2337,7 @@
 				<series></series>
 				<page>0067-0075</page>
 				<allauthors>
-					<author type="0">V. S. R. K.</author>
+					<author type="0">V.S.R.K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2409,7 +2409,7 @@
 				<series></series>
 				<page>0018-0021</page>
 				<allauthors>
-					<author type="0">V. S. R. K.</author>
+					<author type="0">V.S.R.K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2567,7 +2567,7 @@
 				<series></series>
 				<page>0035-0039</page>
 				<allauthors>
-					<author type="0">V. S. R. K.</author>
+					<author type="0">V.S.R.K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2712,7 +2712,7 @@
 				<page>0038-0043</page>
 				<allauthors>
 					<author type="0">Iyer, B. R. Rajam</author>
-					<author type="0">V. S. R. K.</author>
+					<author type="0">V.S.R.K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2865,7 +2865,6 @@
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
-			
 			<entry>
 				<title num="">The Tathagata - A Profile</title>
 				<feature></feature>
@@ -2908,7 +2907,7 @@
 				<series></series>
 				<page>0076-0081</page>
 				<allauthors>
-					<author type="0">V. S. R. K.</author>
+					<author type="0">V.S.R.K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3924,7 +3923,7 @@
 				<series></series>
 				<page>0060-0063</page>
 				<allauthors>
-					<author type="0">V. S. R. K.</author>
+					<author type="0">V.S.R.K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4272,7 +4271,7 @@
 				<series></series>
 				<page>0057-0064</page>
 				<allauthors>
-					<author type="0">V. S. R. K.</author>
+					<author type="0">V.S.R.K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4458,7 +4457,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Vidura Neeti</title>
+				<title num="37">Vidura Neeti</title>
 				<feature></feature>
 				<series></series>
 				<page>0011-0011</page>
@@ -4765,7 +4764,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Vidura Neeti</title>
+				<title num="01">Vidura Neeti</title>
 				<feature></feature>
 				<series>Vidura Neeti</series>
 				<page>0030-0031</page>
@@ -4902,9 +4901,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Vidura Neeti&#8212;2</title>
+				<title num="02">Vidura Neeti</title>
 				<feature></feature>
-				<series></series>
+				<series>Vidura Neeti</series>
 				<page>0060-0061</page>
 				<allauthors />
 			</entry>
@@ -5008,9 +5007,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Vidura Neeti-3</title>
+				<title num="03">Vidura Neeti</title>
 				<feature></feature>
-				<series></series>
+				<series>Vidura Neeti</series>
 				<page>0020-0021</page>
 				<allauthors />
 			</entry>
@@ -5836,7 +5835,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Vidura Neeti</title>
+				<title num="09">Vidura Neeti</title>
 				<feature></feature>
 				<series>Vidura Neeti</series>
 				<page>0022-0023</page>
@@ -5885,9 +5884,7 @@
 				<feature></feature>
 				<series>Mahabharata through Pictures</series>
 				<page>0047-0050</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title num="01">Facts About Kashmir</title>
@@ -5978,7 +5975,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Vidura Neeti</title>
+				<title num="10">Vidura Neeti</title>
 				<feature></feature>
 				<series>Vidura Neeti</series>
 				<page>0036-0037</page>
@@ -6077,7 +6074,9 @@
 				<feature>A Letter from the President</feature>
 				<series></series>
 				<page>0008-0013</page>
-				<allauthors />
+				<allauthors>
+					<author type="0">Subramaniam, C.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title num="25">Sarojini Naidu (1879-1949)</title>
@@ -6096,7 +6095,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Vidura Neeti</title>
+				<title num="11">Vidura Neeti</title>
 				<feature></feature>
 				<series>Vidura Neeti</series>
 				<page>0020-0021</page>
@@ -6145,9 +6144,7 @@
 				<feature></feature>
 				<series>Mahabharata through Pictures</series>
 				<page>0047-0050</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title num="03">The U.N. Intervention</title>
@@ -6302,7 +6299,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Vidura Neeti</title>
+				<title num="12">Vidura Neeti</title>
 				<feature></feature>
 				<series>Vidura Neeti</series>
 				<page>0060-0061</page>
@@ -6356,7 +6353,9 @@
 				<feature>A Letter from the President</feature>
 				<series></series>
 				<page>0009-0013</page>
-				<allauthors />
+				<allauthors>
+					<author type="0">Subramaniam, C.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title num="">Maniben Patel: Some Personal Reminiscences</title>
@@ -6377,7 +6376,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Light-1</title>
+				<title num="07">Light-1</title>
 				<feature></feature>
 				<series>Symbols of God</series>
 				<page>0026-0027</page>
@@ -6386,7 +6385,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Vidura Neeti</title>
+				<title num="13">Vidura Neeti</title>
 				<feature></feature>
 				<series>Vidura Neeti</series>
 				<page>0028-0029</page>
@@ -6501,7 +6500,9 @@
 				<feature>A Letter from the President</feature>
 				<series></series>
 				<page>0008-0015</page>
-				<allauthors />
+				<allauthors>
+					<author type="0">Subramaniam, C.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title num="">Bhavan's Role in Resuscitating Indian Culture</title>
@@ -6531,7 +6532,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Vidura Neeti</title>
+				<title num="14">Vidura Neeti</title>
 				<feature></feature>
 				<series>Vidura Neeti</series>
 				<page>0028-0029</page>
@@ -6592,9 +6593,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Facts About Kashmir-6</title>
+				<title num="06">Facts About Kashmir</title>
 				<feature></feature>
-				<series></series>
+				<series>Facts About Kashmir</series>
 				<page>0066-0072</page>
 				<allauthors>
 					<author type="0">Sivaramakrishnan, V.</author>
@@ -6678,7 +6679,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Vidura Neeti</title>
+				<title num="15">Vidura Neeti</title>
 				<feature></feature>
 				<series>Vidura Neeti</series>
 				<page>0024-0024</page>
@@ -6737,9 +6738,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Facts About Kashmir-6</title>
+				<title num="07">Facts About Kashmir</title>
 				<feature></feature>
-				<series></series>
+				<series>Facts About Kashmir</series>
 				<page>0069-0076</page>
 				<allauthors>
 					<author type="0">Sivaramakrishnan, V.</author>
@@ -6777,7 +6778,7 @@
 			</entry>
 			<entry>
 				<title num="">A Letter from the President Sant Jnaneshwar</title>
-				<feature></feature>
+				<feature>A Letter from the President</feature>
 				<series></series>
 				<page>0008-0011</page>
 				<allauthors>
@@ -6819,7 +6820,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Vidura Neeti</title>
+				<title num="16">Vidura Neeti</title>
 				<feature></feature>
 				<series>Vidura Neeti</series>
 				<page>0034-0035</page>
@@ -6946,7 +6947,7 @@
 				<series></series>
 				<page>0010-0015</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Subramaniam, C.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -6968,7 +6969,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Vidura Neeti</title>
+				<title num="17">Vidura Neeti</title>
 				<feature></feature>
 				<series>Vidura Neeti</series>
 				<page>0022-0023</page>
@@ -7034,9 +7035,9 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Facts About Kashmir-8</title>
+				<title num="08">Facts About Kashmir</title>
 				<feature></feature>
-				<series></series>
+				<series>Facts About Kashmir</series>
 				<page>0063-0069</page>
 				<allauthors>
 					<author type="0">Sivaramakrishnan, V.</author>
@@ -7097,7 +7098,9 @@
 				<feature>A Letter from the President</feature>
 				<series></series>
 				<page>0009-0013</page>
-				<allauthors />
+				<allauthors>
+					<author type="0">Subramaniam, C.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title num="32">Dr. Sarvepalli Radhakrishnan (Sept. 5, 1888-April 17, 1975)</title>
@@ -7136,9 +7139,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Facts About Kashmir-9</title>
+				<title num="09">Facts About Kashmir</title>
 				<feature></feature>
-				<series></series>
+				<series>Facts About Kashmir</series>
 				<page>0041-0046</page>
 				<allauthors>
 					<author type="0">Sivaramakrishnan, V.</author>
@@ -7161,7 +7164,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Vidura Neeti</title>
+				<title num="18">Vidura Neeti</title>
 				<feature></feature>
 				<series>Vidura Neeti</series>
 				<page>0056-0057</page>
@@ -7240,7 +7243,9 @@
 				<feature>A Letter from the President</feature>
 				<series></series>
 				<page>0013-0019</page>
-				<allauthors />
+				<allauthors>
+					<author type="0">Subramaniam, C.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title num="">Mahatma Gorbachev Unlocks Elemental Forces of Change for Yogakshema</title>
@@ -7378,7 +7383,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Vidura Neeti</title>
+				<title num="19">Vidura Neeti</title>
 				<feature></feature>
 				<series>Vidura Neeti</series>
 				<page>0110-0111</page>
@@ -7412,9 +7417,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Facts About Kashmir-10</title>
+				<title num="10">Facts About Kashmir</title>
 				<feature></feature>
-				<series></series>
+				<series>Facts About Kashmir</series>
 				<page>0140-0147</page>
 				<allauthors>
 					<author type="0">Sivaramakrishnan, V.</author>
@@ -7488,7 +7493,9 @@
 				<feature>A Letter from the President</feature>
 				<series></series>
 				<page>0008-0012</page>
-				<allauthors />
+				<allauthors>
+					<author type="0">Subramaniam, C.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title num="">`We've Made Great Progrss'</title>
@@ -7561,16 +7568,16 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Facts about Kashmir-11</title>
+				<title num="11">Facts about Kashmir</title>
 				<feature></feature>
-				<series></series>
+				<series>Facts About Kashmir</series>
 				<page>0063-0071</page>
 				<allauthors>
 					<author type="0">Sivaramakrishnan, V.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Vidura Neeti</title>
+				<title num="20">Vidura Neeti</title>
 				<feature></feature>
 				<series>Vidura Neeti</series>
 				<page>0072-0073</page>
@@ -7751,16 +7758,16 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Vidura Neeti</title>
+				<title num="21">Vidura Neeti</title>
 				<feature></feature>
 				<series>Vidura Neeti</series>
 				<page>0069-0069</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Facts About Kashmir-12</title>
+				<title num="12">Facts About Kashmir</title>
 				<feature></feature>
-				<series></series>
+				<series>Facts About Kashmir</series>
 				<page>0070-0075</page>
 				<allauthors>
 					<author type="0">Sivaramakrishnan, V.</author>
@@ -7796,7 +7803,9 @@
 				<feature>A Letter from the President</feature>
 				<series></series>
 				<page>0009-0011</page>
-				<allauthors />
+				<allauthors>
+					<author type="0">Subramaniam, C.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title num="">`Chitra' Narayanaswamy</title>
@@ -7867,7 +7876,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Vidura Neeti</title>
+				<title num="22">Vidura Neeti</title>
 				<feature></feature>
 				<series>Vidura Neeti</series>
 				<page>0056-0057</page>
@@ -7883,9 +7892,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Facts About Kashmir-13</title>
+				<title num="13">Facts About Kashmir</title>
 				<feature></feature>
-				<series></series>
+				<series>Facts About Kashmir</series>
 				<page>0063-0070</page>
 				<allauthors>
 					<author type="0">Sivaramakrishnan, V.</author>
@@ -7933,8 +7942,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">A Letter from the President: Chitra S. Narayanaswamy: A Man for All Seasons</title>
-				<feature></feature>
+				<title num="">Chitra S. Narayanaswamy: A Man for All Seasons</title>
+				<feature>A Letter from the President</feature>
 				<series></series>
 				<page>0008-0011</page>
 				<allauthors>
@@ -7960,7 +7969,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Vidura Neeti</title>
+				<title num="23">Vidura Neeti</title>
 				<feature></feature>
 				<series>Vidura Neeti</series>
 				<page>0018-0019</page>
@@ -8005,14 +8014,14 @@
 			<entry>
 				<title num="">Adyatma Ramayana</title>
 				<feature></feature>
-				<series></series>
+				<series>Valmiki Ramayana</series>
 				<page>0042-0045</page>
 				<allauthors>
 					<author type="0">Varma, Smt. Shailaja</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="37">The Mahabharata</title>
+				<title num="36">The Mahabharata</title>
 				<feature></feature>
 				<series>Mahabharata through Pictures</series>
 				<page>0047-0050</page>
@@ -8028,7 +8037,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="09">The Lotus and the Sun</title>
+				<title num="10">The Lotus and the Sun</title>
 				<feature></feature>
 				<series>Madhupamanjari</series>
 				<page>0061-0065</page>
@@ -8037,9 +8046,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Facts About Kashmir-14</title>
+				<title num="14">Facts About Kashmir</title>
 				<feature></feature>
-				<series></series>
+				<series>Facts About Kashmir</series>
 				<page>0066-0069</page>
 				<allauthors>
 					<author type="0">Sivaramakrishnan, V.</author>
@@ -8295,7 +8304,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Vidura Neeti</title>
+				<title num="24">Vidura Neeti</title>
 				<feature></feature>
 				<series>Vidura Neeti</series>
 				<page>0196-0197</page>
@@ -8439,7 +8448,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="38">The Mahabharata</title>
+				<title num="37">The Mahabharata</title>
 				<feature></feature>
 				<series>Mahabharata through Pictures</series>
 				<page>0047-0050</page>
@@ -8455,7 +8464,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Vidura Neeti</title>
+				<title num="25">Vidura Neeti</title>
 				<feature></feature>
 				<series>Vidura Neeti</series>
 				<page>0058-0059</page>
@@ -8480,9 +8489,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Facts about Kashmir-15</title>
+				<title num="15">Facts about Kashmir</title>
 				<feature></feature>
-				<series></series>
+				<series>Facts About Kashmir</series>
 				<page>0070-0076</page>
 				<allauthors>
 					<author type="0">Sivaramakrishnan, V.</author>
@@ -8555,7 +8564,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Vidura Neeti</title>
+				<title num="26">Vidura Neeti</title>
 				<feature></feature>
 				<series>Vidura Neeti</series>
 				<page>0022-0023</page>
@@ -8603,7 +8612,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="47">The Mahabharata</title>
+				<title num="38">The Mahabharata</title>
 				<feature></feature>
 				<series>Mahabharata through Pictures</series>
 				<page>0047-0050</page>
@@ -8628,9 +8637,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Facts About Kashmir-16</title>
+				<title num="16">Facts About Kashmir</title>
 				<feature></feature>
-				<series></series>
+				<series>Facts About Kashmir</series>
 				<page>0067-0071</page>
 				<allauthors>
 					<author type="0">Sivaramakrishnan, V.</author>
@@ -8753,16 +8762,16 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Facts About Kashmir-17</title>
+				<title num="17">Facts About Kashmir</title>
 				<feature></feature>
-				<series></series>
+				<series>Facts About Kashmir</series>
 				<page>0051-0057</page>
 				<allauthors>
 					<author type="0">Sivaramakrishnan, V.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Vidura Neeti</title>
+				<title num="27">Vidura Neeti</title>
 				<feature></feature>
 				<series>Vidura Neeti</series>
 				<page>0058-0059</page>
@@ -8828,7 +8837,9 @@
 				<feature>A Letter from the President</feature>
 				<series></series>
 				<page>0009-0017</page>
-				<allauthors />
+				<allauthors>
+					<author type="0">Subramaniam, C.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title num="">S. Ranganathan, ICS: The Good Samaritan</title>
@@ -8840,7 +8851,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Vidura Neeti</title>
+				<title num="28">Vidura Neeti</title>
 				<feature></feature>
 				<series>Vidura Neeti</series>
 				<page>0028-0029</page>
@@ -8924,9 +8935,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Facts About Kashmir-18</title>
+				<title num="18">Facts About Kashmir</title>
 				<feature></feature>
-				<series></series>
+				<series>Facts About Kashmir</series>
 				<page>0085-0091</page>
 				<allauthors>
 					<author type="0">Sivaramakrishnan, V.</author>
@@ -8985,7 +8996,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Vidura Neeti</title>
+				<title num="29">Vidura Neeti</title>
 				<feature></feature>
 				<series>Vidura Neeti</series>
 				<page>0026-0027</page>
@@ -9033,9 +9044,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Facts About Kashmir-19</title>
+				<title num="19">Facts About Kashmir</title>
 				<feature></feature>
-				<series></series>
+				<series>Facts About Kashmir</series>
 				<page>0071-0078</page>
 				<allauthors>
 					<author type="0">Sivaramakrishnan, V.</author>
@@ -9078,7 +9089,9 @@
 				<feature>A Letter from the President</feature>
 				<series></series>
 				<page>0009-0016</page>
-				<allauthors />
+				<allauthors>
+					<author type="0">Subramaniam, C.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title num="">Valmiki Ramayana</title>
@@ -9106,7 +9119,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Vidura Neeti</title>
+				<title num="30">Vidura Neeti</title>
 				<feature></feature>
 				<series>Vidura Neeti</series>
 				<page>0040-0041</page>
@@ -9122,7 +9135,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Mahabharata</title>
+				<title num="43">The Mahabharata</title>
 				<feature></feature>
 				<series>Mahabharata through Pictures</series>
 				<page>0047-0050</page>
@@ -9156,9 +9169,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Facts About Kashmir-20</title>
+				<title num="20">Facts About Kashmir</title>
 				<feature></feature>
-				<series></series>
+				<series>Facts About Kashmir</series>
 				<page>0075-0081</page>
 				<allauthors>
 					<author type="0">Sivaramakrishnan, V.</author>
@@ -9274,7 +9287,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Vidura Neeti</title>
+				<title num="31">Vidura Neeti</title>
 				<feature></feature>
 				<series>Vidura Neeti</series>
 				<page>0060-0061</page>
@@ -9335,7 +9348,9 @@
 				<feature>A Letter from the President</feature>
 				<series></series>
 				<page>0007-0017</page>
-				<allauthors />
+				<allauthors>
+					<author type="0">Subramaniam, C.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title num="">Symbols of God Flora-4</title>
@@ -9418,7 +9433,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Vidura Neeti</title>
+				<title num="32">Vidura Neeti</title>
 				<feature></feature>
 				<series>Vidura Neeti</series>
 				<page>0054-0055</page>
@@ -9554,7 +9569,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Vidura Neeti</title>
+				<title num="33">Vidura Neeti</title>
 				<feature></feature>
 				<series>Vidura Neeti</series>
 				<page>0058-0059</page>
@@ -9695,7 +9710,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Vidura Neeti</title>
+				<title num="34">Vidura Neeti</title>
 				<feature></feature>
 				<series>Vidura Neeti</series>
 				<page>0066-0067</page>
@@ -9775,7 +9790,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Vidura Neeti</title>
+				<title num="35">Vidura Neeti</title>
 				<feature></feature>
 				<series>Vidura Neeti</series>
 				<page>0022-0023</page>
@@ -9957,7 +9972,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Vidura Neeti</title>
+				<title num="36">Vidura Neeti</title>
 				<feature></feature>
 				<series>Vidura Neeti</series>
 				<page>0068-0069</page>
@@ -10130,7 +10145,9 @@
 				<feature>A Letter from the President</feature>
 				<series></series>
 				<page>0009-0013</page>
-				<allauthors />
+				<allauthors>
+					<author type="0">Subramaniam, C.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title num="02">Sant Tukaram (1598 to 1650 A.D.)</title>
@@ -10253,11 +10270,13 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">A Letter from the President: Dharma - II</title>
-				<feature></feature>
+				<title num="">Dharma - II</title>
+				<feature>A Letter from the President:</feature>
 				<series></series>
 				<page>0006-0009</page>
-				<allauthors />
+				<allauthors>
+					<author type="0">Subramaniam, C.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title num="03">Namdeo (1270 to 1320 A.D.)</title>
@@ -10330,7 +10349,7 @@
 			<entry>
 				<title num="52">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharatha through Pictures</series>
+				<series>Mahabharata through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -10403,11 +10422,13 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">A Letter from the President: Dharama - III</title>
-				<feature></feature>
+				<title num="">Dharama - III</title>
+				<feature>A Letter from the President:</feature>
 				<series></series>
 				<page>0008-0013</page>
-				<allauthors />
+				<allauthors>
+					<author type="0">Subramaniam, C.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title num="">Wanted: A National Movement Against Violence</title>
@@ -10522,11 +10543,13 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">A Letter from the President: Dharma - IV</title>
-				<feature></feature>
+				<title num="">Dharma - IV</title>
+				<feature>A Letter from the President:</feature>
 				<series></series>
 				<page>0007-0011</page>
-				<allauthors />
+				<allauthors>
+					<author type="0">Subramaniam, C.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title num="">Prime Minister Narasimha Raoji Greetings and Good Wishes</title>
@@ -10645,11 +10668,13 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">A Letter from the President: The Changing Scenario In India</title>
-				<feature></feature>
+				<title num="">The Changing Scenario In India</title>
+				<feature>A Letter from the President:</feature>
 				<series></series>
 				<page>0009-0013</page>
-				<allauthors />
+				<allauthors>
+					<author type="0">Subramaniam, C.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title num="">Valmiki Ramayana</title>
@@ -11223,7 +11248,7 @@
 				<series></series>
 				<page>0051-0056</page>
 				<allauthors>
-					<author type="0">V. S. R. K.</author>
+					<author type="0">V.S.R.K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11315,7 +11340,9 @@
 				<feature>A Letter from the President</feature>
 				<series></series>
 				<page>0009-0017</page>
-				<allauthors />
+				<allauthors>
+					<author type="0">Subramaniam, C.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title num="10">Rabindranath Tagore 1861 to 1941 A.D.</title>
@@ -11429,7 +11456,9 @@
 				<feature>A Letter from the President</feature>
 				<series></series>
 				<page>0007-0017</page>
-				<allauthors />
+				<allauthors>
+					<author type="0">Subramaniam, C.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title num="11">Swami Vivekananda (1863-1902)</title>
@@ -11684,7 +11713,9 @@
 				<feature>A Letter from the President</feature>
 				<series></series>
 				<page>0008-0015</page>
-				<allauthors />
+				<allauthors>
+					<author type="0">Subramaniam, C.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title num="">President's Divali Message: A Time for Joy</title>
@@ -12063,7 +12094,9 @@
 				<feature>A Letter from the President</feature>
 				<series></series>
 				<page>0007-0010</page>
-				<allauthors />
+				<allauthors>
+					<author type="0">Subramaniam, C.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title num="06">Yaksha Prasna</title>
@@ -12084,9 +12117,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Fragrant Memories - 5</title>
+				<title num="05">Fragrant Memories</title>
 				<feature></feature>
-				<series></series>
+				<series>Fragrant Memories</series>
 				<page>0023-0026</page>
 				<allauthors>
 					<author type="0">Devi, Indira</author>
@@ -12187,9 +12220,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Fragrant Memories - 6</title>
+				<title num="06">Fragrant Memories</title>
 				<feature></feature>
-				<series></series>
+				<series>Fragrant Memories</series>
 				<page>0025-0032</page>
 				<allauthors>
 					<author type="0">Devi, Indira</author>
@@ -12524,9 +12557,9 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Fragrant Memories - 7</title>
+				<title num="07">Fragrant Memories</title>
 				<feature></feature>
-				<series></series>
+				<series>Fragrant Memories</series>
 				<page>0059-0066</page>
 				<allauthors>
 					<author type="0">Devi, Indira</author>
@@ -12783,9 +12816,9 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Fragrant Memories-8</title>
+				<title num="08">Fragrant Memories</title>
 				<feature></feature>
-				<series></series>
+				<series>Fragrant Memories</series>
 				<page>0069-0077</page>
 				<allauthors>
 					<author type="0">Devi, Indira</author>
@@ -12828,7 +12861,9 @@
 				<feature>A Letter from the President</feature>
 				<series></series>
 				<page>0007-0009</page>
-				<allauthors />
+				<allauthors>
+					<author type="0">Subramaniam, C.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title num="">Daiva Bhakta Narasimha Rao</title>
@@ -12874,9 +12909,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Fragrant Memories - 9</title>
+				<title num="09">Fragrant Memories</title>
 				<feature></feature>
-				<series></series>
+				<series>Fragrant Memories</series>
 				<page>0043-0045</page>
 				<allauthors>
 					<author type="0">Devi, Indira</author>
@@ -13004,9 +13039,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Fragrant Memories - 10</title>
+				<title num="10">Fragrant Memories</title>
 				<feature></feature>
-				<series></series>
+				<series>Fragrant Memories</series>
 				<page>0029-0036</page>
 				<allauthors>
 					<author type="0">Devi, Indira</author>
@@ -13201,9 +13236,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Fragrant Memories-11</title>
+				<title num="11">Fragrant Memories</title>
 				<feature></feature>
-				<series></series>
+				<series>Fragrant Memories</series>
 				<page>0055-0061</page>
 				<allauthors>
 					<author type="0">Devi, Indira</author>
@@ -13347,9 +13382,9 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Fragrant Memories-12</title>
+				<title num="12">Fragrant Memories</title>
 				<feature></feature>
-				<series></series>
+				<series>Fragrant Memories</series>
 				<page>0043-0046</page>
 				<allauthors>
 					<author type="0">Devi, Indira</author>
@@ -13517,7 +13552,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="69">The Mahabharata</title>
+				<title num="70">The Mahabharata</title>
 				<feature></feature>
 				<series>Mahabharata through Picutres</series>
 				<page>0047-0050</page>
@@ -13549,9 +13584,9 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Fragrant Memories-13</title>
+				<title num="13">Fragrant Memories-13</title>
 				<feature></feature>
-				<series></series>
+				<series>Fragrant Memories</series>
 				<page>0061-0069</page>
 				<allauthors>
 					<author type="0">Devi, Indira</author>
@@ -13660,9 +13695,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Fragrant Memories-14</title>
+				<title num="14">Fragrant Memories-14</title>
 				<feature></feature>
-				<series></series>
+				<series>Fragrant Memories</series>
 				<page>0034-0039</page>
 				<allauthors>
 					<author type="0">Devi, Indira</author>
@@ -13793,9 +13828,9 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Fragrant Memories - 15</title>
+				<title num="15">Fragrant Memories</title>
 				<feature></feature>
-				<series></series>
+				<series>Fragrant Memories</series>
 				<page>0025-0032</page>
 				<allauthors>
 					<author type="0">Devi, Indira</author>
@@ -13938,9 +13973,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Fragrant Memories-16</title>
+				<title num="16">Fragrant Memories</title>
 				<feature></feature>
-				<series></series>
+				<series>Fragrant Memories</series>
 				<page>0040-0046</page>
 				<allauthors>
 					<author type="0">Devi, Indira</author>
@@ -14033,7 +14068,6 @@
 				<page>0006-0007</page>
 				<allauthors />
 			</entry>
-			
 			<entry>
 				<title num="">A Letter from the President</title>
 				<feature>A Letter from the President</feature>
@@ -14053,9 +14087,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Fragrant Memories-17</title>
+				<title num="17">Fragrant Memories</title>
 				<feature></feature>
-				<series></series>
+				<series>Fragrant Memories</series>
 				<page>0023-0029</page>
 				<allauthors>
 					<author type="0">Devi, Indira</author>
@@ -14212,9 +14246,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Fragrant Memories-18</title>
+				<title num="18">Fragrant Memories-18</title>
 				<feature></feature>
-				<series></series>
+				<series>Fragrant Memories</series>
 				<page>0037-0045</page>
 				<allauthors>
 					<author type="0">Devi, Indira</author>
@@ -14467,7 +14501,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="28">Sant Eknath</title>
+				<title num="29">Sant Eknath</title>
 				<feature></feature>
 				<series>How God Came into My Life</series>
 				<page>0124-0125</page>
@@ -14481,9 +14515,9 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Fragrant Memories-19</title>
+				<title num="19">Fragrant Memories-19</title>
 				<feature></feature>
-				<series></series>
+				<series>Fragrant Memories</series>
 				<page>0133-0138</page>
 				<allauthors>
 					<author type="0">Devi, Indira</author>
@@ -14712,9 +14746,9 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Fragrant Memories-20</title>
+				<title num="20">Fragrant Memories</title>
 				<feature></feature>
-				<series></series>
+				<series>Fragrant Memories</series>
 				<page>0051-0053</page>
 				<allauthors>
 					<author type="0">Devi, Indira</author>
@@ -14857,9 +14891,9 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Fragrant Memories-21</title>
+				<title num="21">Fragrant Memories</title>
 				<feature></feature>
-				<series></series>
+				<series>Fragrant Memories</series>
 				<page>0039-0045</page>
 				<allauthors>
 					<author type="0">Devi, Indira</author>
@@ -14960,9 +14994,9 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Fragrant Memories-22</title>
+				<title num="22">Fragrant Memories</title>
 				<feature></feature>
-				<series></series>
+				<series>Fragrant Memories</series>
 				<page>0011-0013</page>
 				<allauthors>
 					<author type="0">Devi, Indira</author>
@@ -15367,9 +15401,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Fragrant Memories-23</title>
+				<title num="23">Fragrant Memories</title>
 				<feature></feature>
-				<series></series>
+				<series>Fragrant Memories</series>
 				<page>0129-0137</page>
 				<allauthors>
 					<author type="0">Devi, Indira</author>
@@ -15625,7 +15659,9 @@
 				<feature>A Letter from the President</feature>
 				<series></series>
 				<page>0009-0015</page>
-				<allauthors />
+				<allauthors>
+					<author type="0">Subramaniam, C.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title num="">Inter-Religious Dialogue</title>
@@ -16049,7 +16085,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Mahabharata</title>
+				<title num="81">The Mahabharata</title>
 				<feature></feature>
 				<series>Mahabharata through Pictures</series>
 				<page>0051-0054</page>
@@ -16170,7 +16206,9 @@
 				<feature>A Letter from the President</feature>
 				<series></series>
 				<page>0009-0014</page>
-				<allauthors />
+				<allauthors>
+					<author type="0">Subramaniam, C.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title num="">My Testament</title>
@@ -16246,7 +16284,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Mahabharata</title>
+				<title num="82">The Mahabharata</title>
 				<feature></feature>
 				<series>Mahabharata through Pictures</series>
 				<page>0051-0054</page>
@@ -17118,7 +17156,7 @@
 				<series></series>
 				<page>0007-0011</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Subramaniam, C.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -18199,7 +18237,7 @@
 			<entry>
 				<title num="20">New Governor Arrives</title>
 				<feature></feature>
-				<series>Merchant of Bombay</series>
+				<series>The Merchant of Bombay</series>
 				<page>0081-0083</page>
 				<allauthors>
 					<author type="0">Mallya, K. G.</author>
@@ -18332,7 +18370,7 @@
 			<entry>
 				<title num="21">Sink or Seize</title>
 				<feature></feature>
-				<series>Merchant of Bombay</series>
+				<series>The Merchant of Bombay</series>
 				<page>0060-0065</page>
 				<allauthors>
 					<author type="0">Mallya, K. G.</author>
@@ -18661,11 +18699,13 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">The Lotus that Lasts: Sri Laksmi Astottaram</title>
-				<feature></feature>
+				<title num="">The Lotus that Lasts : Sri Laksmi Astottaram</title>
+				<feature>The Lotus That Lasts : Sri Lakshmi Astottaram</feature>
 				<series></series>
 				<page>0028-0029</page>
-				<allauthors />
+				<allauthors>
+					<author type="0">Rao, Dr. I. Panduranga</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title num="">Salutations to Centenarians Prasanta Chandra Mahalanobis</title>
@@ -18871,8 +18911,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Lotus that Lasts: Sri Lakshmi Ashtottaram</title>
-				<feature></feature>
+				<title num="">The Lotus that Lasts : Sri Lakshmi Ashtottaram</title>
+				<feature>The Lotus That Lasts : Sri Lakshmi Astottaram</feature>
 				<series></series>
 				<page>0066-0067</page>
 				<allauthors>
@@ -18944,11 +18984,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Lotus that Lasts: Sri Lakshmi Ashtottaram</title>
-				<feature></feature>
+				<title num="">The Lotus that Lasts : Sri Lakshmi Ashtottaram</title>
+				<feature>The Lotus That Lasts : Sri Lakshmi Astottaram</feature>
 				<series></series>
 				<page>0012-0013</page>
-				<allauthors />
+				<allauthors>
+					<author type="0">Rao, Dr. I. Panduranga</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title num="">Leaders and Leadership</title>
@@ -19056,7 +19098,7 @@
 			<entry>
 				<title num="24">Witch-Hunting in Bombay</title>
 				<feature></feature>
-				<series>Merchant of Bombay</series>
+				<series>The Merchant of Bombay</series>
 				<page>0084-0087</page>
 				<allauthors>
 					<author type="0">Mallya, K. G.</author>
@@ -19106,12 +19148,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Lotus That Lasts: Sri Lakshmi Astottaram</title>
-				<feature></feature>
+				<title num="">The Lotus That Lasts : Sri Lakshmi Astottaram</title>
+				<feature>The Lotus That Lasts : Sri Lakshmi Astottaram</feature>
 				<series></series>
 				<page>0024-0025</page>
 				<allauthors>
-					<author type="0">Ashtottaram, Sri Lakshmi</author>
+					<author type="0">Rao, Dr. I. Panduranga</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -19359,12 +19401,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Lotus That Lasts: Sri Laksmi Astottaram</title>
-				<feature></feature>
+				<title num="">The Lotus That Lasts : Sri Laksmi Astottaram</title>
+				<feature>The Lotus That Lasts : Sri Lakshmi Astottaram</feature>
 				<series></series>
 				<page>0066-0067</page>
 				<allauthors>
-					<author type="0">Ashtottaram, Sri Lakshmi</author>
+					<author type="0">Rao, Dr. I. Panduranga</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -19486,11 +19528,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Lotus That Lasts Shri Lakshmi Ashottaram</title>
-				<feature></feature>
+				<title num="">The Lotus That Lasts : Shri Lakshmi Ashottaram</title>
+				<feature>The Lotus That Lasts : Sri Lakshmi Astottaram</feature>
 				<series></series>
 				<page>0042-0043</page>
-				<allauthors />
+				<allauthors>
+					<author type="0">Rao, Dr. I. Panduranga</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title num="">Dharma and Religion</title>
@@ -19624,11 +19668,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Lotus That Lasts: Sri Laksmi Astottaram</title>
-				<feature></feature>
+				<title num="">The Lotus That Lasts : Sri Laksmi Astottaram</title>
+				<feature>The Lotus That Lasts : Sri Lakshmi Astottaram</feature>
 				<series></series>
 				<page>0012-0013</page>
-				<allauthors />
+				<allauthors>
+					<author type="0">Rao, Dr. I. Panduranga</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title num="">Dharma and Religion-2</title>
@@ -19792,12 +19838,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Lotus that Lasts</title>
-				<feature></feature>
+				<title num="">The Lotus that Lasts : Sri Laksmi Astottaram</title>
+				<feature>The Lotus that Lasts : Sri Laksmi Astottaram</feature>
 				<series></series>
 				<page>0026-0027</page>
 				<allauthors>
-					<author type="0">Ashtottaram, Sri Lakshmi</author>
+					<author type="0">Rao, Dr. I. Panduranga</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -19864,7 +19910,7 @@
 			<entry>
 				<title num="28(I)">The Unseated Chief Justice</title>
 				<feature></feature>
-				<series>Merchant of Bombay</series>
+				<series>The Merchant of Bombay</series>
 				<page>0070-0073</page>
 				<allauthors />
 			</entry>
@@ -19895,8 +19941,8 @@
 			</entry>
 			<entry>
 				<title num="">Valmiki Ramayana</title>
-				<feature>Valmiki Ramayana</feature>
-				<series></series>
+				<feature></feature>
+				<series>Valmiki Ramayana</series>
 				<page>0084-0085</page>
 				<allauthors />
 			</entry>
@@ -19935,12 +19981,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Lotus that Lasts</title>
-				<feature></feature>
+				<title num="">The Lotus that Lasts : Sri Lakshmi Astottaram</title>
+				<feature>The Lotus that Lasts : Sri Lakshmi Astottaram</feature>
 				<series></series>
 				<page>0020-0021</page>
 				<allauthors>
-					<author type="0">Ashtottaram, Sri Lakshmi</author>
+					<author type="0">Rao, Dr. I. Panduranga</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -20113,12 +20159,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Lotus That Lasts</title>
-				<feature></feature>
+				<title num="">The Lotus that Lasts : Sri Lakshmi Astottaram</title>
+				<feature>The Lotus that Lasts : Sri Lakshmi Astottaram</feature>
 				<series></series>
 				<page>0010-0011</page>
 				<allauthors>
-					<author type="0">Ashtottaram, Sri Lakshmi</author>
+					<author type="0">Rao, Dr. I. Panduranga</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -20273,11 +20319,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Lotus That Lasts: Sri Lakshmi Ashtottaram</title>
-				<feature></feature>
+				<title num="">The Lotus That Lasts : Sri Lakshmi Ashtottaram</title>
+				<feature>The Lotus That Lasts : Sri Lakshmi Ashtottaram</feature>
 				<series></series>
 				<page>0014-0015</page>
-				<allauthors />
+				<allauthors>
+					<author type="0">Rao, Dr. I. Panduranga</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title num="">Impressions of the Parliament of World Religions in Chicago, USA</title>
@@ -20407,15 +20455,17 @@
 				<feature>A Letter from the President</feature>
 				<series></series>
 				<page>0007-0011</page>
-				<allauthors />
+				<allauthors>
+					<author type="0">Subramaniam, C.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Lotus that Lasts</title>
-				<feature></feature>
+				<title num="">The Lotus that Lasts : Sri Lakshmi Astottaram</title>
+				<feature>The Lotus that Lasts : Sri Lakshmi Astottaram</feature>
 				<series></series>
 				<page>0012-0013</page>
 				<allauthors>
-					<author type="0">Ashtottaram, Sri Lakshmi</author>
+					<author type="0">Rao, Dr. I. Panduranga</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -20565,7 +20615,9 @@
 				<feature>A Letter from the President</feature>
 				<series></series>
 				<page>0007-0012</page>
-				<allauthors />
+				<allauthors>
+					<author type="0">Subramaniam, C.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title num="">Tirumuruga Sri Kripannanda Variar: A Tribute</title>
@@ -20577,12 +20629,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Lotus that Lasts: Sri Lakshmi Ashtottaram</title>
-				<feature></feature>
+				<title num="">The Lotus that Lasts : Sri Lakshmi Ashtottaram</title>
+				<feature>The Lotus that Lasts : Sri Lakshmi Astottaram</feature>
 				<series></series>
 				<page>0018-0019</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Rao, Dr. I. Panduranga</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -20722,12 +20774,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Lotus That Lasts</title>
-				<feature></feature>
+				<title num="">The Lotus That Lasts : Sri Lakshmi Astottaram</title>
+				<feature>The Lotus that Lasts : Sri Lakshmi Astottaram</feature>
 				<series></series>
 				<page>0022-0023</page>
 				<allauthors>
-					<author type="0">Ashtottaram, Sri Lakshmi</author>
+					<author type="0">Rao, Dr. I. Panduranga</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -20822,7 +20874,7 @@
 		</part>
 		<part pnum="16" date="31" month="03" year="1994" cover="JRD Being Honoured">
 			<entry>
-				<title num="">Prayer</title>
+				<title num="">Prayer to Mother Earth</title>
 				<feature>Prayer</feature>
 				<series></series>
 				<page>0005-0005</page>
@@ -20832,7 +20884,7 @@
 				<title num="">Shraddhanjali to A Satpurusha</title>
 				<feature></feature>
 				<series></series>
-				<page>0007-00</page>
+				<page>0007-0007</page>
 				<allauthors>
 					<author type="0">Ramakrishnan, S.</author>
 				</allauthors>
@@ -20841,25 +20893,25 @@
 				<title num="">JRD: A Versatile, Unique Man</title>
 				<feature></feature>
 				<series></series>
-				<page>0008-00</page>
+				<page>0008-0012</page>
 				<allauthors>
 					<author type="0">Venkataraman, R.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Lotus That Lasts</title>
-				<feature></feature>
+				<title num="">The Lotus that Lasts : Sri Lakshmi Astottaram</title>
+				<feature>The Lotus that Lasts : Sri Lakshmi Astottaram</feature>
 				<series></series>
-				<page>0014-00</page>
+				<page>0014-0015</page>
 				<allauthors>
-					<author type="0">Ashtottaram, Sri Lakshmi</author>
+					<author type="0">Rao, Dr. I. Panduranga</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title num="">JRD, A Rare National Asset</title>
 				<feature></feature>
 				<series></series>
-				<page>0016-00</page>
+				<page>0016-0020</page>
 				<allauthors>
 					<author type="0">Subramaniam, C.</author>
 				</allauthors>
@@ -20868,7 +20920,7 @@
 				<title num="">Man of Vision</title>
 				<feature></feature>
 				<series></series>
-				<page>0022-00</page>
+				<page>0022-0023</page>
 				<allauthors>
 					<author type="0">Palkhivala, N. A.</author>
 				</allauthors>
@@ -20877,7 +20929,7 @@
 				<title num="">JRD Tata: Peak of Excellence</title>
 				<feature></feature>
 				<series></series>
-				<page>0025-00</page>
+				<page>0025-0027</page>
 				<allauthors>
 					<author type="0">Alexander, Dr. P. C.</author>
 				</allauthors>
@@ -20886,7 +20938,7 @@
 				<title num="">Servant of Human Race</title>
 				<feature></feature>
 				<series></series>
-				<page>0029-00</page>
+				<page>0029-0033</page>
 				<allauthors>
 					<author type="0">Nehru, B. K.</author>
 				</allauthors>
@@ -20895,7 +20947,7 @@
 				<title num="">JRD: Creator of Institutions</title>
 				<feature></feature>
 				<series></series>
-				<page>0034-00</page>
+				<page>0034-0037</page>
 				<allauthors>
 					<author type="0">Menon, Prof. M. G. K.</author>
 				</allauthors>
@@ -20904,7 +20956,7 @@
 				<title num="">An Indian and A World Citizen</title>
 				<feature></feature>
 				<series></series>
-				<page>0039-00</page>
+				<page>0039-0042</page>
 				<allauthors>
 					<author type="0">Indian High Commissioner in U.K., Dr. L. M. Singhvi</author>
 				</allauthors>
@@ -20913,7 +20965,7 @@
 				<title num="">Humble, Noble and Gentle</title>
 				<feature></feature>
 				<series></series>
-				<page>0044-00</page>
+				<page>0044-0048</page>
 				<allauthors>
 					<author type="0">Bhatt, R. S.</author>
 				</allauthors>
@@ -20922,7 +20974,7 @@
 				<title num="">JRD: Model of Modesty</title>
 				<feature></feature>
 				<series></series>
-				<page>0050-00</page>
+				<page>0050-0054</page>
 				<allauthors>
 					<author type="0">Taleyarkhan, Homi J. H.</author>
 				</allauthors>
@@ -20931,7 +20983,7 @@
 				<title num="">A Many-Splendoured Personality</title>
 				<feature></feature>
 				<series></series>
-				<page>0056-00</page>
+				<page>0056-0061</page>
 				<allauthors>
 					<author type="0">Bajaj, Ramkrishna</author>
 				</allauthors>
@@ -20940,7 +20992,7 @@
 				<title num="">JRD, Father of Industrial India</title>
 				<feature></feature>
 				<series></series>
-				<page>0063-00</page>
+				<page>0063-0065</page>
 				<allauthors>
 					<author type="0">Arunachalam, M. V.</author>
 				</allauthors>
@@ -20949,7 +21001,7 @@
 				<title num="">Prince JRD Tata</title>
 				<feature></feature>
 				<series></series>
-				<page>0066-00</page>
+				<page>0066-0067</page>
 				<allauthors>
 					<author type="0">Nanda, H. P.</author>
 				</allauthors>
@@ -20958,7 +21010,7 @@
 				<title num="">A Source of Inspiration</title>
 				<feature></feature>
 				<series></series>
-				<page>0068-00</page>
+				<page>0068-0068</page>
 				<allauthors>
 					<author type="0">Ganguly, A. S.</author>
 				</allauthors>
@@ -20967,7 +21019,7 @@
 				<title num="">JRD: He Created History</title>
 				<feature></feature>
 				<series></series>
-				<page>0069-00</page>
+				<page>0069-0071</page>
 				<allauthors>
 					<author type="0">Vaghul, N.</author>
 				</allauthors>
@@ -20976,7 +21028,7 @@
 				<title num="">JRD - Vignettes of a Great Life</title>
 				<feature></feature>
 				<series></series>
-				<page>0076-00</page>
+				<page>0076-0077</page>
 				<allauthors>
 					<author type="0">Masani, Minoo</author>
 				</allauthors>
@@ -20985,7 +21037,7 @@
 				<title num="">A Fine Human Being</title>
 				<feature></feature>
 				<series></series>
-				<page>0078-00</page>
+				<page>0078-0080</page>
 				<allauthors>
 					<author type="0">Dalal, Maneck</author>
 				</allauthors>
@@ -20994,7 +21046,7 @@
 				<title num="">JRD Tata, Father of Air Age in India</title>
 				<feature></feature>
 				<series></series>
-				<page>0084-00</page>
+				<page>0084-0088</page>
 				<allauthors>
 					<author type="0">Ramakrishnan, S.</author>
 				</allauthors>
@@ -21003,7 +21055,7 @@
 				<title num="">Father of Indian Civil Aviation</title>
 				<feature></feature>
 				<series></series>
-				<page>0090-00</page>
+				<page>0090-0095</page>
 				<allauthors>
 					<author type="0">Appusamy, K. G.</author>
 				</allauthors>
@@ -21012,16 +21064,23 @@
 				<title num="">JRD's Life-A Chronicle: ``Determined, Yes: Aggressive, Never"</title>
 				<feature></feature>
 				<series></series>
-				<page>0098-00</page>
+				<page>0098-0104</page>
 				<allauthors>
 					<author type="0">V.S.R.K.</author>
 				</allauthors>
 			</entry>
 			<entry>
+				<title num="">Valmiki Ramayana</title>
+				<feature></feature>
+				<series>Valmiki Ramayana</series>
+				<page>0106-0107</page>
+				<allauthors />
+			</entry>
+			<entry>
 				<title num="">JRD's Views on Men and Matters</title>
 				<feature></feature>
 				<series></series>
-				<page>0108-00</page>
+				<page>0108-0110</page>
 				<allauthors>
 					<author type="0">V.S.R.K.</author>
 				</allauthors>
@@ -21030,7 +21089,7 @@
 				<title num="">JRD: Innate Humility and Compassion</title>
 				<feature></feature>
 				<series></series>
-				<page>0111-00</page>
+				<page>0111-0112</page>
 				<allauthors>
 					<author type="0">Kadri, I. M.</author>
 				</allauthors>
@@ -21039,7 +21098,7 @@
 				<title num="">Social Scientist and Humanist</title>
 				<feature></feature>
 				<series></series>
-				<page>0113-00</page>
+				<page>0113-0116</page>
 				<allauthors>
 					<author type="0">Khorakiwala, Fakhruddin T.</author>
 				</allauthors>
@@ -21048,7 +21107,7 @@
 				<title num="">JRD On Stultifying Socialism</title>
 				<feature></feature>
 				<series></series>
-				<page>0118-00</page>
+				<page>0118-0119</page>
 				<allauthors>
 					<author type="0">Pandya, Anandshankar R.</author>
 				</allauthors>
@@ -21057,7 +21116,7 @@
 				<title num="">A Meeting with JRD</title>
 				<feature></feature>
 				<series></series>
-				<page>0120-00</page>
+				<page>0120-0121</page>
 				<allauthors>
 					<author type="0">Krishnamurti, Mathoor</author>
 				</allauthors>
@@ -21066,7 +21125,7 @@
 				<title num="">Perfection in Trifles: JRD's Way</title>
 				<feature></feature>
 				<series></series>
-				<page>0122-00</page>
+				<page>0122-0123</page>
 				<allauthors>
 					<author type="0">Kshirsagar, S. D.</author>
 				</allauthors>
@@ -21075,7 +21134,7 @@
 				<title num="">The Sky Was His Limit</title>
 				<feature></feature>
 				<series></series>
-				<page>0125-00</page>
+				<page>0125-0127</page>
 				<allauthors>
 					<author type="0">Sundaresan, M.</author>
 				</allauthors>
@@ -21084,7 +21143,7 @@
 				<title num="">JRD: His Endless Curiosity</title>
 				<feature></feature>
 				<series></series>
-				<page>0130-00</page>
+				<page>0129-0134</page>
 				<allauthors>
 					<author type="0">Dabke, K. B.</author>
 				</allauthors>
@@ -21093,7 +21152,7 @@
 				<title num="">JRD and Bhavan</title>
 				<feature></feature>
 				<series></series>
-				<page>0135-00</page>
+				<page>0135-0142</page>
 				<allauthors>
 					<author type="0">Ramakrishnan, S.</author>
 				</allauthors>
@@ -21108,19 +21167,19 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">A Letter from the President</title>
-				<feature></feature>
+				<title num="">Dr. Kanak Rele-Harmony In Dance</title>
+				<feature>A Letter from the President</feature>
 				<series></series>
-				<page>0007-00</page>
+				<page>0007-0010</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Subramaniam, C.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title num="">Balaji Temple in Rajasthan</title>
 				<feature></feature>
 				<series></series>
-				<page>0012-00</page>
+				<page>0012-0014</page>
 				<allauthors>
 					<author type="0">Kannan, Lakshmi</author>
 				</allauthors>
@@ -21129,25 +21188,25 @@
 				<title num="">Evolution of Sound</title>
 				<feature></feature>
 				<series></series>
-				<page>0016-00</page>
+				<page>0016-0021</page>
 				<allauthors>
 					<author type="0">Bayi, Aswati Tirunal Gouri Lakshmi</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Lotus That Lasts</title>
-				<feature></feature>
+				<title num="">The Lotus That Lasts : Sri Lakshmi Ashtottaram</title>
+				<feature>The Lotus That Lasts : Sri Lakshmi Ashtottaram</feature>
 				<series></series>
-				<page>0022-00</page>
+				<page>0022-0023</page>
 				<allauthors>
-					<author type="0">Ashtottaram, Sri Lakshmi</author>
+					<author type="0">Rao, Dr. I. Panduranga</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title num="">Gita and Modern Life-1</title>
 				<feature></feature>
 				<series></series>
-				<page>0024-00</page>
+				<page>0024-0030</page>
 				<allauthors>
 					<author type="0">Vaghul, N.</author>
 				</allauthors>
@@ -21156,7 +21215,7 @@
 				<title num="">Concept of the Perfect Man in Gita, Dhammapada and Quran</title>
 				<feature></feature>
 				<series></series>
-				<page>0031-00</page>
+				<page>0031-0038</page>
 				<allauthors>
 					<author type="0">Mishra, Dr. (Mrs.) Nilambari</author>
 				</allauthors>
@@ -21165,23 +21224,21 @@
 				<title num="">Suryanarkoil-A famous Sun Temple ``Shanmishtai"</title>
 				<feature></feature>
 				<series></series>
-				<page>0039-00</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
+				<page>0039-0041</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title num="">Valmiki Ramayana</title>
 				<feature></feature>
 				<series>Valmiki Ramayana</series>
-				<page>0042-00</page>
+				<page>0042-0043</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title num="">A Stimulating Budget</title>
 				<feature></feature>
 				<series></series>
-				<page>0044-00</page>
+				<page>0044-0045</page>
 				<allauthors>
 					<author type="0">Palkhivala, N. A.</author>
 				</allauthors>
@@ -21190,7 +21247,7 @@
 				<title num="">Rajaji as a Political Thinker</title>
 				<feature></feature>
 				<series></series>
-				<page>0046-00</page>
+				<page>0046-0053</page>
 				<allauthors>
 					<author type="0">Anjaneyulu, Dr. D.</author>
 				</allauthors>
@@ -21199,7 +21256,7 @@
 				<title num="">Landmark Letters</title>
 				<feature></feature>
 				<series></series>
-				<page>0054-00</page>
+				<page>0054-0061</page>
 				<allauthors>
 					<author type="0">Pandia, Dr. Mahendra N.</author>
 				</allauthors>
@@ -21208,7 +21265,7 @@
 				<title num="">Mahamahopadhyaya Satish Chandra Vidyabhushana</title>
 				<feature></feature>
 				<series></series>
-				<page>0062-00</page>
+				<page>0062-0063</page>
 				<allauthors>
 					<author type="0">Krishnamurthi, K. R.</author>
 				</allauthors>
@@ -21217,34 +21274,32 @@
 				<title num="">A Short Story: An Actor All His Life</title>
 				<feature>Short Story</feature>
 				<series></series>
-				<page>0064-00</page>
+				<page>0064-0067</page>
 				<allauthors>
 					<author type="0">V.S.R.K.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="24">Swantah Sukhaya</title>
+				<title num="24">Cross Country Tour</title>
 				<feature></feature>
 				<series>Memoirs of B.K. Birla</series>
-				<page>0068-00</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
+				<page>0068-0071</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title num="">Coronary Artery Bypass Surgery</title>
 				<feature></feature>
 				<series></series>
-				<page>0073-00</page>
+				<page>0073-0075</page>
 				<allauthors>
 					<author type="0">Hegde, Prof. B. M.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title num="">God Is Love Roots of the Human Condition</title>
-				<feature></feature>
+				<feature>Review Article</feature>
 				<series></series>
-				<page>0077-00</page>
+				<page>0077-0083</page>
 				<allauthors>
 					<author type="0">Schuon, Frithjof</author>
 				</allauthors>
@@ -21253,7 +21308,7 @@
 				<title num="">Rationality, Destiny and Divinity:</title>
 				<feature>Review Article</feature>
 				<series></series>
-				<page>0085-00</page>
+				<page>0085-0087</page>
 				<allauthors>
 					<author type="0">Raghupathi, Muktesh</author>
 				</allauthors>
@@ -21262,14 +21317,14 @@
 				<title num="">World of Books</title>
 				<feature>World of Books</feature>
 				<series></series>
-				<page>0089-00</page>
+				<page>0089-0089</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title num="">Bhavan's News</title>
 				<feature>Bhavan's News</feature>
 				<series></series>
-				<page>0091-00</page>
+				<page>0091-0095</page>
 				<allauthors />
 			</entry>
 		</part>
@@ -21282,17 +21337,19 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">A Letter from the President</title>
-				<feature></feature>
+				<title num="">Playing Truant!</title>
+				<feature>A Letter from the President</feature>
 				<series></series>
-				<page>0007-0007</page>
-				<allauthors />
+				<page>0007-0012</page>
+				<allauthors>
+					<author type="0">Subramaniam, C.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title num="">A Gift of God: Ghanshyamdasji Birla</title>
 				<feature></feature>
 				<series></series>
-				<page>0014-00</page>
+				<page>0014-0015</page>
 				<allauthors>
 					<author type="0">Ramakrishnan, S.</author>
 				</allauthors>
@@ -21301,25 +21358,25 @@
 				<title num="">Sri Rama As an Avatar</title>
 				<feature></feature>
 				<series></series>
-				<page>0017-00</page>
+				<page>0017-0023</page>
 				<allauthors>
 					<author type="0">Iyer, Justice N. Chandrasekhara</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Lotus That Lasts</title>
-				<feature></feature>
+				<title num="">The Lotus That Lasts : Sri Lakshmi Astottaram</title>
+				<feature>The Lotus That Lasts : Sri Lakshmi Astottaram</feature>
 				<series></series>
-				<page>0024-00</page>
+				<page>0024-0025</page>
 				<allauthors>
-					<author type="0">Ashtottaram, Sri Lakshmi</author>
+					<author type="0">Rao, Dr. I. Panduranga</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title num="">The Significance of 7 in Ramavatara</title>
 				<feature></feature>
 				<series></series>
-				<page>0026-00</page>
+				<page>0026-0027</page>
 				<allauthors>
 					<author type="0">Krishnamoorthy, Smt. Nagalakshmi</author>
 				</allauthors>
@@ -21328,7 +21385,7 @@
 				<title num="">Ramayana: Treasure Chest for Everybody</title>
 				<feature></feature>
 				<series></series>
-				<page>0029-00</page>
+				<page>0029-0031</page>
 				<allauthors>
 					<author type="0">Simha, S. L. N.</author>
 				</allauthors>
@@ -21337,7 +21394,7 @@
 				<title num="">Father of Comparative Philology: Sir William Jones</title>
 				<feature></feature>
 				<series></series>
-				<page>0033-00</page>
+				<page>0033-0036</page>
 				<allauthors>
 					<author type="0">V.S.R.K.</author>
 				</allauthors>
@@ -21346,7 +21403,7 @@
 				<title num="">G.D. Birla-Far-Sighted Industrialist and Gandhiji's Disciple</title>
 				<feature></feature>
 				<series></series>
-				<page>0038-00</page>
+				<page>0038-0040</page>
 				<allauthors>
 					<author type="0">Ramanujam, K. S.</author>
 				</allauthors>
@@ -21355,7 +21412,7 @@
 				<title num="">Gita and Modern Life-2: The Four Principles</title>
 				<feature></feature>
 				<series></series>
-				<page>0042-00</page>
+				<page>0042-0048</page>
 				<allauthors>
 					<author type="0">Vaghul, N.</author>
 				</allauthors>
@@ -21364,7 +21421,7 @@
 				<title num="">A Short Story: The Absent-Minded Professor</title>
 				<feature>Short Story</feature>
 				<series></series>
-				<page>0049-00</page>
+				<page>0049-0056</page>
 				<allauthors>
 					<author type="0">Raja, P.</author>
 				</allauthors>
@@ -21373,7 +21430,7 @@
 				<title num="">Declining Image of A Dedicated Profession</title>
 				<feature></feature>
 				<series></series>
-				<page>0058-00</page>
+				<page>0058-0059</page>
 				<allauthors>
 					<author type="0">Dandapani, Dr. S.</author>
 				</allauthors>
@@ -21382,16 +21439,14 @@
 				<title num="">Valmiki Ramayana</title>
 				<feature></feature>
 				<series>Valmiki Ramayana</series>
-				<page>0060-00</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
+				<page>0060-0061</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title num="">Rajaji As a Political Thinker-2: A Conservative Liberal</title>
 				<feature></feature>
 				<series></series>
-				<page>0062-00</page>
+				<page>0062-0067</page>
 				<allauthors>
 					<author type="0">Anjaneyulu, Dr. D.</author>
 				</allauthors>
@@ -21400,22 +21455,18 @@
 				<title num="25">Smt. Sarala Birla-1</title>
 				<feature></feature>
 				<series>Memoirs of B. K. Birla</series>
-				<page>0069-00</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
+				<page>0069-0073</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title num="">World of Books</title>
 				<feature>World of Books</feature>
 				<series></series>
-				<page>0075-00</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
+				<page>0075-0079</page>
+				<allauthors />
 			</entry>
 		</part>
-		<part pnum="19" date="15" month="05" year="1994" cover="Dr. Nelson Mandela">%%%%%%% prathibha
+		<part pnum="19" date="15" month="05" year="1994" cover="Dr. Nelson Mandela">
 			<entry>
 				<title num="">Prayer</title>
 				<feature>Prayer</feature>
@@ -21424,37 +21475,37 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">A Letter from the President</title>
-				<feature></feature>
+				<title num="">Greetings to President Dr. Nelson Mandela</title>
+				<feature>A Letter from the President</feature>
 				<series></series>
-				<page>0007-00</page>
+				<page>0007-0010</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Subramaniam, C.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title num="">Rebirth of South Africa end of Apartheid Gandhism Vindicated</title>
 				<feature></feature>
 				<series></series>
-				<page>0012-00</page>
+				<page>0012-0017</page>
 				<allauthors>
 					<author type="0">Ramakrishnan, S.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Lotus that Lasts Sri Lakshmi Ashtottaram</title>
-				<feature></feature>
+				<title num="">The Lotus that Lasts : Sri Lakshmi Ashtottaram</title>
+				<feature>The Lotus That Lasts : Sri Lakshmi Astottaram</feature>
 				<series></series>
-				<page>0018-00</page>
+				<page>0018-0019</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Rao, Dr. I. Panduranga</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title num="">Karunashtakam The Travek Kit of Samartha Ramdas</title>
 				<feature></feature>
 				<series></series>
-				<page>0020-00</page>
+				<page>0020-0021</page>
 				<allauthors>
 					<author type="0">Bodhankar, P. R.</author>
 				</allauthors>
@@ -21463,153 +21514,798 @@
 				<title num="">An Historic Change: Dr. Nelson Mandela As President of South Africa</title>
 				<feature></feature>
 				<series></series>
-				<page>0022-00</page>
+				<page>0022-0027</page>
 				<allauthors>
 					<author type="0">V.S.R.K.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">`Mrityunjayan'</title>
 				<feature></feature>
 				<series></series>
-				<page>00-00</page>
+				<page>0029-0035</page>
+				<allauthors>
+					<author type="0">S. J., Fr. Lawrence Sundaram</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Valmiki Ramayana</title>
+				<feature></feature>
+				<series>Valmiki Ramayana</series>
+				<page>0036-0037</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Justice Mahadeo Govind Ranade As a Judge and Social Reformer</title>
+				<feature></feature>
+				<series></series>
+				<page>0038-0041</page>
+				<allauthors>
+					<author type="0">Belvi, Shrinivas B.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Gita and Modern Life-3</title>
+				<feature></feature>
+				<series></series>
+				<page>0042-0050</page>
+				<allauthors>
+					<author type="0">Vaghul, N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Rajaji as a Political Thinker-3</title>
+				<feature></feature>
+				<series></series>
+				<page>0052-0059</page>
+				<allauthors>
+					<author type="0">Dr. D. Anjaneyulu</author>
+				</allauthors>
+			</entry>
+			
+			<entry>
+				<title num="">``Hema": A NOvel in English by the late K. N. Gopalan</title>
+				<feature>Review Article</feature>
+				<series></series>
+				<page>0061-0068</page>
+				<allauthors>
+					<author type="0">Anjaneyulu, Dr. D.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="26">Swantah Sukhaya, Smt. Sarla Birla-2</title>
+				<feature></feature>
+				<series>Memoirs fo B.K. Birla</series>
+				<page>0069-0071</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
+				<series></series>
+				<page>0075-0079</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="20" date="31" month="05" year="1994" cover="">
+			<entry>
+				<title num="">Prayer</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0005-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Dr. Kulandaivel Honoured</title>
+				<feature>A Letter from the President</feature>
+				<series></series>
+				<page>0007-0008</page>
+				<allauthors>
+					<author type="0">Subramaniam, C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Our Duty to the Paramacharya</title>
+				<feature></feature>
+				<series></series>
+				<page>0009-0011</page>
+				<allauthors>
+					<author type="0">Ramakrishnan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Krishnam Vande Jagadgurum - Introducing A New Serial</title>
+				<feature></feature>
+				<series>Krishnam Vande Jagadgurum</series>
+				<page>0012-0013</page>
+				<allauthors>
+					<author type="0">Ramakrishnan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="01">Krishnam Vande Jagadgurum</title>
+				<feature></feature>
+				<series>Krishnam Vande Jagadgurum</series>
+				<page>0014-0015</page>
+				<allauthors>
+					<author tupe="0">Birla, G. D.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">India Preparing for the Next Century</title>
+				<feature></feature>
+				<series></series>
+				<page>0017-0026</page>
+				<allauthors>
+					<author type="0">Rao, P. V. Narasimha</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Dr. K. Brahmananda Reddy: A Tribute</title>
+				<feature>A Tribute</feature>
+				<series></series>
+				<page>0028-0029</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">The Lotus That Lasts : Sri Lakshmi Astottaram</title>
+				<feature>The Lotus That Lasts : Sri Lakshmi Astottaram</feature>
+				<series></series>
+				<page>0030-0031</page>
+				<allauthors>
+					<author type="0">Rao, Dr. I. Panduranga</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Kanchi Mahaswami As A Raconteur of Stories About Poets</title>
+				<feature></feature>
+				<series></series>
+				<page>0032-0039</page>
+				<allauthors>
+					<author type="0">V.S.R.K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Valmiki Ramayana</title>
+				<feature></feature>
+				<series>Valmiki Ramayana</series>
+				<page>0040-0041</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">A Pupil's Tribute: Prof. K. Swaminathan-Scholar, Teacher and Editor</title>
+				<feature></feature>
+				<series></series>
+				<page>0042-0046</page>
+				<allauthors>
+					<author type="0">Ramaswami, Prof. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A Fine Flower of Indian Culture</title>
+				<feature></feature>
+				<series></series>
+				<page>0048-0048</page>
+				<allauthors>
+					<author type="0">Jagadisan, Prof. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Wordsworth's Poetry and Vedic Formulations</title>
+				<feature></feature>
+				<series></series>
+				<page>0049-0056</page>
+				<allauthors>
+					<author type="0">Swaminathan, Prof. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Prodigious Feats of Memory</title>
+				<feature></feature>
+				<series></series>
+				<page>0059-0061</page>
+				<allauthors>
+					<author type="0">Seshaiah, R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="26">Our Daughter-In-Law Rajashree</title>
+				<feature></feature>
+				<series>Memoirs of B.K. Birla</series>
+				<page>0063-0064</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">World of Books</title>
+				<feature>World of Books</feature>
+				<series></series>
+				<page>0066-0069</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
+				<series></series>
+				<page>0071-0078</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="21" date="15" month="06" year="1994" cover="His Holiness Jagadguru Sankaracharya of Sringeri Sarda Peetha, Sri Bharati Tirtha, performing puja to Siddhi Vinayaka at Prabhadevi, Bombay. (Inset) Temple">
+			<entry>
+				<title num="">Prayer</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0005-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Legal Battles and Patriotic Urges</title>
+				<feature>A Letter from the President</feature>
+				<series></series>
+				<page>0007-0010</page>
+				<allauthors>
+					<author type="0">Subramaniam, C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bombay Siddhi Vinayaka Temple Sringeri Jagadguru Performs Kumbhabhisheka</title>
+				<feature>Our Cover</feature>
+				<series></series>
+				<page>0012-0015</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="02">Krishnam Vande Jagadgurum</title>
+				<feature></feature>
+				<series>Krishnam Vande Jagadgurum</series>
+				<page>0016-0018</page>
+				<allauthors>
+					<author type="0">Birla, G. D.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Sage of Dakshineswar</title>
+				<feature></feature>
+				<series></series>
+				<page>0019-0023</page>
+				<allauthors>
+					<author type="0">Navaratnam, the late Ratna ma</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Lotus That Lasts : Sri Lakshmi Astottaram</title>
+				<feature>The Lotus That Lasts : Sri Lakshmi Astottaram</feature>
+				<series></series>
+				<page>0024-0025</page>
+				<allauthors>
+					<author type="0">Rao, Dr. I. Panduranga</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Multi-Cultural Vision and Values for a New World Order Role of Men of Religion-I</title>
+				<feature></feature>
+				<series></series>
+				<page>0026-0033</page>
+				<allauthors>
+					<author type="0">Singhvi, Dr. L. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Valmiki Ramayana</title>
+				<feature></feature>
+				<series>Valmiki Ramayana</series>
+				<page>0034-0035</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">How Gandhiji Espoused the Right</title>
+				<feature></feature>
+				<series></series>
+				<page>0036-0041</page>
+				<allauthors>
+					<author type="0">Taleyarkhan, Dr. Homi J. H.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Kanchi Paramacharya on Poets and Poetry</title>
+				<feature></feature>
+				<series></series>
+				<page>0042-0045</page>
+				<allauthors>
+					<author type="0">V.S.R.K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="28">Our Son-in-Law Prakash Mohta and Our Daughter Jayashree</title>
+				<feature></feature>
+				<series>Memoirs of B. K. Birla</series>
+				<page>0047-0053</page>
+				<allauthors>
+					<author type="0">Memoirs of B.K. Birla</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The God That Did Not Fail</title>
+				<feature></feature>
+				<series></series>
+				<page>0055-0058</page>
+				<allauthors>
+					<author type="0">Krishnan, Lakshmi</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">On Yoga `Yoga Meditation and the Guru'</title>
+				<feature>Review Article</feature>
+				<series></series>
+				<page>0060-0065</page>
+				<allauthors>
+					<author type="0">Bilimoria, Purusottam</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">World of Books</title>
+				<feature>World of Books</feature>
+				<series></series>
+				<page>0067-0071</page>
 				<allauthors>
 					<author type="0"></author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
-				<feature></feature>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
 				<series></series>
-				<page>00-00</page>
+				<page>0072-0078</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="22" date="30" month="06" year="1994" cover="Lokmanva Bal Gangadhar Tilak">
+			<entry>
+				<title num="">Prayer</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0005-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Legal Battles and Patriotic Urges-2</title>
+				<feature>A Letter from the President</feature>
+				<series></series>
+				<page>0007-0013</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Subramaniam, C.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
-				<feature></feature>
+				<title num="">The Lotus that Lasts : Sri Lakshmi Ashtottaram</title>
+				<feature>The Lotus that Lasts : Sri Lakshmi Ashtottaram</feature>
 				<series></series>
-				<page>00-00</page>
+				<page>0014-0015</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Rao, Dr. I. Panduranga</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">The Great Tilak Trial of 1908</title>
 				<feature></feature>
 				<series></series>
-				<page>00-00</page>
+				<page>0016-0019</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Belvi, Shrinivas B.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="03">About Biographies</title>
 				<feature></feature>
-				<series></series>
-				<page>00-00</page>
+				<series>Krishnam Vande Jagadgurum</series>
+				<page>0020-0021</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Birla, G. D.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">Jagannath As Lokayata Brahma</title>
 				<feature></feature>
 				<series></series>
-				<page>00-00</page>
+				<page>0022-0030</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Nayak, Prof. G. C.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">Multi-Cultural Vision and Values For A New World Order-2 : Cultural Pluralism</title>
 				<feature></feature>
 				<series></series>
-				<page>00-00</page>
+				<page>0032-0037</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Singhvi, Dr. L. M.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">Kanchi Mahaswami on Poets and Poetry</title>
 				<feature></feature>
 				<series></series>
-				<page>00-00</page>
+				<page>0039-0041</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">V.S.R.K.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">Valmiki Ramayana</title>
+				<feature></feature>
+				<series>Valmiki Ramayana</series>
+				<page>0042-0043</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Has Medicine Lost Its Heart?</title>
 				<feature></feature>
 				<series></series>
-				<page>00-00</page>
+				<page>0044-0046</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Hegde, Prof. B. M.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">The Japanese HaikuL: Ode to Nature</title>
 				<feature></feature>
 				<series></series>
-				<page>00-00</page>
+				<page>0048-0050</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Merchant, Adi F.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="29">Our Daughter Manjushree</title>
+				<feature></feature>
+				<series>Memoirs of B.K. Birla</series>
+				<page>0052-0057</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Anantha Bharatiyar</title>
 				<feature></feature>
 				<series></series>
-				<page>00-00</page>
+				<page>0059-0059</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Ramakrishna, N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Seevalaperi Pratyaksha Sri Durgambika Temple</title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0063</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">World of Books</title>
+				<feature>World of Books</feature>
+				<series></series>
+				<page>0065-0041</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
+				<series></series>
+				<page>0073-0077</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="23" date="15" month="07" year="1994" cover="Sant Keshavadas">
+			<entry>
+				<title num="">Prayer</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0005-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">An Election Promise Kept</title>
+				<feature>A Letter from the President</feature>
+				<series></series>
+				<page>0007-0009</page>
+				<allauthors>
+					<author type="0">Subramaniam, C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Lotus that Lasts : Sri Lakshmi Ashtottaram</title>
+				<feature>The Lotus That Lasts : Sri Lakshmi Astottaram</feature>
+				<series></series>
+				<page>0010-0011</page>
+				<allauthors>
+					<author type="0">Rao, Dr. I. Panduranga</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Multi-Cultural Vision and Values For A New World Order-3: U. N. Declarations</title>
+				<feature></feature>
+				<series></series>
+				<page>0012-0017</page>
+				<allauthors>
+					<author type="0">Singhvi, Dr. L. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="04">Chronicles of Good and Bad</title>
+				<feature></feature>
+				<series>Krishnam Vande Jagadgurum</series>
+				<page>0018-0020</page>
+				<allauthors>
+					<author type="0">Birla, G. D.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sadguru Sant Keshavadas Turns 60</title>
+				<feature></feature>
+				<series></series>
+				<page>0021-0028</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Our Inheritance-Sanskrit</title>
+				<feature></feature>
+				<series></series>
+				<page>0031-0035</page>
+				<allauthors>
+					<author type="0">Panikkar, Sardar K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Kanchi Mahaswami on Poets and Poetry</title>
+				<feature></feature>
+				<series></series>
+				<page>0036-0039</page>
+				<allauthors>
+					<author type="0">V.S.R.K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Valmiki Ramayana: Kishkindhakanda</title>
+				<feature></feature>
+				<series>Valmiki Ramayana</series>
+				<page>0040-0041</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Shri Radhakissen Kanoria: A Life of Nobility and Goodness</title>
+				<feature></feature>
+				<series></series>
+				<page>0042-0045</page>
+				<allauthors>
+					<author type="0">Mehta, Girdharilal</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sathabhishekam of Charandas Megji Bhavan's Trustee and Treasurer</title>
+				<feature></feature>
+				<series></series>
+				<page>0047-0050</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Justice Sankaranarayana Iyer</title>
+				<feature>A Tribute</feature>
+				<series></series>
+				<page>0052-0054</page>
+				<allauthors>
+					<author type="0">Gopalaraman, Prof. P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Skanda Purana</title>
+				<feature></feature>
+				<series></series>
+				<page>0056-0066</page>
+				<allauthors>
+					<author type="0">Nambiar, Dr. K. Damodaran</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="30">Our Grandson Kumar Mangalam and Daughter-in-Law Neerja</title>
+				<feature></feature>
+				<series>Memoirs of B.K. Birla</series>
+				<page>0068-0071</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">The Carnival</title>
+				<feature></feature>
+				<series></series>
+				<page>0072-0080</page>
+				<allauthors>
+					<author type="0">Srinivasan, Sarojini</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="" date="" month="" year="" cover="">
+		<part pnum="24" date="31" month="07" year="1994" cover="A Scene from Kalidasa's Sakuntalam (Sanskrit) Staged by Samskrita Ranga this year in Madras">
 			<entry>
-				<title num=""></title>
-				<feature></feature>
+				<title num="">Prayer</title>
+				<feature>Prayer</feature>
 				<series></series>
-				<page>00-00</page>
+				<page>0005-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Alladi Krishnaswami Aiyar</title>
+				<feature>A Letter from the President</feature>
+				<series></series>
+				<page>0007-0010</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Subramaniam, C.</author>
 				</allauthors>
 			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
 			<entry>
-				<title num=""></title>
+				<title num="05">Bhagavata Dharma</title>
 				<feature></feature>
-				<series></series>
-				<page>00-00</page>
+				<series>Krishnam Vande Jagadgurum</series>
+				<page>0012-0013</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Birla, Ghanshyamdas</author>
 				</allauthors>
 			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
 			<entry>
-				<title num=""></title>
+				<title num="">Story of Sri Sarada Devi</title>
 				<feature></feature>
 				<series></series>
-				<page>00-00</page>
+				<page>0014-0017</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Sudarshanananda, Swami</author>
 				</allauthors>
 			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
 			<entry>
-				<title num=""></title>
+				<title num="">The Lotus that Lasts : Sri Lakshmi Astottaram</title>
+				<feature>The Lotus that Lasts : Sri Lakshmi Astottaram</feature>
+				<series></series>
+				<page>0018-0019</page>
+				<allauthors>
+					<author type="0">Rao, Dr. I. Panduranga</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Multi-Cultural Vision and Values for A New World Order-4</title>
 				<feature></feature>
 				<series></series>
-				<page>00-00</page>
+				<page>0020-0022</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Singhvi, Dr. L. M.</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Religion Helps Man Realise Higher Aspiration</title>
+				<feature></feature>
+				<series></series>
+				<page>0023-0027</page>
+				<allauthors>
+					<author type="0">Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Valmiki Ramayana</title>
+				<feature></feature>
+				<series>Valmiki Ramayana</series>
+				<page>0028-0029</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Religion As Much Needed As Breathing</title>
+				<feature></feature>
+				<series></series>
+				<page>0030-0031</page>
+				<allauthors>
+					<author type="0">Raghunathan, N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Kanchi Mahaswami On Poets and Poetry</title>
+				<feature></feature>
+				<series></series>
+				<page>0033-0036</page>
+				<allauthors>
+					<author type="0">V.S.R.K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A Cultural Event in Madras: Sanskrit Sakuntalam on the Stage</title>
+				<feature></feature>
+				<series></series>
+				<page>0038-0040</page>
+				<allauthors>
+					<author type="0">Anjaneyulu, Dr. D.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="31">Our Granddaughter Vasavadatta</title>
+				<feature></feature>
+				<series>Memoirs of B.K. Birla</series>
+				<page>0042-0042</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Death and Grief</title>
+				<feature></feature>
+				<series></series>
+				<page>0043-0049</page>
+				<allauthors>
+					<author type="0">Rajput, Prof. J.S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Subud - An Indonesian Spiritual Movement</title>
+				<feature></feature>
+				<series></series>
+				<page>0051-0053</page>
+				<allauthors>
+					<author type="0">Jagadisan, Prof. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Historic and Holy Suparaka of Maharashtra</title>
+				<feature></feature>
+				<series></series>
+				<page>0054-0055</page>
+				<allauthors>
+					<author type="0">Krishnamurthi, K. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">N. Raghunathan - A Great Translator</title>
+				<feature></feature>
+				<series></series>
+				<page>0057-0060</page>
+				<allauthors>
+					<author type="0">Krishnamurthy, Dr. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Positive Thinking and Efficiency</title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0064</page>
+				<allauthors>
+					<author type="0">Hegde, Prof. B. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A Folktale from Pondicherry: The Strange Cow</title>
+				<feature></feature>
+				<series></series>
+				<page>0065-0067</page>
+				<allauthors>
+					<author type="0">Raja, Dr. P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Man and His Mind</title>
+				<feature>Review Article</feature>
+				<series></series>
+				<page>0069-0073</page>
+				<allauthors>
+					<author type="0">Nihsreyasananda, Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">World of Books</title>
+				<feature>World of Books</feature>
+				<series></series>
+				<page>0074-0074</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Dance in Aid of Blind Relief Centre</title>
+				<feature></feature>
+				<series></series>
+				<page>0075-0075</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
+				<series></series>
+				<page>0076-0080</page>
+				<allauthors />
 			</entry>
 		</part>
 	</volume>
