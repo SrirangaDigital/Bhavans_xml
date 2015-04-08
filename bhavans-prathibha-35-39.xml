@@ -254,7 +254,7 @@
 			</entry>
 			<entry>
 				<title num="">Bharat Ratna, Brahma Vidya Bhaskara Sarvepalli Radhakrishnan</title>
-				<feature>Centenary Homage</feature>
+				<feature>Homage</feature>
 				<series></series>
 				<page>0007-0016</page>
 				<allauthors>
@@ -366,7 +366,7 @@
 			<entry>
 				<title num="">Valmiki Ramayana</title>
 				<feature></feature>
-				<series>Valmiki Ramavana</series>
+				<series>Valmiki Ramayana</series>
 				<page>0012-0015</page>
 				<allauthors>
 					<author type="0">Kanda, Ayodhya</author>
@@ -481,8 +481,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Bhavans's News</title>
-				<feature>Bhavans's News</feature>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
 				<series></series>
 				<page>0088-0095</page>
 				<allauthors />
@@ -913,7 +913,7 @@
 			</entry>
 			<entry>
 				<title num="">The World of Books</title>
-				<feature>World of Book</feature>
+				<feature>World of Books</feature>
 				<series></series>
 				<page>0092-0096</page>
 				<allauthors />
@@ -945,7 +945,7 @@
 			</entry>
 			<entry>
 				<title num="">President's Message</title>
-				<feature></feature>
+				<feature>President's Message</feature>
 				<series></series>
 				<page>0009-0009</page>
 				<allauthors />
@@ -1339,7 +1339,7 @@
 			</entry>
 			<entry>
 				<title num="">A Centenary Homage &#8212; Maulana Azad Kalam Azad</title>
-				<feature></feature>
+				<feature>Homage</feature>
 				<series></series>
 				<page>0014-0031</page>
 				<allauthors>
@@ -1348,7 +1348,7 @@
 			</entry>
 			<entry>
 				<title num="">A Centenary Homage &#8212; Maulana Azad: A Man of Luminous Intelligence</title>
-				<feature></feature>
+				<feature>Homage</feature>
 				<series></series>
 				<page>0032-0037</page>
 				<allauthors>
@@ -1778,7 +1778,7 @@
 			</entry>
 			<entry>
 				<title num="">An Enchanted Prince At Bhavan's London Kendra</title>
-				<feature>Special feature</feature>
+				<feature>Special Feature</feature>
 				<series></series>
 				<page>0026-0048</page>
 				<allauthors />
@@ -2161,7 +2161,7 @@
 			<entry>
 				<title num="04">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0049-0056</page>
 				<allauthors>
 					<author type="0"></author>
@@ -2318,7 +2318,7 @@
 			<entry>
 				<title num="05">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -2458,7 +2458,7 @@
 			<entry>
 				<title num="06">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -2591,7 +2591,7 @@
 			<entry>
 				<title num="07">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -2674,7 +2674,7 @@
 			<entry>
 				<title num="03">Iswar Chandra Vidyasagar (1820-1891)</title>
 				<feature></feature>
-				<series>>Architects and Builders of Modern India</series>
+				<series>Architects and Builders of Modern India</series>
 				<page>0014-0015</page>
 				<allauthors>
 					<author type="0">S. R.</author>
@@ -2861,7 +2861,7 @@
 			<entry>
 				<title num="09">The Mahabharat</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -3022,7 +3022,7 @@
 			<entry>
 				<title num="10">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors>
 					<author type="0"></author>
@@ -3171,7 +3171,7 @@
 			<entry>
 				<title num="11">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -3307,7 +3307,7 @@
 			<entry>
 				<title num="12">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -3475,7 +3475,7 @@
 			<entry>
 				<title num="13">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -3539,7 +3539,7 @@
 			<entry>
 				<title num="18">Sant Eknath (1533-1599 AD)</title>
 				<feature></feature>
-				<series>Divinte Integrators</series>
+				<series>Divine Integrators</series>
 				<page>0008-0009</page>
 				<allauthors>
 					<author type="0">S. R.</author>
@@ -3895,7 +3895,7 @@
 			<entry>
 				<title num="14">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -4091,7 +4091,7 @@
 			<entry>
 				<title num="15">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -4252,7 +4252,7 @@
 			<entry>
 				<title num="16">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -4324,7 +4324,7 @@
 			</entry>
 			<entry>
 				<title num="">Jagadguru Abhinava Vidya Teertha Mahasannidhanam</title>
-				<feature>Our Homage</feature>
+				<feature>Homage</feature>
 				<series></series>
 				<page>0008-0018</page>
 				<allauthors>
@@ -4382,7 +4382,7 @@
 			<entry>
 				<title num="17">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors>
 					<author type="0"></author>
@@ -4442,7 +4442,7 @@
 			</entry>
 			<entry>
 				<title num="">President's Message</title>
-				<feature></feature>
+				<feature>President's Message</feature>
 				<series></series>
 				<page>0007-0007</page>
 				<allauthors />
@@ -4810,7 +4810,7 @@
 			<entry>
 				<title num="18">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -4861,7 +4861,7 @@
 			</entry>
 			<entry>
 				<title num="">Bhavan's News</title>
-				<feature>Bhavan's Nes</feature>
+				<feature>Bhavan's News</feature>
 				<series></series>
 				<page>0086-0096</page>
 				<allauthors />
@@ -5051,7 +5051,7 @@
 			<entry>
 				<title num="19">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -5173,7 +5173,7 @@
 			<entry>
 				<title num="20">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -5314,7 +5314,7 @@
 			<entry>
 				<title num="21">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -5486,7 +5486,7 @@
 			<entry>
 				<title num="22">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors>
 					<author type="0"></author>
@@ -5619,7 +5619,7 @@
 			<entry>
 				<title num="23">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -5721,7 +5721,7 @@
 			<entry>
 				<title num="24">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -5882,7 +5882,7 @@
 			<entry>
 				<title num="25">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -5993,7 +5993,7 @@
  			<entry>
 				<title num="26">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Picutres</series>
+				<series>Mahabharata Through Picutres</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -6142,7 +6142,7 @@
 			<entry>
 				<title num="27">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -6285,7 +6285,7 @@
 			<entry>
 				<title num="28">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -6369,7 +6369,7 @@
 			<entry>
 				<title num="27">Subramania Bharati (1882-1921)</title>
 				<feature></feature>
-				<series>Architects and Buiulders of Modern India</series>
+				<series>Architects and Builders of Modern India</series>
 				<page>0024-0025</page>
 				<allauthors>
 					<author type="0">S.R.</author>
@@ -6430,7 +6430,7 @@
 			<entry>
 				<title num="29">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -6570,7 +6570,7 @@
 			<entry>
 				<title num="30">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata throught Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -6715,7 +6715,7 @@
 			<entry>
 				<title num="31">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -7014,7 +7014,7 @@
 			<entry>
 				<title num="32">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0045-0052</page>
 				<allauthors />
 			</entry>
@@ -7150,7 +7150,7 @@
 			<entry>
 				<title num="33">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -7204,7 +7204,7 @@
 			</entry>
 			<entry>
 				<title num="">Bhavan's News</title>
-				<feature>Bhavna's News</feature>
+				<feature>Bhavan's News</feature>
 				<series></series>
 				<page>0087-0096</page>
 				<allauthors />
@@ -7554,7 +7554,7 @@
 			<entry>
 				<title num="34">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -7603,7 +7603,7 @@
 			</entry>
 			<entry>
 				<title num="">The World of Books</title>
-				<feature>World of Book</feature>
+				<feature>World of Books</feature>
 				<series></series>
 				<page>0089-0095</page>
 				<allauthors />
@@ -7864,7 +7864,7 @@
 			<entry>
 				<title num="35">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -7903,7 +7903,7 @@
 			<entry>
 				<title num="09">Fire in The Heart</title>
 				<feature></feature>
-				<series>Madhupamajari</series>
+				<series>Madhupamanjari</series>
 				<page>0071-0073</page>
 				<allauthors>
 					<author type="0">V.S.R.K.</author>
@@ -7911,7 +7911,7 @@
 			</entry>
 			<entry>
 				<title num="">The World of Books</title>
-				<feature>World of Book</feature>
+				<feature>World of Books</feature>
 				<series></series>
 				<page>0079-0085</page>
 				<allauthors />
@@ -8023,7 +8023,7 @@
 			<entry>
 				<title num="36">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -8065,7 +8065,7 @@
 			</entry>
 			<entry>
 				<title num="">The World of Books</title>
-				<feature>World of Book</feature>
+				<feature>World of Books</feature>
 				<series></series>
 				<page>0081-0081</page>
 				<allauthors />
@@ -8097,7 +8097,7 @@
 			</entry>
 			<entry>
 				<title num="">Our Cover</title>
-				<feature>Ovr Cover</feature>
+				<feature>Our Cover</feature>
 				<series></series>
 				<page>0007-0009</page>
 				<allauthors />
@@ -8450,7 +8450,7 @@
 			<entry>
 				<title num="37">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -8614,7 +8614,7 @@
 			<entry>
 				<title num="38">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -8757,7 +8757,7 @@
 			<entry>
 				<title num="40">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -8887,7 +8887,7 @@
 			<entry>
 				<title num="41">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -9023,7 +9023,7 @@
 			<entry>
 				<title num="42">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -9137,7 +9137,7 @@
 			<entry>
 				<title num="43">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -9264,7 +9264,7 @@
 			<entry>
 				<title num="44">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -9421,7 +9421,7 @@
 			<entry>
 				<title num="45">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -9555,7 +9555,7 @@
 			<entry>
 				<title num="46">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -9611,7 +9611,7 @@
 		<part pnum="16" date="31" month="03" year="1991" cover="Shri Ram Mandir, Jaipur">
 			<entry>
 				<title num="">Prayer</title>
-				<feature>Prayuer</feature>
+				<feature>Prayer</feature>
 				<series></series>
 				<page>0005-0005</page>
 				<allauthors />
@@ -9678,7 +9678,7 @@
 			<entry>
 				<title num="">Episode of Manthara in Valmiki Ramayana</title>
 				<feature></feature>
-				<series>Valmiki Ramavana</series>
+				<series>Valmiki Ramayana</series>
 				<page>0042-0046</page>
 				<allauthors>
 					<author type="0">Chari, Dr. S. V. R.</author>
@@ -9687,7 +9687,7 @@
 			<entry>
 				<title num="47">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -9817,7 +9817,7 @@
 			<entry>
 				<title num="48">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -9940,7 +9940,7 @@
 			<entry>
 				<title num="49">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -10080,14 +10080,14 @@
 			</entry>
 			<entry>
 				<title num="">Homage: Rabindranath Tagore</title>
-				<feature></feature>
+				<feature>Homage</feature>
 				<series></series>
 				<page>0031-0031</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title num="">Homage: Gopal Krishna Gokhale (May 9, 1866 - Feb. 15, 1915)</title>
-				<feature></feature>
+				<feature>Homage</feature>
 				<series></series>
 				<page>0033-0033</page>
 				<allauthors />
@@ -10102,7 +10102,7 @@
 			<entry>
 				<title num="50">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -10197,7 +10197,7 @@
 			<entry>
 				<title num="51">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-00</page>
 				<allauthors />
 			</entry>
@@ -10246,7 +10246,7 @@
 			</entry>
 			<entry>
 				<title num="">The World of Books</title>
-				<feature>World the Books</feature>
+				<feature>World of Books</feature>
 				<series></series>
 				<page>0083-0086</page>
 				<allauthors>
@@ -10271,7 +10271,7 @@
 			</entry>
 			<entry>
 				<title num="">Dharma - II</title>
-				<feature>A Letter from the President:</feature>
+				<feature>A Letter from the President</feature>
 				<series></series>
 				<page>0006-0009</page>
 				<allauthors>
@@ -10349,7 +10349,7 @@
 			<entry>
 				<title num="52">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -10423,7 +10423,7 @@
 			</entry>
 			<entry>
 				<title num="">Dharama - III</title>
-				<feature>A Letter from the President:</feature>
+				<feature>A Letter from the President</feature>
 				<series></series>
 				<page>0008-0013</page>
 				<allauthors>
@@ -10499,7 +10499,7 @@
 			<entry>
 				<title num="53">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharta through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -10544,7 +10544,7 @@
 			</entry>
 			<entry>
 				<title num="">Dharma - IV</title>
-				<feature>A Letter from the President:</feature>
+				<feature>A Letter from the President</feature>
 				<series></series>
 				<page>0007-0011</page>
 				<allauthors>
@@ -10604,7 +10604,7 @@
 			<entry>
 				<title num="54">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -10669,7 +10669,7 @@
 			</entry>
 			<entry>
 				<title num="">The Changing Scenario In India</title>
-				<feature>A Letter from the President:</feature>
+				<feature>A Letter from the President</feature>
 				<series></series>
 				<page>0009-0013</page>
 				<allauthors>
@@ -10756,7 +10756,7 @@
 			<entry>
 				<title num="55">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -10787,7 +10787,7 @@
 			</entry>
 			<entry>
 				<title num="">An English Translation of a Great Commentary on the Gita</title>
-				<feature>World to Books</feature>
+				<feature>World of Books</feature>
 				<series></series>
 				<page>0095-0096</page>
 				<allauthors>
@@ -10881,9 +10881,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Valmiki Ramavana</title>
+				<title num="">Valmiki Ramayana</title>
 				<feature></feature>
-				<series>Valmiki Ramavana</series>
+				<series>Valmiki Ramayana</series>
 				<page>0048-0049</page>
 				<allauthors />
 			</entry>
@@ -10997,8 +10997,8 @@
 			</entry>
 			<entry>
 				<title num="">Homage to Ambedkar: Dr. Ambedkar: A Man of Vision</title>
-				<feature></feature>
-				<series>Homage</series>
+				<feature>Homage</feature>
+				<series></series>
 				<page>0160-0173</page>
 				<allauthors>
 					<author type="0">Munshi, Dr. K. M.</author>
@@ -11015,7 +11015,7 @@
 			</entry>
 			<entry>
 				<title num="">Centenary Homage to Bharat Ratna Dr. Babasaheb Ambedkar</title>
-				<feature></feature>
+				<feature>Homage</feature>
 				<series></series>
 				<page>0187-0197</page>
 				<allauthors>
@@ -11116,7 +11116,7 @@
 			<entry>
 				<title num="56">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -11238,7 +11238,7 @@
 			<entry>
 				<title num="57">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -11381,7 +11381,7 @@
 			<entry>
 				<title num="58">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -11527,7 +11527,7 @@
 			<entry>
 				<title num="59">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -11627,7 +11627,7 @@
 			<entry>
 				<title num="60">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -12009,7 +12009,7 @@
 			<entry>
 				<title num="61">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>	
@@ -12127,8 +12127,8 @@
 			</entry>
 			<entry>
 				<title num="">Dr. Rajendra Prasad (Dec. 3, 1884 - Feb. 28, 1963)</title>
-				<feature></feature>
-				<series>Homage</series>
+				<feature>Homage</feature>
+				<series></series>
 				<page>0028-0028</page>
 				<allauthors>
 					<author type="0">Devi, Indira</author>
@@ -12261,7 +12261,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Gandhari, Sita and Draupadi - 6:</title>
+				<title num="">Gandhari, Sita and Draupadi - 6</title>
 				<feature></feature>
 				<series></series>
 				<page>0051-0057</page>
@@ -12404,7 +12404,7 @@
 			<entry>
 				<title num="63">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -12668,7 +12668,7 @@
 			<entry>
 				<title num="64">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Picutres</series>
+				<series>Mahabharata Through Picutres</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -12795,7 +12795,7 @@
 			<entry>
 				<title num="65">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -12920,7 +12920,7 @@
 			<entry>
 				<title num="66">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -13016,7 +13016,7 @@
 			<entry>
 				<title num="">Valmiki Ramayana</title>
 				<feature></feature>
-				<series>Valmiki Ramavana</series>
+				<series>Valmiki Ramayana</series>
 				<page>0020-0021</page>
 				<allauthors />
 			</entry>
@@ -13059,7 +13059,7 @@
 			<entry>
 				<title num="67">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0045-0048</page>
 				<allauthors />
 			</entry>
@@ -13222,7 +13222,7 @@
 			<entry>
 				<title num="68">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -13393,7 +13393,7 @@
 			<entry>
 				<title num="69">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -13554,7 +13554,7 @@
 			<entry>
 				<title num="70">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Picutres</series>
+				<series>Mahabharata Through Picutres</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -13713,7 +13713,7 @@
 			<entry>
 				<title num="70">Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -13984,7 +13984,7 @@
 			<entry>
 				<title num="71">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -14046,8 +14046,8 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Bhavans News</title>
-				<feature>Bhavans News</feature>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
 				<series></series>
 				<page>0093-0096</page>
 				<allauthors />
@@ -14123,7 +14123,7 @@
 			<entry>
 				<title num="72">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -14257,7 +14257,7 @@
 			<entry>
 				<title num="73">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -14741,7 +14741,7 @@
 			<entry>
 				<title num="74">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Picutes</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -14902,7 +14902,7 @@
 			<entry>
 				<title num="75">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -15055,7 +15055,7 @@
 			<entry>
 				<title num="76">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -15185,7 +15185,7 @@
 			<entry>
 				<title num="77">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -15574,7 +15574,7 @@
 			<entry>
 				<title num="78">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -15707,7 +15707,7 @@
 			<entry>
 				<title num="79">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0051-0054</page>
 				<allauthors />
 			</entry>
@@ -15884,7 +15884,7 @@
 			<entry>
 				<title num="80">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0051-0054</page>
 				<allauthors />
 			</entry>
@@ -16087,7 +16087,7 @@
 			<entry>
 				<title num="81">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0051-0054</page>
 				<allauthors />
 			</entry>
@@ -16230,8 +16230,8 @@
 			</entry>
 			<entry>
 				<title num="">Homage</title>
-				<feature></feature>
-				<series>Homage</series>
+				<feature>Homage</feature>
+				<series></series>
 				<page>0019-0019</page>
 				<allauthors />
 			</entry>
@@ -16286,7 +16286,7 @@
 			<entry>
 				<title num="82">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0051-0054</page>
 				<allauthors />
 			</entry>
@@ -16470,7 +16470,7 @@
 			<entry>
 				<title num="83">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0051-0054</page>
 				<allauthors />
 			</entry>
@@ -16763,7 +16763,7 @@
 			<entry>
 				<title num="84">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -17162,7 +17162,7 @@
 			<entry>
 				<title num="01">Aspects of Our Religion</title>
 				<feature></feature>
-				<series>Aspects of Religion</series>
+				<series>Aspects of Our Religion</series>
 				<page>0012-0017</page>
 				<allauthors>
 					<author type="0">Paramacharya, Kanchi</author>
@@ -17221,7 +17221,7 @@
 			<entry>
 				<title num="86">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0051-0054/page>
 				<allauthors />
 			</entry>
@@ -17331,7 +17331,7 @@
 			<entry>
 				<title num="02">Ours-a Universal Religion</title>
 				<feature></feature>
-				<series>Aspects of Religion</series>
+				<series>Aspects of Our Religion</series>
 				<page>0012-0013</page>
 				<allauthors>
 					<author type="0">Paramacharya, Kanchi</author>
@@ -17367,14 +17367,14 @@
 			<entry>
 				<title num="02">Preamble</title>
 				<feature></feature>
-				<series>Memoirs of B.K. Birla</series>
+				<series>Memoirs of B. K. Birla</series>
 				<page>0031-0033</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title num="0">Bhagavatpada's Prasnottara-Ratna-Malika</title>
 				<feature></feature>
-				<series>Memoirs of B.K. Birla</series>
+				<series>Memoirs of B. K. Birla</series>
 				<page>0034-0035</page>
 				<allauthors />
 			</entry>
@@ -17399,7 +17399,7 @@
 			<entry>
 				<title num="87">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -17509,7 +17509,7 @@
 			<entry>
 				<title num="03">``Age" of the Vedas</title>
 				<feature></feature>
-				<series>Aspects of Religion</series>
+				<series>Aspects of Our Religion</series>
 				<page>0016-0018</page>
 				<allauthors>
 					<author type="0">Paramacharya, Kanchi</author>
@@ -17559,7 +17559,7 @@
 			<entry>
 				<title num="88">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0051-0054</page>
 				<allauthors />
 			</entry>
@@ -17649,7 +17649,7 @@
 			<entry>
 				<title num="04">Contents of the Vedas</title>
 				<feature></feature>
-				<series>Aspects of Religion</series>
+				<series>Aspects of Our Religion</series>
 				<page>0010-0011</page>
 				<allauthors>
 					<author type="0">Paramacharya, Kanchi</author>
@@ -17717,7 +17717,7 @@
 			<entry>
 				<title num="04">Getting Educated</title>
 				<feature></feature>
-				<series>Memoirs of B.K. Birla</series>
+				<series>Memoirs of B. K. Birla</series>
 				<page>0041-0045</page>
 				<allauthors>
 					<author type="0">Birla, B. K.</author>
@@ -17726,7 +17726,7 @@
 			<entry>
 				<title num="89">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -17771,8 +17771,8 @@
 			</entry>
 			<entry>
 				<title num="">The World of Books</title>
-				<feature></feature>
-				<series>World of Books</series>
+				<feature>World of Books</feature>
+				<series></series>
 				<page>0073-0075</page>
 				<allauthors>
 					<author type="0"></author>
@@ -17825,7 +17825,7 @@
 			<entry>
 				<title num="05">The Spiritual Path: Karmanushthana</title>
 				<feature></feature>
-				<series>Aspects of Religion</series>
+				<series>Aspects of Our Religion</series>
 				<page>0016-0019</page>
 				<allauthors>
 					<author type="0">Paramacharya, kanchi</author>
@@ -17964,7 +17964,7 @@
 			</entry>
 			<entry>
 				<title num="">World Parliament of Religions for Harmony</title>
-				<feature>>A Letter from the President</feature>
+				<feature>A Letter from the President</feature>
 				<series></series>
 				<page>0007-0010</page>
 				<allauthors>
@@ -17974,7 +17974,7 @@
 			<entry>
 				<title num="06">The Spiritual Path Devotion to God</title>
 				<feature></feature>
-				<series>Aspects of Religion</series>
+				<series>Aspects of Our Religion</series>
 				<page>0012-0016</page>
 				<allauthors>
 					<author type="0">Paramacharya, Kanchi</author>
@@ -18024,7 +18024,7 @@
 			<entry>
 				<title num="90">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -18139,7 +18139,7 @@
 			<entry>
 				<title num="07">The Spiritual Path Acquisition of Jnaana</title>
 				<feature></feature>
-				<series>Aspects of Religion</series>
+				<series>Aspects of Our Religion</series>
 				<page>0014-0015</page>
 				<allauthors>
 					<author type="0">Paramacharya, Kanchi</author>
@@ -18198,7 +18198,7 @@
 			<entry>
 				<title num="91">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -18297,7 +18297,7 @@
 			<entry>
 				<title num="08">The Gita Way</title>
 				<feature></feature>
-				<series>Aspects of Religion</series>
+				<series>Aspects of Our Religion</series>
 				<page>0015-0019</page>
 				<allauthors>
 					<author type="0">Paramacharya, Kanchi</author>
@@ -18349,7 +18349,7 @@
 			<entry>
 				<title num="92">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Picutres</series>
+				<series>Mahabharata Through Picutres</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -18447,7 +18447,7 @@
 			</entry>
 			<entry>
 				<title num="">The Triune Glory</title>
-				<feature>OUr Cover</feature>
+				<feature>Our Cover</feature>
 				<series></series>
 				<page>0015-0015</page>
 				<allauthors />
@@ -18455,7 +18455,7 @@
 			<entry>
 				<title num="09">The Strength of Our Religion</title>
 				<feature></feature>
-				<series>Aspects of Religion</series>
+				<series>Aspects of Our Religion</series>
 				<page>0017-0021</page>
 				<allauthors>
 					<author type="0">Paramacharya, Kanchi</author>
@@ -18618,7 +18618,7 @@
 			<entry>
 				<title num="09">Woodcraft Products Limited</title>
 				<feature></feature>
-				<series>Memoirs of B.K. Birla</series>
+				<series>Memoirs of B. K. Birla</series>
 				<page>0197-0209</page>
 				<allauthors />
 			</entry>
@@ -18676,7 +18676,7 @@
 			<entry>
 				<title num="10">Some of our Religions Institutions</title>
 				<feature></feature>
-				<series>Aspects of Religion</series>
+				<series>Aspects of Our Religion</series>
 				<page>0014-0019</page>
 				<allauthors>
 					<author type="0">Paramacharya, Kanchi</author>
@@ -18699,8 +18699,8 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">The Lotus that Lasts : Sri Laksmi Astottaram</title>
-				<feature>The Lotus That Lasts : Sri Lakshmi Astottaram</feature>
+				<title num="">The Lotus that Lasts : Sri Laksmi Ashtottaram</title>
+				<feature>The Lotus That Lasts : Sri Lakshmi Ashtottaram</feature>
 				<series></series>
 				<page>0028-0029</page>
 				<allauthors>
@@ -18742,14 +18742,14 @@
 			<entry>
 				<title num="93">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0053-0056</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title num="10">Bharat Commerce and Industries Limited</title>
 				<feature></feature>
-				<series>Memoirs of B.K. Birla</series>
+				<series>Memoirs of B. K. Birla</series>
 				<page>0057-0070</page>
 				<allauthors />
 			</entry>
@@ -18807,7 +18807,7 @@
 			<entry>
 				<title num="11">Moorti Puja or Image Worship</title>
 				<feature></feature>
-				<series>Aspects of Religion</series>
+				<series>Aspects of Our Religion</series>
 				<page>0006-0009</page>
 				<allauthors>
 					<author type="0">Paramacharya, Kanchi</author>
@@ -18879,7 +18879,7 @@
 			<entry>
 				<title num="94">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharat through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -18912,7 +18912,7 @@
 			</entry>
 			<entry>
 				<title num="">The Lotus that Lasts : Sri Lakshmi Ashtottaram</title>
-				<feature>The Lotus That Lasts : Sri Lakshmi Astottaram</feature>
+				<feature>The Lotus That Lasts : Sri Lakshmi Ashtottaram</feature>
 				<series></series>
 				<page>0066-0067</page>
 				<allauthors>
@@ -18922,7 +18922,7 @@
 			<entry>
 				<title num="11">New Swadeshi Mills of Ahmedabad Ltd.</title>
 				<feature></feature>
-				<series>Memoirs of B.K. Birla</series>
+				<series>Memoirs of B. K. Birla</series>
 				<page>0069-0077</page>
 				<allauthors />
 			</entry>
@@ -18968,7 +18968,7 @@
 			<entry>
 				<title num="12">Moorti Puja or Image Worship-2</title>
 				<feature></feature>
-				<series>Aspects of our Religion-12</series>
+				<series>Aspects of Our Religion</series>
 				<page>0006-0007</page>
 				<allauthors>
 					<author type="0">Paramacharya, Kanchi</author>
@@ -18985,7 +18985,7 @@
 			</entry>
 			<entry>
 				<title num="">The Lotus that Lasts : Sri Lakshmi Ashtottaram</title>
-				<feature>The Lotus That Lasts : Sri Lakshmi Astottaram</feature>
+				<feature>The Lotus That Lasts : Sri Lakshmi Ashtottaram</feature>
 				<series></series>
 				<page>0012-0013</page>
 				<allauthors>
@@ -19020,7 +19020,7 @@
 			<entry>
 				<title num="12">The Family New Arrangements</title>
 				<feature></feature>
-				<series>Memoirs of B.K. Birla</series>
+				<series>Memoirs of B. K. Birla</series>
 				<page>0025-0028</page>
 				<allauthors />
 			</entry>
@@ -19061,7 +19061,7 @@
 			<entry>
 				<title num="95">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0053-0056</page>
 				<allauthors />
 			</entry>
@@ -19148,8 +19148,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Lotus That Lasts : Sri Lakshmi Astottaram</title>
-				<feature>The Lotus That Lasts : Sri Lakshmi Astottaram</feature>
+				<title num="">The Lotus That Lasts : Sri Lakshmi Ashtottaram</title>
+				<feature>The Lotus That Lasts : Sri Lakshmi Ashtottaram</feature>
 				<series></series>
 				<page>0024-0025</page>
 				<allauthors>
@@ -19377,7 +19377,7 @@
 			<entry>
 				<title num="96">The Mahabharata</title>
 				<feature></feature>
-				<series>Mahabharata through Pictures</series>
+				<series>Mahabharata Through Pictures</series>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
@@ -19401,8 +19401,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Lotus That Lasts : Sri Laksmi Astottaram</title>
-				<feature>The Lotus That Lasts : Sri Lakshmi Astottaram</feature>
+				<title num="">The Lotus That Lasts : Sri Lakshmi Ashtottaram</title>
+				<feature>The Lotus That Lasts : Sri Lakshmi Ashtottaram</feature>
 				<series></series>
 				<page>0066-0067</page>
 				<allauthors>
@@ -19428,7 +19428,7 @@
 			<entry>
 				<title num="14">The Industrial Scenario: General Comments</itle>
 				<feature></feature>
-				<series>Memoirs of B.K. Birla</series>
+				<series>Memoirs of B. K. Birla</series>
 				<page>0076-0081</page>
 				<allauthors />
 			</entry>
@@ -19529,7 +19529,7 @@
 			</entry>
 			<entry>
 				<title num="">The Lotus That Lasts : Shri Lakshmi Ashottaram</title>
-				<feature>The Lotus That Lasts : Sri Lakshmi Astottaram</feature>
+				<feature>The Lotus That Lasts : Sri Lakshmi Ashtottaram</feature>
 				<series></series>
 				<page>0042-0043</page>
 				<allauthors>
@@ -19620,7 +19620,7 @@
 			<entry>
 				<title num="15">Business Relationship with Son Aditya</title>
 				<feature></feature>
-				<series>Memoirs of B.K. Birla</series>
+				<series>Memoirs of B. K. Birla</series>
 				<page>0161-0167</page>
 				<allauthors />
 			</entry>
@@ -19668,8 +19668,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Lotus That Lasts : Sri Laksmi Astottaram</title>
-				<feature>The Lotus That Lasts : Sri Lakshmi Astottaram</feature>
+				<title num="">The Lotus That Lasts : Sri Lakshmi Ashtottaram</title>
+				<feature>The Lotus That Lasts : Sri Lakshmi Ashtottaram</feature>
 				<series></series>
 				<page>0012-0013</page>
 				<allauthors>
@@ -19722,7 +19722,7 @@
 			<entry>
 				<title num="16">An Unforgettable Pilgrimage</title>
 				<feature></feature>
-				<series>Memoirs of B.K. Birla</series>
+				<series>Memoirs of B. K. Birla</series>
 				<page>0044-0054</page>
 				<allauthors />
 			</entry>
@@ -19838,8 +19838,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Lotus that Lasts : Sri Laksmi Astottaram</title>
-				<feature>The Lotus that Lasts : Sri Laksmi Astottaram</feature>
+				<title num="">The Lotus That Lasts : Sri Lakshmi Ashtottaram</title>
+				<feature>The Lotus That Lasts : Sri Lakshmi Ashtottaram</feature>
 				<series></series>
 				<page>0026-0027</page>
 				<allauthors>
@@ -19981,8 +19981,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Lotus that Lasts : Sri Lakshmi Astottaram</title>
-				<feature>The Lotus that Lasts : Sri Lakshmi Astottaram</feature>
+				<title num="">The Lotus That Lasts : Sri Lakshmi Ashtottaram</title>
+				<feature>The Lotus That Lasts : Sri Lakshmi Ashtottaram</feature>
 				<series></series>
 				<page>0020-0021</page>
 				<allauthors>
@@ -20159,8 +20159,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Lotus that Lasts : Sri Lakshmi Astottaram</title>
-				<feature>The Lotus that Lasts : Sri Lakshmi Astottaram</feature>
+				<title num="">The Lotus That Lasts : Sri Lakshmi Ashtottaram</title>
+				<feature>The Lotus That Lasts : Sri Lakshmi Ashtottaram</feature>
 				<series></series>
 				<page>0010-0011</page>
 				<allauthors>
@@ -20196,7 +20196,7 @@
 			</entry>
 			<entry>
 				<title num="">Homage to Sankara</title>
-				<feature></feature>
+				<feature>Homage</feature>
 				<series></series>
 				<page>0024-0025</page>
 				<allauthors />
@@ -20222,7 +20222,7 @@
 			<entry>
 				<title num="19">Social and Institutional Activities</title>
 				<feature></feature>
-				<series>Memoirs of B.K. Birla</series>
+				<series>Memoirs of B. K. Birla</series>
 				<page>0043-0047</page>
 				<allauthors />
 			</entry>
@@ -20338,7 +20338,7 @@
 			</entry>
 			<entry>
 				<title num="">Homage to Sankara</title>
-				<feature></feature>
+				<feature>Homage</feature>
 				<series></series>
 				<page>0024-0025</page>
 				<allauthors />
@@ -20407,7 +20407,7 @@
 			<entry>
 				<title num="20">G. D. Birla Memorial Polytechnic Pilani</title>
 				<feature></feature>
-				<series>Memoirs of B. K. Brila</series>
+				<series>Memoirs of B. K. Birla</series>
 				<page>0075-0079</page>
 				<allauthors />
 			</entry>
@@ -20460,8 +20460,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Lotus that Lasts : Sri Lakshmi Astottaram</title>
-				<feature>The Lotus that Lasts : Sri Lakshmi Astottaram</feature>
+				<title num="">The Lotus That Lasts : Sri Lakshmi Ashtottaram</title>
+				<feature>The Lotus That Lasts : Sri Lakshmi Ashtottaram</feature>
 				<series></series>
 				<page>0012-0013</page>
 				<allauthors>
@@ -20567,7 +20567,7 @@
 			<entry>
 				<title num="21">Shri Vitobha Mandir, Kalyan</title>
 				<feature></feature>
-				<series>Memoirs of B.K. Birla</series>
+				<series>Memoirs of B. K. Birla</series>
 				<page>0057-0059</page>
 				<allauthors />
 			</entry>
@@ -20630,7 +20630,7 @@
 			</entry>
 			<entry>
 				<title num="">The Lotus that Lasts : Sri Lakshmi Ashtottaram</title>
-				<feature>The Lotus that Lasts : Sri Lakshmi Astottaram</feature>
+				<feature>The Lotus That Lasts : Sri Lakshmi Ashtottaram</feature>
 				<series></series>
 				<page>0018-0019</page>
 				<allauthors>
@@ -20683,7 +20683,7 @@
 			<entry>
 				<title num="22">Our Son Aditya Vikram</title>
 				<feature></feature>
-				<series>Memoirs of B.K. Birla</series>
+				<series>Memoirs of B. K. Birla</series>
 				<page>0056-0060</page>
 				<allauthors />
 			</entry>
@@ -20774,8 +20774,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Lotus That Lasts : Sri Lakshmi Astottaram</title>
-				<feature>The Lotus that Lasts : Sri Lakshmi Astottaram</feature>
+				<title num="">The Lotus That Lasts : Sri Lakshmi Ashtottaram</title>
+				<feature>The Lotus That Lasts : Sri Lakshmi Ashtottaram</feature>
 				<series></series>
 				<page>0022-0023</page>
 				<allauthors>
@@ -20817,7 +20817,7 @@
 			<entry>
 				<title num="23">Studies Abroad</title>
 				<feature></feature>
-				<series>Memoirs of B.K. Birla</series>
+				<series>Memoirs of B. K. Birla</series>
 				<page>0050-0056</page>
 				<allauthors />
 			</entry>
@@ -20899,8 +20899,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Lotus that Lasts : Sri Lakshmi Astottaram</title>
-				<feature>The Lotus that Lasts : Sri Lakshmi Astottaram</feature>
+				<title num="">The Lotus That Lasts : Sri Lakshmi Ashtottaram</title>
+				<feature>The Lotus That Lasts : Sri Lakshmi Ashtottaram</feature>
 				<series></series>
 				<page>0014-0015</page>
 				<allauthors>
@@ -21282,7 +21282,7 @@
 			<entry>
 				<title num="24">Cross Country Tour</title>
 				<feature></feature>
-				<series>Memoirs of B.K. Birla</series>
+				<series>Memoirs of B. K. Birla</series>
 				<page>0068-0071</page>
 				<allauthors />
 			</entry>
@@ -21305,7 +21305,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Rationality, Destiny and Divinity:</title>
+				<title num="">Rationality, Destiny and Divinity</title>
 				<feature>Review Article</feature>
 				<series></series>
 				<page>0085-0087</page>
@@ -21364,8 +21364,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Lotus That Lasts : Sri Lakshmi Astottaram</title>
-				<feature>The Lotus That Lasts : Sri Lakshmi Astottaram</feature>
+				<title num="">The Lotus That Lasts : Sri Lakshmi Ashtottaram</title>
+				<feature>The Lotus That Lasts : Sri Lakshmi Ashtottaram</feature>
 				<series></series>
 				<page>0024-0025</page>
 				<allauthors>
@@ -21494,7 +21494,7 @@
 			</entry>
 			<entry>
 				<title num="">The Lotus that Lasts : Sri Lakshmi Ashtottaram</title>
-				<feature>The Lotus That Lasts : Sri Lakshmi Astottaram</feature>
+				<feature>The Lotus That Lasts : Sri Lakshmi Ashtottaram</feature>
 				<series></series>
 				<page>0018-0019</page>
 				<allauthors>
@@ -21575,7 +21575,7 @@
 			<entry>
 				<title num="26">Swantah Sukhaya, Smt. Sarla Birla-2</title>
 				<feature></feature>
-				<series>Memoirs fo B.K. Birla</series>
+				<series>Memoirs of B. K. Birla</series>
 				<page>0069-0071</page>
 				<allauthors />
 			</entry>
@@ -21648,8 +21648,8 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">The Lotus That Lasts : Sri Lakshmi Astottaram</title>
-				<feature>The Lotus That Lasts : Sri Lakshmi Astottaram</feature>
+				<title num="">The Lotus That Lasts : Sri Lakshmi Ashtottaram</title>
+				<feature>The Lotus That Lasts : Sri Lakshmi Ashtottaram</feature>
 				<series></series>
 				<page>0030-0031</page>
 				<allauthors>
@@ -21711,7 +21711,7 @@
 			<entry>
 				<title num="26">Our Daughter-In-Law Rajashree</title>
 				<feature></feature>
-				<series>Memoirs of B.K. Birla</series>
+				<series>Memoirs of B. K. Birla</series>
 				<page>0063-0064</page>
 				<allauthors />
 			</entry>
@@ -21773,8 +21773,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Lotus That Lasts : Sri Lakshmi Astottaram</title>
-				<feature>The Lotus That Lasts : Sri Lakshmi Astottaram</feature>
+				<title num="">The Lotus That Lasts : Sri Lakshmi Ashtottaram</title>
+				<feature>The Lotus That Lasts : Sri Lakshmi Ashtottaram</feature>
 				<series></series>
 				<page>0024-0025</page>
 				<allauthors>
@@ -21821,7 +21821,7 @@
 				<series>Memoirs of B. K. Birla</series>
 				<page>0047-0053</page>
 				<allauthors>
-					<author type="0">Memoirs of B.K. Birla</author>
+					<author type="0">Memoirs of B. K. Birla</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -21958,7 +21958,7 @@
 			<entry>
 				<title num="29">Our Daughter Manjushree</title>
 				<feature></feature>
-				<series>Memoirs of B.K. Birla</series>
+				<series>Memoirs of B. K. Birla</series>
 				<page>0052-0057</page>
 				<allauthors />
 			</entry>
@@ -22012,7 +22012,7 @@
 			</entry>
 			<entry>
 				<title num="">The Lotus that Lasts : Sri Lakshmi Ashtottaram</title>
-				<feature>The Lotus That Lasts : Sri Lakshmi Astottaram</feature>
+				<feature>The Lotus That Lasts : Sri Lakshmi Ashtottaram</feature>
 				<series></series>
 				<page>0010-0011</page>
 				<allauthors>
@@ -22106,7 +22106,7 @@
 			<entry>
 				<title num="30">Our Grandson Kumar Mangalam and Daughter-in-Law Neerja</title>
 				<feature></feature>
-				<series>Memoirs of B.K. Birla</series>
+				<series>Memoirs of B. K. Birla</series>
 				<page>0068-0071</page>
 				<allauthors />
 			</entry>
@@ -22156,8 +22156,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Lotus that Lasts : Sri Lakshmi Astottaram</title>
-				<feature>The Lotus that Lasts : Sri Lakshmi Astottaram</feature>
+				<title num="">The Lotus That Lasts : Sri Lakshmi Ashtottaram</title>
+				<feature>The Lotus That Lasts : Sri Lakshmi Ashtottaram</feature>
 				<series></series>
 				<page>0018-0019</page>
 				<allauthors>
@@ -22219,7 +22219,7 @@
 			<entry>
 				<title num="31">Our Granddaughter Vasavadatta</title>
 				<feature></feature>
-				<series>Memoirs of B.K. Birla</series>
+				<series>Memoirs of B. K. Birla</series>
 				<page>0042-0042</page>
 				<allauthors />
 			</entry>
