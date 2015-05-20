@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bsi SYSTEM "bhavans.dtd">
+
+<bhavans>
+	<volume vnum="55">
+		<part pnum="01" date="15" month="08" year="2008" cover="The Rainbow Warriors">
+			<entry>
+				<title num="">Holy... and Wise</title>
+				<feature></feature>
+				<series></series>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Flash Back</title>
+				<feature></feature>
+				<series></series>
+				<page>0008-0009</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Reader.com</title>
+				<feature></feature>
+				<series></series>
+				<page>0013-0015</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">India, My India!</title>
+				<feature>Kulapati Vani</feature>
+				<series></series>
+				<page>0016-0016</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Rainbow Warriors of `Other India'</title>
+				<feature></feature>
+				<series></series>
+				<page>0017-0022</page>
+				<allauthors>
+					<author type="0">Narayanan, V. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Stalwarts Who Shaped the Face of India</title>
+				<feature></feature>
+				<series></series>
+				<page>0027-0033</page>
+				<allauthors>
+					<author type="0">Jagadesan, T. D.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Five Fiery Patriots of Tamil Nadu</title>
+				<feature></feature>
+				<series></series>
+				<page>0037-0051</page>
+				<allauthors>
+					<author type="0">V.S.R.K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Societal Secularism Means Compassion for All</title>
+				<feature></feature>
+				<series></series>
+				<page>0053-0057</page>
+				<allauthors>
+					<author type="0">Iyer, V. R. Krishna</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">`First Satyagrahi' The Hero of Champaran</title>
+				<feature></feature>
+				<series></series>
+				<page>0059-0062</page>
+				<allauthors>
+					<author type="0">Yerramilli, Prabhakara Rao</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Kamala Devi: Mother of Crafts and Women's Causes</title>
+				<feature></feature>
+				<series></series>
+				<page>0065-0068</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Baba Amte: Treading the Untrodden Path</title>
+				<feature></feature>
+				<series></series>
+				<page>0069-0070</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Eco-Gandhian: Sunderlal Bahuguna: Hug the Trees, Save the Forests</title>
+				<feature></feature>
+				<series></series>
+				<page>0074-0076</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Tribals Messiah: H. Sudarshan Man Behind the Soliga Miracle</title>
+				<feature></feature>
+				<series></series>
+				<page>0077-0080</page>
+				<allauthors>
+					<author type="0">Sudarshan, H.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Eco Warrior: Anil Agarwal: Martyr to the Cause of Clean Environment</title>
+				<feature></feature>
+				<series></series>
+				<page>0083-0084</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Hiware Bazar: Village As Role Model</title>
+				<feature></feature>
+				<series></series>
+				<page>0087-0094</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Secularism and Kashmir</title>
+				<feature></feature>
+				<series></series>
+				<page>0095-0102</page>
+				<allauthors>
+					<author type="0">Jogi, Jawahar Lal</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Great Exodus</title>
+				<feature></feature>
+				<series></series>
+				<page>0103-0109</page>
+				<allauthors>
+					<author type="0">Phadke, P. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Atma Vidya - What it is and What for</title>
+				<feature></feature>
+				<series></series>
+				<page>0113-0117</page>
+				<allauthors>
+					<author type="0">Menon, K. P. Radhakrishna</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Focus on Life and You Anger and Spat Prolongs Life</title>
+				<feature></feature>
+				<series></series>
+				<page>0119-0122</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Sarala Vedanta</title>
+				<feature></feature>
+				<series></series>
+				<page>0127-0131</page>
+				<allauthors>
+					<author type="0">Murthy, B. M. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Santosh Yadav - Scaling Heights of Fame</title>
+				<feature></feature>
+				<series></series>
+				<page>0135-0141</page>
+				<allauthors>
+					<author type="0">Bhatnagar, R. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Valmiki Ramayana (Swadhyaya)</title>
+				<feature>Valmiki Ramayana</feature>
+				<series></series>
+				<page>0144-0145</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">India's Bismarck: Sardar Vallabhbhai Patel</title>
+				<feature>World of Books</feature>
+				<series></series>
+				<page>0149-0151</page>
+				<allauthors>
+					<author type="0">krishna, Balraj</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Chetana</title>
+				<feature></feature>
+				<series></series>
+				<page>0155-0159</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Nandana</title>
+				<feature></feature>
+				<series></series>
+				<page>0161-0165</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bharatiya Vidya Bhavan's Mahila Vibhag: Kochi</title>
+				<feature></feature>
+				<series></series>
+				<page>0171-0176</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavans' News</title>
+				<feature></feature>
+				<series></series>
+				<page>0179-0192</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="05" date="15" month="10" year="2008" cover="Beyond Science">
+			<entry>
+				<title num="">Holy... and Wise</title>
+				<feature></feature>
+				<series></series>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Flash Back</title>
+				<feature></feature>
+				<series></series>
+				<page>0006-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Reader.com</title>
+				<feature></feature>
+				<series></series>
+				<page>0008-0011</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">The Angelic Touch</title>
+				<feature>Kulapati Vani</feature>
+				<series></series>
+				<page>0012-0012</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's President's Address Shuddha Sankalp</title>
+				<feature></feature>
+				<series></series>
+				<page>0013-0021</page>
+				<allauthors>
+					<author type="0">Mehta, Surendralal G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Highway to Human Harmony</title>
+				<feature></feature>
+				<series></series>
+				<page>0023-0029</page>
+				<allauthors>
+					<author type="0">Iyer, V. R. Krishna</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Quintessence of Indian Culture-I</title>
+				<feature></feature>
+				<series></series>
+				<page>0031-0038</page>
+				<allauthors>
+					<author type="0">Sharma, Krishna Gopal</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Is India Heading for a National Government?</title>
+				<feature></feature>
+				<series></series>
+				<page>0039-0042</page>
+				<allauthors>
+					<author type="0">Bhatnagar, R. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bhavan's Essay: A Religious Afterthought</title>
+				<feature></feature>
+				<series></series>
+				<page>0045-0052</page>
+				<allauthors>
+					<author type="0">Menon, Pachu</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Naada Brahman-I</title>
+				<feature></feature>
+				<series></series>
+				<page>0053-0062</page>
+				<allauthors>
+					<author type="0">Ramdas</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Focus: Beyond Science &#8212; Phenomena That Defy Science</title>
+				<feature></feature>
+				<series></series>
+				<page>0063-0065</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Vaidya Purushottam</title>
+				<feature></feature>
+				<series></series>
+				<page>0067-0072</page>
+				<allauthors>
+					<author type="0">Hegde, B. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Devi Mookambika of Vadakkan Paravoor</title>
+				<feature></feature>
+				<series></series>
+				<page>0073-0077</page>
+				<allauthors>
+					<author type="0">Ganesan, Parur S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">First Person: Five Things I Wanted from Grandfather</title>
+				<feature></feature>
+				<series></series>
+				<page>0079-0084</page>
+				<allauthors>
+					<author type="0">Chaudhury, Sukant</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Seeing is Believing</title>
+				<feature></feature>
+				<series></series>
+				<page>0085-0088</page>
+				<allauthors>
+					<author type="0">Maharaj, Ashutoshji</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Valmiki Ramayana (Swdhyaya)</title>
+				<feature>Valmiki Ramayana</feature>
+				<series></series>
+				<page>0090-0091</page>
+				<allauthors>
+					<author type="0">Maharaj, Ashutoshji</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A Man is Known by the Company He Keeps</title>
+				<feature></feature>
+				<series></series>
+				<page>0092-0097</page>
+				<allauthors>
+					<author type="0">Pradeep, Meenaskshi S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Becchus and News Value</title>
+				<feature></feature>
+				<series></series>
+				<page>0098-0099</page>
+				<allauthors>
+					<author type="0">Krishna, N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Shaking Out the Ruts of Ordinary Perception</title>
+				<feature></feature>
+				<series></series>
+				<page>0100-0102</page>
+				<allauthors>
+					<author type="0">Iyer, T. G. L.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">On the Bloodshed Lands of Mysore</title>
+				<feature></feature>
+				<series></series>
+				<page>0103-0103</page>
+				<allauthors>
+					<author type="0">Vaishnavi</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Chetana</title>
+				<feature></feature>
+				<series></series>
+				<page>0105-0110</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Nandana</title>
+				<feature></feature>
+				<series></series>
+				<page>0111-0116</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
+				<series></series>
+				<page>0117-0128</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="08" date="30" month="11" year="2008" cover="Barack Obama">
+			<entry>
+				<title num="">Holy... and Wise</title>
+				<feature></feature>
+				<series></series>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Falsh Back</title>
+				<feature></feature>
+				<series></series>
+				<page>0006-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Imagination</title>
+				<feature>Kulapati Vani</feature>
+				<series></series>
+				<page>0008-0008</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">I have a Dream</title>
+				<feature></feature>
+				<series></series>
+				<page>0009-0014</page>
+				<allauthors>
+					<author type="0">King, Martin Luther</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">I will always be honest with you</title>
+				<feature></feature>
+				<series></series>
+				<page>0015-0021</page>
+				<allauthors>
+					<author type="0">Obama, Barack</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Value Based Education - Need of the Hour</title>
+				<feature></feature>
+				<series></series>
+				<page>0023-0028</page>
+				<allauthors>
+					<author type="0">Menon, K. P. Radhakrishna</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Why I am Proud Being an Indian!</title>
+				<feature></feature>
+				<series></series>
+				<page>0029-0031</page>
+				<allauthors>
+					<author type="0">Kumar, Ravindra</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">GV: Master of Lingo and Literature</title>
+				<feature></feature>
+				<series></series>
+				<page>0032-0038</page>
+				<allauthors>
+					<author type="0">Srinivasam, Geetha</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">History Recall</title>
+				<feature></feature>
+				<series></series>
+				<page>0039-0042</page>
+				<allauthors>
+					<author type="0">Bhatnagar, R. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Fourth Commandment</title>
+				<feature></feature>
+				<series></series>
+				<page>0043-0047</page>
+				<allauthors>
+					<author type="0">Menon, Pachu</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Case of the Missing Evidence</title>
+				<feature></feature>
+				<series></series>
+				<page>0048-0051</page>
+				<allauthors>
+					<author type="0">Hegde, B. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Why Pluck Only Berries From Trees-II Desire and Decide What you Want, It's Yours</title>
+				<feature></feature>
+				<series></series>
+				<page>0052-0056</page>
+				<allauthors>
+					<author type="0">Santhanagopal, P. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Glory of Aaranmula</title>
+				<feature></feature>
+				<series></series>
+				<page>0057-0065</page>
+				<allauthors>
+					<author type="0">Ramachandran, Sreekumari</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Life Story of Yogi Vemana</title>
+				<feature></feature>
+				<series></series>
+				<page>0066-0067</page>
+				<allauthors>
+					<author type="0">Murthy, B. M. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Joy of Ageing!</title>
+				<feature></feature>
+				<series></series>
+				<page>0068-0071</page>
+				<allauthors>
+					<author type="0">Srinivas, Bobby</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Indians and Heart Attack</title>
+				<feature></feature>
+				<series></series>
+				<page>0072-0080</page>
+				<allauthors>
+					<author type="0">Parameshvara, Dr. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Brave New World</title>
+				<feature></feature>
+				<series></series>
+				<page>0081-0086</page>
+				<allauthors>
+					<author type="0">Reddi, O. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Valmiki Ramayana (Swadhyaya)</title>
+				<feature>Valmiki Ramayana</feature>
+				<series></series>
+				<page>0088-0089</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Life is a Level to Clear</title>
+				<feature></feature>
+				<series></series>
+				<page>0090-0091</page>
+				<allauthors>
+					<author type="0">Thakur, Priyank</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Peace, A Hostage to Terrorism</title>
+				<feature></feature>
+				<series></series>
+				<page>0092-0093</page>
+				<allauthors>
+					<author type="0">Sabharwal, L. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Wife</title>
+				<feature></feature>
+				<series></series>
+				<page>0094-0095</page>
+				<allauthors>
+					<author type="0">Govindaiah, G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Legal Luminary with a Messianic Message</title>
+				<feature>World of Books</feature>
+				<series></series>
+				<page>0096-0100</page>
+				<allauthors>
+					<author type="2">Chatterjee, M. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Chetana</title>
+				<feature></feature>
+				<series></series>
+				<page>0104-0109</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Nandana</title>
+				<feature></feature>
+				<series></series>
+				<page>0110-0115</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Navagraha/Rashi/Nakshatra Mandala Painting Exhibition</title>
+				<feature></feature>
+				<series></series>
+				<page>0116-0117</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
+				<series></series>
+				<page>0119-0128</page>
+				<allauthors />
+			</entry>
+		</part>
+	</volume>
+</bhavans>

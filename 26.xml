@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bsi SYSTEM "bhavans.dtd">
+
+<bhavans>
+	<volume vnum="26">
+		<part pnum="15" date="24" month="02" year="1980" cover="Shri Dharamsey M. Khatau presenting a memento to H. H. Kanchi. In the centre is Shri S. Ramakrishnan.">
+			<entry>
+				<title num="">Prayer to Siva</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0005-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">``Sons of the Soil" &#8212; All</title>
+				<feature></feature>
+				<series></series>
+				<page>0006-0010</page>
+				<allauthors>
+					<author type="0">Ramakrishnan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A Day to Remember: Bhavan Welcomes Kanchi Sankaracharya</title>
+				<feature></feature>
+				<series></series>
+				<page>0011-0023</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">The Great Mahamagham Mela At Kumbakonam</title>
+				<feature></feature>
+				<series></series>
+				<page>0025-0033</page>
+				<allauthors>
+					<author type="0">Kuppuswami, A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Dr. R. C. Majumdar: Doyen of Historians</title>
+				<feature>Homage</feature>
+				<series></series>
+				<page>0035-0039</page>
+				<allauthors>
+					<author type="0">Venkataraman, C. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Speak out on Education-1</title>
+				<feature></feature>
+				<series></series>
+				<page>0043-0043</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Jamnalal Bajaj</title>
+				<feature></feature>
+				<series></series>
+				<page>0045-0047</page>
+				<allauthors>
+					<author type="0">Munshi, Kulapati</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Mahatma Gandhi Life in Pictures</title>
+				<feature></feature>
+				<series></series>
+				<page>0048-0056</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Don't be Scared of Leprosy &#8212; A Social Worker</title>
+				<feature></feature>
+				<series></series>
+				<page>0058-0071</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Notes and News</title>
+				<feature>Notes and News</feature>
+				<series></series>
+				<page>0073-0076</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Book Review</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0077-0080</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="16" date="09" month="03" year="1980" cover="Swaminarayan">
+			<entry>
+				<title num="">Prayer to Jagannath (Puri Jagannath Festival &#8212; March 1)</title>
+				<feature></feature>
+				<series></series>
+				<page>0007-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">The Advent of Sri Swaminarayan</title>
+				<feature>Cover Story</feature>
+				<series></series>
+				<page>0009-0013</page>
+				<allauthors>
+					<author type="0">Dave, H. T.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">An Interview with H. H. Kanchi</title>
+				<feature></feature>
+				<series></series>
+				<page>0014-0021</page>
+				<allauthors>
+					<author type="0">Subbarayan, K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Photo Feature on H. H. Kanchi's Bombay Visit</title>
+				<feature></feature>
+				<series></series>
+				<page>0022-0024</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Medical Ethics</title>
+				<feature></feature>
+				<series></series>
+				<page>0025-0029</page>
+				<allauthors>
+					<author type="0">Mehta, Dr. Shantilal J.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Last Days of Dilip Kumar Roy</title>
+				<feature></feature>
+				<series></series>
+				<page>0030-0039</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Puri &#8212; The Land of Jagannath</title>
+				<feature></feature>
+				<series></series>
+				<page>0043-0045</page>
+				<allauthors>
+					<author type="0">Mohapatra, B. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Srimad Bhagavatam - 35</title>
+				<feature></feature>
+				<series></series>
+				<page>0047-0055</page>
+				<allauthors>
+					<author type="0">Subramaniam, Smt. Kamala</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Most Important Examination</title>
+				<feature></feature>
+				<series></series>
+				<page>0057-0061</page>
+				<allauthors>
+					<author type="0">Chiang, Cy Jesse</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">E. V. Ramaswamy Naicker: An Appraisal</title>
+				<feature></feature>
+				<series></series>
+				<page>0063-0067</page>
+				<allauthors>
+					<author type="0">Patwari, Prabhudas</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Thought for the Fortnight: Destiny</title>
+				<feature></feature>
+				<series></series>
+				<page>0069-0071</page>
+				<allauthors>
+					<author type="0">Khanolkar, Savitribai</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Notes and News</title>
+				<feature>Notes and News</feature>
+				<series></series>
+				<page>0073-0076</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Book Review</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0077-0080</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="25" date="13" month="07" year="1980" cover="Smiling Lilies Trans: Dilip Banerjee">
+			<entry>
+				<title num="">Prayer to Sun</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0007-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Sant Vani</title>
+				<feature></feature>
+				<series></series>
+				<page>0009-0009</page>
+				<allauthors>
+					<author type="0">Tukaram</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Reason Why</title>
+				<feature></feature>
+				<series></series>
+				<page>0010-0010</page>
+				<allauthors>
+					<author type="0">Krishnaprem, Yogi</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Being Moral is to be Happy</title>
+				<feature></feature>
+				<series></series>
+				<page>0012-0015</page>
+				<allauthors>
+					<author type="0">Sivananda, Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sri Swami Narayan &#8212; IV</title>
+				<feature></feature>
+				<series></series>
+				<page>0017-0021</page>
+				<allauthors>
+					<author type="0">Dave, H. T.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Pleasures of Poetry</title>
+				<feature></feature>
+				<series></series>
+				<page>0022-0024</page>
+				<allauthors>
+					<author type="0">Venkatramani, S. H.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Call of Sri Krishna-7</title>
+				<feature></feature>
+				<series></series>
+				<page>0025-0033</page>
+				<allauthors>
+					<author type="0">Lal, R. B.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Srirangam</title>
+				<feature></feature>
+				<series></series>
+				<page>0034-0042</page>
+				<allauthors>
+					<author type="0">Raghaveshananda, Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Seven Steps to Success</title>
+				<feature></feature>
+				<series></series>
+				<page>0043-0045</page>
+				<allauthors>
+					<author type="0">Jagannathan, G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Great Artists-49: Mary Cassatt</title>
+				<feature></feature>
+				<series></series>
+				<page>0047-0050</page>
+				<allauthors>
+					<author type="0">Subramanian, V. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Ripping the Veil</title>
+				<feature></feature>
+				<series></series>
+				<page>0051-0054</page>
+				<allauthors>
+					<author type="0">Ramamoorthy, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Recalling a Good Deed</title>
+				<feature></feature>
+				<series></series>
+				<page>0055-0055</page>
+				<allauthors>
+					<author type="0">Nambi, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">When Mirza Ghalib Spurned a Big Job</title>
+				<feature></feature>
+				<series></series>
+				<page>0057-0058</page>
+				<allauthors>
+					<author type="0">Nagar, G. P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Magic of Silence</title>
+				<feature></feature>
+				<series></series>
+				<page>0059-0061</page>
+				<allauthors>
+					<author type="0">Halder, Arun K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Romance of India's Development Banking</title>
+				<feature></feature>
+				<series></series>
+				<page>0062-0068</page>
+				<allauthors>
+					<author type="0">Murthy, R. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Thought for the Fortnight: The Shirking Habit</title>
+				<feature></feature>
+				<series></series>
+				<page>0069-0070</page>
+				<allauthors>
+					<author type="0">Khanolkar, Smt. Savitribai</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">My Childhood Days-5</title>
+				<feature></feature>
+				<series></series>
+				<page>0071-0072</page>
+				<allauthors>
+					<author type="0">Menon, Smt. Saraswati</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Notes and News</title>
+				<feature>Notes and News</feature>
+				<series></series>
+				<page>0073-0076</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Book Review</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0077-0080</page>
+				<allauthors />
+			</entry>
+		</part>
+	</volume>
+</bhavans>
