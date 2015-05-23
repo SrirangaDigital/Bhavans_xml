@@ -1657,7 +1657,7 @@
 			<entry>
 				<title num="">Impact of Brahmo Samaj on South India</title>
 				<feature></feature>
-				<series></sueries>
+				<series></series>
 				<page>0064-0070</page>
 				<allauthors>
 					<author type="0">Narayanan, M. G. S.</author>
@@ -3805,71 +3805,206 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="" date="" month="" year="" cover="">
+		<part pnum="24" date="31" month="07" year="2007" cover="Great Mind Managers of the World">
 			<entry>
-				<title num=""></title>
+				<title num="">Holy... and Wise</title>
 				<feature></feature>
 				<series></series>
-				<page>000-000</page>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Flash Back</title>
+				<feature></feature>
+				<series></series>
+				<page>0006-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Reader.com</title>
+				<feature></feature>
+				<series></series>
+				<page>0008-0010</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Whither One World?</title>
+				<feature>Kulapati Vani</feature>
+				<series></series>
+				<page>0011-0011</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">The Process Damaged Needs Repair and Respect</title>
+				<feature>Editorial</feature>
+				<series></series>
+				<page>0013-0014</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Narayanan, V. N.</author>
 				</allauthors>
 			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
 			<entry>
-				<title num=""></title>
+				<title num="">Lokmanya Tilak There's More to Him than `Swaraj' Motto</title>
 				<feature></feature>
 				<series></series>
-				<page>000-000</page>
+				<page>0015-0019</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Belvi, Shrinivas</author>
 				</allauthors>
 			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
 			<entry>
-				<title num=""></title>
+				<title num="">Medeival Saints are Great Humanisers</title>
 				<feature></feature>
 				<series></series>
-				<page>000-000</page>
+				<page>0020-0024</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Naik, Prof J. V.</author>
 				</allauthors>
 			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
 			<entry>
-				<title num=""></title>
+				<title num="">Bhavan's Essay: Technology Enslaves Humans</title>
 				<feature></feature>
 				<series></series>
-				<page>000-000</page>
+				<page>0025-0034</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Mathur, Prof. J. S.</author>
 				</allauthors>
 			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
 			<entry>
-				<title num=""></title>
+				<title num="">Hotter Earth Means Endangered Future</title>
 				<feature></feature>
 				<series></series>
-				<page>000-000</page>
+				<page>0035-0044</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Subramaniam, T. A.</author>
+					<author type="0">Navalkar, M. P.</author>
 				</allauthors>
 			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
 			<entry>
-				<title num=""></title>
+				<title num="">The Social Dynamics of Education</title>
 				<feature></feature>
 				<series></series>
-				<page>000-000</page>
+				<page>0045-0053</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Murthy, Prof. P. N.</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Dharma and Ethics</title>
+				<feature></feature>
+				<series></series>
+				<page>0054-0058</page>
+				<allauthors>
+					<author type="0">Hussain, Dr. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Childhood Robbed for a Pittance</title>
+				<feature></feature>
+				<series></series>
+				<page>0059-0062</page>
+				<allauthors>
+					<author type="0">Shinde, C. A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Ancient Wisdom and Modern Thought</title>
+				<feature></feature>
+				<series></series>
+				<page>0063-0066</page>
+				<allauthors>
+					<author type="0">Ramanujachary, Dr. N. C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Corporatocracy</title>
+				<feature></feature>
+				<series></series>
+				<page>0067-0071</page>
+				<allauthors>
+					<author type="0">Hegde, Prof. B. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sri Aurobindo - The Voice of Indian Soul</title>
+				<feature></feature>
+				<series></series>
+				<page>0072-0075</page>
+				<allauthors>
+					<author type="0">Langar, Lt. Col. R. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Same Sweet Game</title>
+				<feature></feature>
+				<series></series>
+				<page>0076-0077</page>
+				<allauthors>
+					<author type="0">Sarode, Tara</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Self-Realisation and God-Realisation</title>
+				<feature></feature>
+				<series></series>
+				<page>0079-0080</page>
+				<allauthors>
+					<author type="0">Pathaku, Maheswar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Shradhanjali to Principal Kashmira N. Pandit</title>
+				<feature></feature>
+				<series></series>
+				<page>0081-0082</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Valmiki Ramayana (Swadhyaya)</title>
+				<feature>Valmiki Ramayana</feature>
+				<series></series>
+				<page>0084-0085</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Education, More Education</title>
+				<feature></feature>
+				<series></series>
+				<page>0086-0089</page>
+				<allauthors>
+					<author type="0">Kapoor, G. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Mind Makes Us Worth More</title>
+				<feature>World of Books</feature>
+				<series></series>
+				<page>0091-0095</page>
+				<allauthors>
+					<author type="2">Iyer, T. G. L.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Chetana</title>
+				<feature></feature>
+				<series></series>
+				<page>0096-0099</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Nandana</title>
+				<feature></feature>
+				<series></series>
+				<page>0100-0103</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's News</title>
+				<feature></feature>
+				<series></series>
+				<page>0104-0112</page>
+				<allauthors />
 			</entry>
 		</part>
 	</volume>
-<bhavans>
+</bhavans>
