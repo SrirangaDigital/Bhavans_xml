@@ -67,8 +67,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Bhavan's Essay: The Hand that Heals</title>
-				<feature></feature>
+				<title num="">The Hand that Heals</title>
+				<feature>Bhavan's Essay</feature>
 				<series></series>
 				<page>0033-0039</page>
 				<allauthors>
@@ -275,8 +275,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Bhavan's Essay: Has Science Become a Religion?</title>
-				<feature></feature>
+				<title num="">Has Science Become a Religion?</title>
+				<feature>Bhavan's Essay</feature>
 				<series></series>
 				<page>0026-0030</page>
 				<allauthors>
@@ -1786,8 +1786,8 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">From the President: Sri Madhava</title>
-				<feature></feature>
+				<title num="">Sri Madhava</title>
+				<feature>From the President</feature>
 				<series></series>
 				<page>0013-0015</page>
 				<allauthors />
@@ -2201,8 +2201,8 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">From the President: Timeless Relevance of the Indian Way of Life</title>
-				<feature></feature>
+				<title num="">Timeless Relevance of the Indian Way of Life</title>
+				<feature>From the President</feature>
 				<series></series>
 				<page>0012-0014</page>
 				<allauthors />
@@ -2226,8 +2226,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Bhavan's Essay: Give Them Education First, Right Later</title>
-				<feature></feature>
+				<title num="">Give Them Education First, Right Later</title>
+				<feature>Bhavan's Essay</feature>
 				<series></series>
 				<page>0025-0030</page>
 				<allauthors>
@@ -2965,209 +2965,434 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="" date="" month="" year="" cover="">
+		<part pnum="23" date="15" month="07" year="2010" cover="Does Science Play God?">
 			<entry>
-				<title num=""></title>
+				<title num="">Holy.. and Wise</title>
 				<feature></feature>
 				<series></series>
-				<page>000-000</page>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Flash Back</title>
+				<feature></feature>
+				<series></series>
+				<page>0006-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Reader.com</title>
+				<feature></feature>
+				<series></series>
+				<page>0008-0011</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bases of Ethico-Spiritual Order</title>
+				<feature>Kulapati Vani</feature>
+				<series></series>
+				<page>0012-0013</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">The Still Very Relevant Triumvirate</title>
+				<feature>From the President</feature>
+				<series></series>
+				<page>0014-0016</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">And God Said `Let Science Be'</title>
+				<feature></feature>
+				<series></series>
+				<page>0017-0020</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Narayanan, V. N.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">Does Science Play God?</title>
 				<feature></feature>
 				<series></series>
-				<page>000-000</page>
+				<page>0021-0025</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Adige, Veena</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">Are We All Creators?</title>
 				<feature></feature>
 				<series></series>
-				<page>000-000</page>
+				<page>0026-0031</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">The Immeasurable Power of Intelligence</title>
+				<feature></feature>
+				<series></series>
+				<page>0032-0036</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Santhanagopal, P. N.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
-				<feature></feature>
+				<title num="">Strike: Whose Right is it Anyway?</title>
+				<feature>Bhavan's Essay</feature>
 				<series></series>
-				<page>000-000</page>
+				<page>0037-0041</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Menon, Pachu</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">Civilisational Pillars of Islam</title>
 				<feature></feature>
 				<series></series>
-				<page>000-000</page>
+				<page>0042-0047</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Engineer, Asghar Ali</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">Whither India and Pakistan?</title>
 				<feature></feature>
 				<series></series>
-				<page>000-000</page>
+				<page>0048-0050</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Wadhwa, Kamal</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">Bapu, How Lucky You Are!</title>
 				<feature></feature>
 				<series></series>
-				<page>000-000</page>
+				<page>0051-0055</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Murthy, K. S. N.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">Cancer Myths</title>
 				<feature></feature>
 				<series></series>
-				<page>000-000</page>
+				<page>0056-0060</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Hegde, Prof. B. M.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">Valmiki Ramayana (Swadhyaya)</title>
+				<feature>Valmiki Ramayana</feature>
+				<series></series>
+				<page>0062-0063</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Beat Stress with Pranayama</title>
 				<feature></feature>
 				<series></series>
-				<page>000-000</page>
+				<page>0064-0067</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Janakiraman, K.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">GM Foods - Triumph of Wisdom Over Ignorance</title>
 				<feature></feature>
 				<series></series>
-				<page>000-000</page>
+				<page>0068-0074</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Reddi, O. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">Skills in Sensory Perception of a Child</title>
 				<feature></feature>
 				<series></series>
-				<page>000-000</page>
+				<page>0075-0078</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Pore, S. K.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">Road to Enlightenment</title>
 				<feature></feature>
 				<series></series>
-				<page>000-000</page>
+				<page>0079-0081</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Rana, Shweta</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">`Inward Revolution' Needed</title>
 				<feature></feature>
 				<series></series>
-				<page>000-000</page>
+				<page>0082-0086</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Rao, M. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">Ego Problem and the Virtue of Selflessness</title>
 				<feature></feature>
 				<series></series>
-				<page>000-000</page>
+				<page>0087-0089</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Sharma, Om Prakash</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Mouth Mentions...</title>
+				<feature></feature>
+				<series></series>
+				<page>0090-0091</page>
+				<allauthors>
+					<author type="0">Mathew, Sebin</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Dating of South Indian Temples</title>
+				<feature></feature>
+				<series></series>
+				<page>0092-0095</page>
+				<allauthors>
+					<author type="0">Phadke, Dr. P. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A Life Dedicated to Selfless Service</title>
+				<feature>World of Books</feature>
+				<series></series>
+				<page>0096-0098</page>
+				<allauthors>
+					<author type="0">Chatterjee, M. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Chetana</title>
+				<feature></feature>
+				<series></series>
+				<page>0099-0103</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Nandana</title>
+				<feature></feature>
+				<series></series>
+				<page>0104-0108</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
+				<series></series>
+				<page>0109-0112</page>
+				<allauthors />
 			</entry>
 		</part>
-		<part pnum="" date="" month="" year="" cover="">
+		<part pnum="24" date="31" month="07" year="2010" cover="How Not To Deal With Human Tragedy">
 			<entry>
-				<title num=""></title>
+				<title num="">Holy.. and Wise</title>
 				<feature></feature>
 				<series></series>
-				<page>000-000</page>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Flash Back</title>
+				<feature></feature>
+				<series></series>
+				<page>0006-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Solitude</title>
+				<feature>Kulapati Vani</feature>
+				<series></series>
+				<page>0008-0008</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Reader.com</title>
+				<feature></feature>
+				<series></series>
+				<page>0009-0011</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Why Walk When You Can Fly?</title>
+				<feature>From the President</feature>
+				<series></series>
+				<page>0012-0014</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">One Crime, Many Criminals and Myriad Victims</title>
+				<feature></feature>
+				<series></series>
+				<page>0015-0019</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Narayanan, V. N.</author>
 				</allauthors>
 			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
 			<entry>
-				<title num=""></title>
+				<title num="">Crime, No Punishment</title>
 				<feature></feature>
 				<series></series>
-				<page>000-000</page>
+				<page>0020-0024</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Iyer, V. R. Krishna</author>
 				</allauthors>
 			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
 			<entry>
-				<title num=""></title>
+				<title num="">Mohammad Rafi The Eternal Voice of Hindi Cinema</title>
 				<feature></feature>
 				<series></series>
-				<page>000-000</page>
+				<page>0025-0027</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Adige, Veena</author>
 				</allauthors>
 			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
 			<entry>
-				<title num=""></title>
+				<title num="">Ahimsa and Indian Religions</title>
 				<feature></feature>
 				<series></series>
-				<page>000-000</page>
+				<page>0029-0034</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Kumar, Ravindra</author>
 				</allauthors>
 			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
 			<entry>
-				<title num=""></title>
+				<title num="">Pilgrim of Love Acharya Vinoba Bhave: The Foot-Soldier Saint</title>
 				<feature></feature>
 				<series></series>
-				<page>000-000</page>
+				<page>0035-0042</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Jokhi, Piroja Homi</author>
 				</allauthors>
 			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
 			<entry>
-				<title num=""></title>
+				<title num="">Sant Namadev Saint-Poet of Maharashtra</title>
 				<feature></feature>
 				<series></series>
-				<page>000-000</page>
+				<page>0043-0048</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Kapoor, Satish K.</author>
 				</allauthors>
 			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
 			<entry>
-				<title num=""></title>
+				<title num="">Jesus Christ: The Rainbow</title>
 				<feature></feature>
 				<series></series>
-				<page>000-000</page>
+				<page>0049-0052</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">David, Hemlata</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Food Affects Our Thoughts</title>
+				<feature></feature>
+				<series></series>
+				<page>0053-0056</page>
+				<allauthors>
+					<author type="0">Murthy, B. M. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">N. Mahalingam: A Living Legend</title>
+				<feature></feature>
+				<series></series>
+				<page>0057-0061</page>
+				<allauthors>
+					<author type="0">Alladin, M. Ibrahim</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Acharya Mahaprajna Brilliant Mind - A Beloved Teacher</title>
+				<feature></feature>
+				<series></series>
+				<page>0064-0067</page>
+				<allauthors>
+					<author type="0">Regunathan, Sudhamahi</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Known but Little Read Classic - Plutarch;s `Lives'</title>
+				<feature></feature>
+				<series></series>
+				<page>0068-0073</page>
+				<allauthors>
+					<author type="0">Sivaramakrishnan, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Valmiki Ramayana (Swadhyaya)</title>
+				<feature>Valmiki Ramayana</feature>
+				<series></series>
+				<page>0074-0075</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Gita for Executives</title>
+				<feature></feature>
+				<series></series>
+				<page>0077-0082</page>
+				<allauthors>
+					<author type="0">Ganesan, Y.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">There is Heroism in Everyone</title>
+				<feature></feature>
+				<series></series>
+				<page>0083-0085</page>
+				<allauthors>
+					<author type="0">Iyer, T. G. L.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">God Heals and the Doctor takes the Fee</title>
+				<feature></feature>
+				<series></series>
+				<page>0086-0087</page>
+				<allauthors>
+					<author type="0">Hiteshi, Bharat</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Shraddhanjali: Shri Jayaramdas Patel</title>
+				<feature></feature>
+				<series></series>
+				<page>0088-0089</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">World of Books</title>
+				<feature>World of Books</feature>
+				<series></series>
+				<page>0090-0090</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Chetana</title>
+				<feature></feature>
+				<series></series>
+				<page>0092-0096</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Nandana</title>
+				<feature></feature>
+				<series></series>
+				<page>0097-0102</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
+				<series></series>
+				<page>0103-0112</page>
+				<allauthors />
 			</entry>
 		</part>
 	</volume>
