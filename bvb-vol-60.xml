@@ -1,0 +1,1869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bsi SYSTEM "bhavans.dtd">
+
+<bhavans>
+	<volume vnum="060">
+		<part pnum="01" date="15" month="08" year="2013" cover="Bhavan's Journal at Sixty">
+			<entry>
+				<title num="">Value and Worth</title>
+				<feature>Sage Speak</feature>
+				<series></series>
+				<page>0007-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Diamond Jubilee Celebrations of Bhavan's Journal</title>
+				<feature>From the President</feature>
+				<series></series>
+				<page>0012-0014</page>
+				<allauthors>
+					<author type="0">Mehta, Surendralal G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A Year of Multiple Celebrations</title>
+				<feature></feature>
+				<series></series>
+				<page>0018-0020</page>
+				<allauthors>
+					<author type="0">Dastur, H. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Extremists are Scared of Pens and Books</title>
+				<feature></feature>
+				<series></series>
+				<page>0024-0028</page>
+				<allauthors>
+					<author type="0">Yousafzai, Malala</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A World of Potential Mahatmas</title>
+				<feature></feature>
+				<series></series>
+				<page>0033-0036</page>
+				<allauthors>
+					<author type="0">Narayanan, V. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Vinoth Mani : A Food Visionary</title>
+				<feature>Yound Icons</feature>
+				<series></series>
+				<page>0041-0044</page>
+				<allauthors>
+					<author type="0">Swaminathan, M. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Eternal Youth Icon</title>
+				<feature>Yound Icons</feature>
+				<series></series>
+				<page>0049-0053</page>
+				<allauthors>
+					<author type="0">Magotra, Ratna</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Breed of Palakkad Iyers</title>
+				<feature>Yound Icons</feature>
+				<series></series>
+				<page>0056-0059</page>
+				<allauthors>
+					<author type="0">Iyer, T. G. L.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sreeram Panda : A Life from Celluloid to the Spiritual</title>
+				<feature>Yound Icons</feature>
+				<series></series>
+				<page>0062-0067</page>
+				<allauthors>
+					<author type="0">Behera, Radhanath</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Youthful and Once Youthful Icons</title>
+				<feature>Yound Icons</feature>
+				<series></series>
+				<page>0073-0077</page>
+				<allauthors>
+					<author type="0">Santhanagopal, P. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">IITian Gems : Brilliance in Service of Society and the Poor</title>
+				<feature>Yound Icons</feature>
+				<series></series>
+				<page>0081-0086</page>
+				<allauthors>
+					<author type="0">Mishra, Ramchandra</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Anand Kumar : Maker of `Super 30' Ramanujans</title>
+				<feature>Yound Icons</feature>
+				<series></series>
+				<page>0089-0093</page>
+				<allauthors>
+					<author type="0">Krishna, Nina</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Alefia Merchant : Warrior against Child Blindness</title>
+				<feature>Yound Icons</feature>
+				<series></series>
+				<page>0097-0098</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Rohit Prajapati : Anti-Pollution Crusader</title>
+				<feature>Yound Icons</feature>
+				<series></series>
+				<page>0101-0102</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Fayaz Ahmed Zaroo : Match-making made Easy and Cheap</title>
+				<feature>Yound Icons</feature>
+				<series></series>
+				<page>0105-0106</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Gautam Menon : Iconic Film Director from the South</title>
+				<feature>Yound Icons</feature>
+				<series></series>
+				<page>0109-0112</page>
+				<allauthors>
+					<author type="0">Menon, K. M. P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Navin Gulia : When He is Around, No one is an Orphan</title>
+				<feature>Yound Icons</feature>
+				<series></series>
+				<page>0113-0116</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Trina Talukdar : Saviour of Girls Caught in Vice-Web</title>
+				<feature>Yound Icons</feature>
+				<series></series>
+				<page>0117-0120</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Babar Ali : School Headmaster After College Hours</title>
+				<feature>Yound Icons</feature>
+				<series></series>
+				<page>0121-0124</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Rustam Sengupta : Making Villagers Asset Creators</title>
+				<feature>Yound Icons</feature>
+				<series></series>
+				<page>0125-0128</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Narayanan Krishnan : Feeding Destitutes His Life's Mission</title>
+				<feature>Yound Icons</feature>
+				<series></series>
+				<page>0129-0132</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Arnab Goswami : News Anchor as TV Icon</title>
+				<feature>Yound Icons</feature>
+				<series></series>
+				<page>0133-0138</page>
+				<allauthors>
+					<author type="0">Gopalakrishnan, V. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sudesh Menon : Taking Safe Water to Villagers</title>
+				<feature>Yound Icons</feature>
+				<series></series>
+				<page>0141-0144</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Rashid Ghani Khan : Life-Saver at Large!</title>
+				<feature>Yound Icons</feature>
+				<series></series>
+				<page>0145-0146</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Piyush Tiwari : Missionary Who Saves Lives on Roads</title>
+				<feature>Yound Icons</feature>
+				<series></series>
+				<page>0149-0150</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Paromita Goswami : Freeing Innocents from Jail and Hunger</title>
+				<feature>Yound Icons</feature>
+				<series></series>
+				<page>0153-0156</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Popatrao Pawar : Magical Transformation of Hivre Bazar</title>
+				<feature>Yound Icons</feature>
+				<series></series>
+				<page>0157-0165</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Mumbai Heroes : Dr. Ravikant Singh : From Private Practice to Healthcare of the Poor</title>
+				<feature></feature>
+				<series></series>
+				<page>0166-0167</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Mumbai Heroes : Apurva Kothari : Saving farmers from suicide, and youth from fashion blunders</title>
+				<feature></feature>
+				<series></series>
+				<page>0168-0169</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Swadhyaya : Valmiki Ramayana (Uttarakanda, Canto 44)</title>
+				<feature>Valmiki Ramayana</feature>
+				<series></series>
+				<page>0170-0171</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Abhyudaya Completes Five Years!!</title>
+				<feature></feature>
+				<series></series>
+				<page>0175-0177</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Flash Back : Bhavan's Journal, Fifty years ago</title>
+				<feature>Flash Back</feature>
+				<series></series>
+				<page>0180-0181</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Citizenship</title>
+				<feature>Kulapativani</feature>
+				<series></series>
+				<page>0185-0185</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">They Said So...</title>
+				<feature></feature>
+				<series></series>
+				<page>0186-0187</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Saare Jahaan Se...</title>
+				<feature></feature>
+				<series></series>
+				<page>0191-0199</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Of Economics and Leadership</title>
+				<feature>Book Shelf</feature>
+				<series></series>
+				<page>0201-0213</page>
+				<allauthors>
+					<author type="0">Vindhya</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Recent Happening Mumbai Headquarters : Festival of Indian Dance</title>
+				<feature></feature>
+				<series></series>
+				<page>0221-0227</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Reader.com</title>
+				<feature>Reader.com</feature>
+				<series></series>
+				<page>0231-0234</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
+				<series></series>
+				<page>0237-0249</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="02" date="31" month="08" year="2013" cover="Munshi and Rajaji">
+			<entry>
+				<title num="">Source of Seeds</title>
+				<feature>Sage Speak</feature>
+				<series></series>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Flash Back : Bhavan's Journal, Fifty years ago</title>
+				<feature>Flash Back</feature>
+				<series></series>
+				<page>0006-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Reader.com</title>
+				<feature>Reader.com</feature>
+				<series></series>
+				<page>0008-0010</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Universal Peace</title>
+				<feature>Kulapativani</feature>
+				<series></series>
+				<page>0011-0011</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">To Succeed, Just make up your Mind</title>
+				<feature>From the President</feature>
+				<series></series>
+				<page>0013-0014</page>
+				<allauthors>
+					<author type="0">Mehta, Surendralal G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">School <i>versus</i> Education</title>
+				<feature></feature>
+				<series></series>
+				<page>0015-0018</page>
+				<allauthors>
+					<author type="0">Narayanan, V. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Kulapati on Indian Culture</title>
+				<feature></feature>
+				<series></series>
+				<page>0019-0025</page>
+				<allauthors>
+					<author type="0">Sivaramakrishnan, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Relevance of Finnish Education Reforms to India</title>
+				<feature></feature>
+				<series></series>
+				<page>0026-0029</page>
+				<allauthors>
+					<author type="0">Dubhashi, P. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Thanjavur Quartet - An Immortal Foursome</title>
+				<feature></feature>
+				<series></series>
+				<page>0030-0037</page>
+				<allauthors>
+					<author type="0">Gandhi, Gopalkrishna</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Vasudhaiva Kutumbakam</title>
+				<feature></feature>
+				<series></series>
+				<page>0038-0041</page>
+				<allauthors>
+					<author type="0">Krishnamani, M. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Temple Jewellery : Art That Adorns God</title>
+				<feature></feature>
+				<series></series>
+				<page>0042-0046</page>
+				<allauthors>
+					<author type="0">Murthy, B. M. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">An Unpublished Letter of Swami Vivekananda</title>
+				<feature></feature>
+				<series></series>
+				<page>0047-0051</page>
+				<allauthors>
+					<author type="0">Freedman, Allen R.</author>
+					<author type="0">Freedman, Devra A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""><i>Annadaana</i> Transcends Nutrition</title>
+				<feature></feature>
+				<series></series>
+				<page>0052-0055</page>
+				<allauthors>
+					<author type="0">Mishra, Ramchandra</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Gene Patenting - A boon to Mankind</title>
+				<feature></feature>
+				<series></series>
+				<page>0056-0059</page>
+				<allauthors>
+					<author type="0">Hegde, B. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Vitamin C Factor in Heart Disease</title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0067</page>
+				<allauthors>
+					<author type="0">Mathew, G. A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Swadhyaya Valmiki Ramayana (Uttarakanda, Canto 44)</title>
+				<feature>Valmiki Ramayana</feature>
+				<series></series>
+				<page>0068-0069</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">H. S. Sohi : India's Mushroom Man</title>
+				<feature></feature>
+				<series></series>
+				<page>0070-0074</page>
+				<allauthors>
+					<author type="0">Puttoo, B. L.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Importance of `Living for Others'</title>
+				<feature></feature>
+				<series></series>
+				<page>0075-0077</page>
+				<allauthors>
+					<author type="0">Sharma, Om Prakash</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Replace Fault Finding with Good Finding</title>
+				<feature></feature>
+				<series></series>
+				<page>0078-0080</page>
+				<allauthors>
+					<author type="0">Langar, R. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Science of <i>Krishna Tattva</i></title>
+				<feature></feature>
+				<series></series>
+				<page>0081-0085</page>
+				<allauthors>
+					<author type="0">Shastry, Devarshi Kalanath</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Speaking Volumes</title>
+				<feature>Book Shelf</feature>
+				<series></series>
+				<page>0086-0093</page>
+				<allauthors>
+					<author type="0">Vindhya</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Chetana</title>
+				<feature>Chetana</feature>
+				<series></series>
+				<page>0094-0098</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Nandana</title>
+				<feature>Nandana</feature>
+				<series></series>
+				<page>0099-0103</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
+				<series></series>
+				<page>0104-0112</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="03" date="15" month="09" year="2013" cover="Teaching Beyond Classrooms">
+			<entry>
+				<title num="">Family Enemies</title>
+				<feature>Sage Speak</feature>
+				<series></series>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Flash Back : Bhavan's Journal, Firty years ago</title>
+				<feature>Flash Back</feature>
+				<series></series>
+				<page>0006-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Reader.com</title>
+				<feature>Reader.com</feature>
+				<series></series>
+				<page>0008-0010</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Teachers</title>
+				<feature>Kulapativani</feature>
+				<series></series>
+				<page>0011-0011</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">The Secret of Success</title>
+				<feature>From the President</feature>
+				<series></series>
+				<page>0012-0013</page>
+				<allauthors>
+					<author type="0">Mehta, Surendralal G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Poverty of Honesty ?</title>
+				<feature>Editorial</feature>
+				<series></series>
+				<page>0015-0016</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Subhas Bose : Irrepressible Voice of Freedom</title>
+				<feature></feature>
+				<series></series>
+				<page>0017-0020</page>
+				<allauthors>
+					<author type="0">Chatterjee, M. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bhavan's Essay : Higher Professional Education</title>
+				<feature></feature>
+				<series></series>
+				<page>0021-0028</page>
+				<allauthors>
+					<author type="0">Hegde, B. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Teaching Beyond Classrooms</title>
+				<feature></feature>
+				<series></series>
+				<page>0029-0031</page>
+				<allauthors>
+					<author type="0">Umesh, Resmi</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Rich, Richer, Riches - A Tale of our Legislators</title>
+				<feature></feature>
+				<series></series>
+				<page>0032-0034</page>
+				<allauthors>
+					<author type="0">Rao, S. N. Subba</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Significance of `Om'</title>
+				<feature></feature>
+				<series></series>
+				<page>0035-0036</page>
+				<allauthors>
+					<author type="0">Sampath, A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Denying Our Nothingness : Media Images of India</title>
+				<feature></feature>
+				<series></series>
+				<page>0037-0043</page>
+				<allauthors>
+					<author type="0">Raghavan, Hema</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Judaism and Vedanta</title>
+				<feature></feature>
+				<series></series>
+				<page>0044-0047</page>
+				<allauthors>
+					<author type="0">Laytner, Rabbi Anson</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Youth Power - Dividend or a Disaster ?</title>
+				<feature></feature>
+				<series></series>
+				<page>0048-0051</page>
+				<allauthors>
+					<author type="0">Magotra, Ratna</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Corruption : The Cancer of Human Society</title>
+				<feature></feature>
+				<series></series>
+				<page>0052-0058</page>
+				<allauthors>
+					<author type="0">Jokhi, Piroja Homi</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Humanity Needs True Spiritual Masters</title>
+				<feature></feature>
+				<series></series>
+				<page>0059-0061</page>
+				<allauthors>
+					<author type="0">Pathak, Maheswar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Ravana - Vilest of the Vile?</title>
+				<feature></feature>
+				<series></series>
+				<page>0062-0070</page>
+				<allauthors>
+					<author type="0">Krishnamani, M. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">KSV - His Gospel was Village Uplift</title>
+				<feature></feature>
+				<series></series>
+				<page>0071-0074</page>
+				<allauthors>
+					<author type="0">Sivaramakrishnan, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Swadhyaya Valmiki Ramayana (Uttarakanda, Canto 44)</title>
+				<feature>Valmiki Ramayana</feature>
+				<series></series>
+				<page>0076-0077</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Rediscover the Natural Born in you</title>
+				<feature></feature>
+				<series></series>
+				<page>0078-0080</page>
+				<allauthors>
+					<author type="0">Iyer, T. G. L.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Quantum Computers</title>
+				<feature></feature>
+				<series></series>
+				<page>0081-0082</page>
+				<allauthors>
+					<author type="0">Reddi, O. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Saare Jahaan Se...</title>
+				<feature></feature>
+				<series></series>
+				<page>0083-0088</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Light on Asia</title>
+				<feature>Book Shelf</feature>
+				<series></series>
+				<page>0089-0097</page>
+				<allauthors>
+					<author type="0">Vindhya</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Chetana</title>
+				<feature>Chetana</feature>
+				<series></series>
+				<page>0098-0102</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Nandana</title>
+				<feature>Nandana</feature>
+				<series></series>
+				<page>0103-0107</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
+				<series></series>
+				<page>0108-0112</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="04" date="30" month="09" year="2013" cover="Days of Remembrance">
+			<entry>
+				<title num="">Avoiding Rewards</title>
+				<feature>Sage Speak</feature>
+				<series></series>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's Journal, Fifty years ago</title>
+				<feature>Flash Back</feature>
+				<series></series>
+				<page>0006-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Reader.com</title>
+				<feature>Reader.com</feature>
+				<series></series>
+				<page>0008-0010</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Destiny of Man</title>
+				<feature>Kulapativani</feature>
+				<series></series>
+				<page>0011-0011</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">66th Independence Day of India</title>
+				<feature>From the President</feature>
+				<series></series>
+				<page>0013-0014</page>
+				<allauthors>
+					<author type="0">Mehta, Surendralal G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Days of Remembrance</title>
+				<feature>Editorial</feature>
+				<series></series>
+				<page>0015-0016</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Amarakosha : The Sanskrit Thesaurus</title>
+				<feature></feature>
+				<series></series>
+				<page>0018-0021</page>
+				<allauthors>
+					<author type="0">Murthy, B. M. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Swadharma and the Parable of the Sadhu</title>
+				<feature></feature>
+				<series></series>
+				<page>0022-0027</page>
+				<allauthors>
+					<author type="0">Mulla, Zubin R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Ever Thought of Adopting Parents?</title>
+				<feature></feature>
+				<series></series>
+				<page>0028-0031</page>
+				<allauthors>
+					<author type="0">Menon, Pachu</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Great Bengali Devotees of Krishna</title>
+				<feature></feature>
+				<series></series>
+				<page>0032-0041</page>
+				<allauthors>
+					<author type="0">Krishnamani, M. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Somerset Maugham A writer's Testament</title>
+				<feature></feature>
+				<series></series>
+				<page>0042-0053</page>
+				<allauthors>
+					<author type="0">Behera, Radhanath</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Who is a Patient?</title>
+				<feature></feature>
+				<series></series>
+				<page>0054-0058</page>
+				<allauthors>
+					<author type="0">Hegde, B. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Artish who Sings in Stone</title>
+				<feature></feature>
+				<series></series>
+				<page>0059-0062</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">The Default Codes of Life</title>
+				<feature></feature>
+				<series></series>
+				<page>0063-0072</page>
+				<allauthors>
+					<author type="0">Nampoothiri, K. Vamanan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Hindu System of Reckoning Time</title>
+				<feature></feature>
+				<series></series>
+				<page>0073-0078</page>
+				<allauthors>
+					<author type="0">Dubey, Om Prakash</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Are We or Are We Not?</title>
+				<feature></feature>
+				<series></series>
+				<page>0079-0082</page>
+				<allauthors>
+					<author type="0">Kurup, T. N. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Swadhyaya Valmiki Ramayana (Uttarakanda, Canto 44)</title>
+				<feature>Valmiki Ramayana</feature>
+				<series></series>
+				<page>0084-0085</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Rajo Guna : How to Control it?</title>
+				<feature></feature>
+				<series></series>
+				<page>0086-0090</page>
+				<allauthors>
+					<author type="0">Rao, T. Diwakar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Pot Pourri of Indian Palate</title>
+				<feature>Book Shelf</feature>
+				<series></series>
+				<page>0091-0098</page>
+				<allauthors>
+					<author type="0">Vindhya</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Chetana</title>
+				<feature>Chetana</feature>
+				<series></series>
+				<page>0099-0103</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Nandana</title>
+				<feature>Nandana</feature>
+				<series></series>
+				<page>0104-0108</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
+				<series></series>
+				<page>0109-0112</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="05" date="15" month="10" year="2013" cover="Sunlight and Health">
+			<entry>
+				<title num="">They Eat us</title>
+				<feature>Sage Speak</feature>
+				<series></series>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Flash Back : Bhavan's Journal, Fifty years ago</title>
+				<feature>Flash Back</feature>
+				<series></series>
+				<page>0006-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Reader.com</title>
+				<feature>Reader.com</feature>
+				<series></series>
+				<page>0008-0010</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Non-Violence</title>
+				<feature>Kulapativani</feature>
+				<series></series>
+				<page>0011-0011</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">How will Posterity Judge us?</title>
+				<feature>From the President</feature>
+				<series></series>
+				<page>0012-0014</page>
+				<allauthors>
+					<author type="0">Mehta, Surendralal G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">They Said So...</title>
+				<feature></feature>
+				<series></series>
+				<page>0016-0017</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Empowering the Intellectual</title>
+				<feature></feature>
+				<series></series>
+				<page>0018-0022</page>
+				<allauthors>
+					<author type="0">Wadhwa, Kamal</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Tai-Ahom in the Indian Way</title>
+				<feature></feature>
+				<series></series>
+				<page>0024-0029</page>
+				<allauthors>
+					<author type="0">Kumar, Ravindra</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Their Cup of Woes Runneth Over</title>
+				<feature></feature>
+				<series></series>
+				<page>0030-0034</page>
+				<allauthors>
+					<author type="0">Menon, Pachu</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sunlight : Be all and End all of Human Health</title>
+				<feature></feature>
+				<series></series>
+				<page>0035-0038</page>
+				<allauthors>
+					<author type="0">Hegde, B. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Educating the Growing Child</title>
+				<feature></feature>
+				<series></series>
+				<page>0039-0046</page>
+				<allauthors>
+					<author type="0">Bhat, V. Nithyanantha</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Modern Versions of Ravana and His Brothers</title>
+				<feature></feature>
+				<series></series>
+				<page>0047-0050</page>
+				<allauthors>
+					<author type="0">Sreenivas, Venkatachala I.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">`The Most Dangerous Man Since Christ'</title>
+				<feature></feature>
+				<series></series>
+				<page>0051-0053</page>
+				<allauthors>
+					<author type="0">Krishnamani, M. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Treasure Within all of us</title>
+				<feature></feature>
+				<series></series>
+				<page>0054-0056</page>
+				<allauthors>
+					<author type="0">Iyer, T. G. L.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Swadhyaya Valmiki Ramayana (Uttarakanda, Canto 44)</title>
+				<feature>Valmiki Ramayana</feature>
+				<series></series>
+				<page>0058-0059</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Yoga as Expounded in Bhagavad Gita</title>
+				<feature></feature>
+				<series></series>
+				<page>0060-0064</page>
+				<allauthors>
+					<author type="0">Prabhakaran, Methil</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Climate Change will Hit Indians Hard</title>
+				<feature></feature>
+				<series></series>
+				<page>0065-0066</page>
+				<allauthors>
+					<author type="0">Reddi, O. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Evenmindedness is Verily Yoga</title>
+				<feature></feature>
+				<series></series>
+				<page>0067-0074</page>
+				<allauthors>
+					<author type="0">Rao, M. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Kandathil Mappila : Star of Kerala's Cultural Horizon</title>
+				<feature></feature>
+				<series></series>
+				<page>0075-0078</page>
+				<allauthors>
+					<author type="0">Gopalakrishnan, V. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Indian Landscape</title>
+				<feature>Book Shelf</feature>
+				<series></series>
+				<page>0079-0085</page>
+				<allauthors>
+					<author type="0">Vindhya</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Saare Jahaan Se...</title>
+				<feature></feature>
+				<series></series>
+				<page>0087-0091</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Chetana</title>
+				<feature>Chetana</feature>
+				<series></series>
+				<page>0092-0095</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Nandana</title>
+				<feature>Nandana</feature>
+				<series></series>
+				<page>0096-0099</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
+				<series></series>
+				<page>0107-0112</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="06" date="31" month="10" year="2013" cover="Makers of India's Spiritual Empire">
+			<entry>
+				<title num="">Softness and Hardness</title>
+				<feature>Sage Speak</feature>
+				<series></series>
+				<page>0005-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Flash Back : Bhavan's Journal, Fifty years ago</title>
+				<feature>Flash Back</feature>
+				<series></series>
+				<page>0010-0011</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Reader.com</title>
+				<feature>Reader.com</feature>
+				<series></series>
+				<page>0013-0016</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Festivals</title>
+				<feature>Kulapativani</feature>
+				<series></series>
+				<page>0018-0018</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Deepavali Special Number of Bhavan's Journal, 2013</title>
+				<feature>From the President</feature>
+				<series></series>
+				<page>0020-0021</page>
+				<allauthors>
+					<author type="0">Mehta, Surendralal G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Makers of India's Spiritual Empire</title>
+				<feature></feature>
+				<series></series>
+				<page>0024-0028</page>
+				<allauthors>
+					<author type="0">Narayanan, V. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sri Aurobindo : As a Political Thinker</title>
+				<feature></feature>
+				<series></series>
+				<page>0030-0039</page>
+				<allauthors>
+					<author type="0">Singh, Karan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sages and Saints : Great Mind Managers of the World</title>
+				<feature></feature>
+				<series></series>
+				<page>0042-0046</page>
+				<allauthors>
+					<author type="0">Upadhyay, B. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sri Rama and Krishna : Influence of Sri Rama's life and conduct on the Gita Sermon</title>
+				<feature></feature>
+				<series></series>
+				<page>0048-0053</page>
+				<allauthors>
+					<author type="0">Chellaswami, Thotalam</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Idealism of Rama</title>
+				<feature></feature>
+				<series></series>
+				<page>0056-0060</page>
+				<allauthors>
+					<author type="0">Barman, Bhaskar Roy</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Nammazhvar : The Path-Breaker In Our Religious Tradition</title>
+				<feature></feature>
+				<series></series>
+				<page>0063-0070</page>
+				<allauthors>
+					<author type="0">Sivaramakrishnan, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Adi Sankara at Sangam</title>
+				<feature></feature>
+				<series></series>
+				<page>0073-0079</page>
+				<allauthors>
+					<author type="0">Mishra, Ramchandra</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Abhinavagupta : Father of Kashmir Saivism</title>
+				<feature></feature>
+				<series></series>
+				<page>0080-0086</page>
+				<allauthors>
+					<author type="0">Razdan, B. L.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Cultural Unity of India</title>
+				<feature></feature>
+				<series></series>
+				<page>0087-0096</page>
+				<allauthors>
+					<author type="0">Viswanathan, T. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sant Samartha Ramadas</title>
+				<feature></feature>
+				<series></series>
+				<page>0097-0102</page>
+				<allauthors>
+					<author type="0">Sreenivas, Venkatachala I.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Veda Vyasa : A Mystery</title>
+				<feature></feature>
+				<series></series>
+				<page>0103-0109</page>
+				<allauthors>
+					<author type="0">Gautam, Prasanna C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Swadhyaya Valmiki Ramayana (Uttarakanda, Canto 45)</title>
+				<feature>Valmiki Ramayana</feature>
+				<series></series>
+				<page>0112-0113</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Vinoba Bhave : The Padyaatri Saint of India</title>
+				<feature></feature>
+				<series></series>
+				<page>0116-0122</page>
+				<allauthors>
+					<author type="0">Suresh, V. Gouri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Walking Saints of India</title>
+				<feature></feature>
+				<series></series>
+				<page>0125-0131</page>
+				<allauthors>
+					<author type="0">Magotra, Ratna</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Virasaiva Saint Basavesvara</title>
+				<feature></feature>
+				<series></series>
+				<page>0133-0141</page>
+				<allauthors>
+					<author type="0">Krishnamurthy, Radha</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Ramayana Epic in Assamese</title>
+				<feature></feature>
+				<series></series>
+				<page>0143-0149</page>
+				<allauthors>
+					<author type="0">Dey, Sucharita</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Saint Jnaneshwar : The Patron Saint of Maharashtra</title>
+				<feature></feature>
+				<series></series>
+				<page>0151-0156</page>
+				<allauthors>
+					<author type="0">Dubhashi, P. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Gentle Saint From Shirdi</title>
+				<feature></feature>
+				<series></series>
+				<page>0159-0164</page>
+				<allauthors>
+					<author type="0">Kanchan, L. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Mysticism of Sufism</title>
+				<feature></feature>
+				<series></series>
+				<page>0167-0174</page>
+				<allauthors>
+					<author type="0">Viswam</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Nandanar : A Devout Untouchabe who attained Self-Realisation</title>
+				<feature></feature>
+				<series></series>
+				<page>0176-0181</page>
+				<allauthors>
+					<author type="0">Murthy, B. M. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Immortal Parasurama</title>
+				<feature></feature>
+				<series></series>
+				<page>0183-0187</page>
+				<allauthors>
+					<author type="0">Pusalkar, A. D.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Poonthaanam : The Splendour of Bhakthi</title>
+				<feature></feature>
+				<series></series>
+				<page>0189-0192</page>
+				<allauthors>
+					<author type="0">Ramachandran, Sreekumari</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Consequence or Karma?</title>
+				<feature></feature>
+				<series></series>
+				<page>0195-0200</page>
+				<allauthors>
+					<author type="0">Santhanagopal, P. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Inspiring Lives</title>
+				<feature>Book Shelf</feature>
+				<series></series>
+				<page>0202-0208</page>
+				<allauthors>
+					<author type="0">Vindhya</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Chetana</title>
+				<feature>Chetana</feature>
+				<series></series>
+				<page>0211-0215</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Nandana</title>
+				<feature>Nandana</feature>
+				<series></series>
+				<page>0218-0221</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Shraddhanjali : V. K. Eradi</title>
+				<feature></feature>
+				<series></series>
+				<page>0224-0224</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
+				<series></series>
+				<page>0226-0240</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="07" date="15" month="11" year="2013" cover="Sachin Tendulkar">
+			<entry>
+				<title num="">Intelligence and Wisdom</title>
+				<feature>Sage Speak</feature>
+				<series></series>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Flash Back : Bhavan's Journal, Fifty years ago</title>
+				<feature>Flash Back</feature>
+				<series></series>
+				<page>0006-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Reader.com</title>
+				<feature>Reader.com</feature>
+				<series></series>
+				<page>0008-0011</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Pandit Jawaharlal Nehru</title>
+				<feature>Kulapativani</feature>
+				<series></series>
+				<page>0012-0012</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">The Dietary Laws of Religion</title>
+				<feature>From the President</feature>
+				<series></series>
+				<page>0013-0015</page>
+				<allauthors>
+					<author type="0">Mehta, Surendralal G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sachin Tendulkar : Cricket's Superlatives Retire with him</title>
+				<feature></feature>
+				<series></series>
+				<page>0016-0029</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhagavad Gita in Kulapati's Life</title>
+				<feature></feature>
+				<series></series>
+				<page>0030-0034</page>
+				<allauthors>
+					<author type="0">Sivaramakrishnan, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Prevention of Suicide</title>
+				<feature></feature>
+				<series></series>
+				<page>0035-0038</page>
+				<allauthors>
+					<author type="0">Deka, Jahnabi</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bhavan's Essay : Are Women Safe in Our Country?</title>
+				<feature></feature>
+				<series></series>
+				<page>0039-0045</page>
+				<allauthors>
+					<author type="0">Saraf, V. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Mother Teresa : In Service of Poor, Sick and the Downtrodden</title>
+				<feature></feature>
+				<series></series>
+				<page>0046-0050</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Cancer, Cancer Everywhere but...</title>
+				<feature></feature>
+				<series></series>
+				<page>0051-0058</page>
+				<allauthors>
+					<author type="0">Hegde, B. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sankara and Brahma - Sutra Bhasya</title>
+				<feature></feature>
+				<series></series>
+				<page>0059-0064</page>
+				<allauthors>
+					<author type="0">Barman, Bhaskar Roy</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Unity in Similarity</title>
+				<feature></feature>
+				<series></series>
+				<page>0065-0067</page>
+				<allauthors>
+					<author type="0">George, C. T.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Four Basic Questions about Human Life</title>
+				<feature></feature>
+				<series></series>
+				<page>0068-0072</page>
+				<allauthors>
+					<author type="0">Langar, R. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sri Rama and Ramanuja</title>
+				<feature></feature>
+				<series></series>
+				<page>0073-0075</page>
+				<allauthors>
+					<author type="0">Varadarajan, M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Guru Nanakdev and Sikhism</title>
+				<feature></feature>
+				<series></series>
+				<page>0076-0085</page>
+				<allauthors>
+					<author type="0">Dubey, Om Prakash</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Jain Acharya Shanti Sagar : He Led by Example</title>
+				<feature></feature>
+				<series></series>
+				<page>0086-0088</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Swadhyaya Valmiki Ramayana (Uttarakanda, Canto 44)</title>
+				<feature>Valmiki Ramayana</feature>
+				<series></series>
+				<page>0090-0091</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Tika : Festival of Special Relationships</title>
+				<feature></feature>
+				<series></series>
+				<page>0092-0094</page>
+				<allauthors>
+					<author type="0">Kapoor, Satish K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Raga Therapy : An Ancient Art</title>
+				<feature></feature>
+				<series></series>
+				<page>0095-0097</page>
+				<allauthors>
+					<author type="0">Sairam, T. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Saare Jahaan Se...</title>
+				<feature></feature>
+				<series></series>
+				<page>0098-0102</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Inimitable Insights</title>
+				<feature>Book Shelf</feature>
+				<series></series>
+				<page>0103-0109</page>
+				<allauthors>
+					<author type="0">Vindhya</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Chetana</title>
+				<feature>Chetana</feature>
+				<series></series>
+				<page>0111-0115</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Nandana</title>
+				<feature>Nandana</feature>
+				<series></series>
+				<page>0116-0121</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
+				<series></series>
+				<page>0122-0128</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="09" date="15" month="12" year="2013" cover="European Sanskrit Scholars">
+			<entry>
+				<title num="">Danger of Unfreedom</title>
+				<feature>Sage Speak</feature>
+				<series></series>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Flash Back : Bhavan's Journal, Fifty years ago</title>
+				<feature>Flash Back</feature>
+				<series></series>
+				<page>0006-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Reader.com</title>
+				<feature>Reader.com</feature>
+				<series></series>
+				<page>0008-0011</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Social Worker</title>
+				<feature>Kulapativani</feature>
+				<series></series>
+				<page>0012-0012</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Conscience, Body and Mind</title>
+				<feature>From the President</feature>
+				<series></series>
+				<page>0013-0014</page>
+				<allauthors>
+					<author type="0">Mehta, Surendralal G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Eternity, thy Name is Sanskrit</title>
+				<feature></feature>
+				<series></series>
+				<page>0015-0018</page>
+				<allauthors>
+					<author type="0">Narayanan, V. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">They Said So...</title>
+				<feature></feature>
+				<series></series>
+				<page>0020-0021</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">If Men Could Be Gods</title>
+				<feature></feature>
+				<series></series>
+				<page>0022-0026</page>
+				<allauthors>
+					<author type="0">Menon, Pachu</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">European Scholars in Sanskrit</title>
+				<feature></feature>
+				<series></series>
+				<page>0027-0032</page>
+				<allauthors>
+					<author type="0">Shastri, Satya Vrat</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Relevance of Sanatana Samskriti Today</title>
+				<feature></feature>
+				<series></series>
+				<page>0033-0036</page>
+				<allauthors>
+					<author type="0">Kallingal, Rajan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sport : Sublimated Warfare-I</title>
+				<feature></feature>
+				<series></series>
+				<page>0037-0044</page>
+				<allauthors>
+					<author type="0">Ramdas</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Medical Hubris ?</title>
+				<feature></feature>
+				<series></series>
+				<page>0045-0049</page>
+				<allauthors>
+					<author type="0">Hegde, B. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Till Mountains Stand and Rivers Flow</title>
+				<feature></feature>
+				<series></series>
+				<page>0051-0055</page>
+				<allauthors>
+					<author type="0">Anandi, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Is `Enoughness' a Cultivable Virtue?</title>
+				<feature></feature>
+				<series></series>
+				<page>0056-0060</page>
+				<allauthors>
+					<author type="0">Raghavan, Hema</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Amazing Kumbha Mela</title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0067</page>
+				<allauthors>
+					<author type="0">Bhattacharyya, H. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Life and Glory of Rama</title>
+				<feature></feature>
+				<series></series>
+				<page>0068-0073</page>
+				<allauthors>
+					<author type="0">Kapoor, Satish K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Space Debris : A Growing Menace</title>
+				<feature></feature>
+				<series></series>
+				<page>0074-0080</page>
+				<allauthors>
+					<author type="0">Rajan, Mohan Sundara</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Will Power Completes the Task</title>
+				<feature></feature>
+				<series></series>
+				<page>0081-0083</page>
+				<allauthors>
+					<author type="0">Langar, R. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Swadhyaya Valmiki Ramayana (Uttarakanda, Canto 45)</title>
+				<feature>Valmiki Ramayana</feature>
+				<series></series>
+				<page>0084-0085</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">A General's Tale of Other History</title>
+				<feature>Book Shelf</feature>
+				<series></series>
+				<page>0086-0092</page>
+				<allauthors>
+					<author type="0">Vindhya</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Saare Jahaan Se...</title>
+				<feature></feature>
+				<series></series>
+				<page>0093-0097</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Chetana</title>
+				<feature>Chetana</feature>
+				<series></series>
+				<page>0098-0101</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Nandana</title>
+				<feature>Nandana</feature>
+				<series></series>
+				<page>0102-0106</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Shraddhanjali : Shri Bhagwandas Purohit</title>
+				<feature></feature>
+				<series></series>
+				<page>0107-0108</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Recent Happening : Stamp on Bhavan Released</title>
+				<feature></feature>
+				<series></series>
+				<page>0109-0111</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Murli S. Deora Dedicates School Wing in Bangalore</title>
+				<feature></feature>
+				<series></series>
+				<page>0113-0115</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
+				<series></series>
+				<page>0122-0128</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="10" date="00" month="00" year="0000" cover="">%raghu
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="11" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="17" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="19" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="21" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="23" date="00" month="00" year="0000" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>0000-0000</page>
+				<allauthors />
+			</entry>
+		</part>
+	</volume>
+</bhavans>
+
