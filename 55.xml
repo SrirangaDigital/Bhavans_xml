@@ -2117,7 +2117,7 @@
 				<title num="">Vanishing Patriotism</title>
 				<feature></feature>
 				<series></series>
-				<page>0075-000</page>
+				<page>0075-0077</page>
 				<allauthors>
 					<author type="">Krishna, N.</author>
 				</allauthors>
@@ -2126,25 +2126,23 @@
 				<title num="">Gayatri - The Rig Veda Prayer</title>
 				<feature></feature>
 				<series></series>
-				<page>0082-000</page>
+				<page>0082-0086</page>
 				<allauthors>
 					<author type="">Menon, Justice K. P. Radhakrishna</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Valmiki Ramayana</title>
+				<title num="">Valmiki Ramayana (Swadhyaya)</title>
 				<feature>Valmiki Ramayana</feature>
 				<series></series>
-				<page>0088-000</page>
-				<allauthors>
-					<author type=""></author>
-				</allauthors>
+				<page>0088-0089</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title num="">The Physics of Enlightenment</title>
 				<feature></feature>
 				<series></series>
-				<page>0090-000</page>
+				<page>0090-0092</page>
 				<allauthors>
 					<author type="">Reddi, Prof. O. S.</author>
 				</allauthors>
@@ -2153,37 +2151,29 @@
 				<title num="">World of Books</title>
 				<feature>World of Books</feature>
 				<series></series>
-				<page>0093-000</page>
-				<allauthors>
-					<author type=""></author>
-				</allauthors>
+				<page>0093-0093</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title num="">Chetana</title>
 				<feature></feature>
 				<series></series>
-				<page>0095-000</page>
-				<allauthors>
-					<author type=""></author>
-				</allauthors>
+				<page>0095-0100</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title num="">Nandana</title>
 				<feature></feature>
 				<series></series>
-				<page>0101-000</page>
-				<allauthors>
-					<author type=""></author>
-				</allauthors>
+				<page>0101-0105</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title num="">Bhavan's News</title>
 				<feature>Bhavan's News</feature>
 				<series></series>
-				<page>0107-000</page>
-				<allauthors>
-					<author type=""></author>
-				</allauthors>
+				<page>0107-0120</page>
+				<allauthors />
 			</entry>
 		</part>
 		<part pnum="16" date="31" month="03" year="2009" cover="Honouring Musical Geniuses">

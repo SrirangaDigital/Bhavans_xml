@@ -1,0 +1,2237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bsi SYSTEM "bhavans.dtd">
+
+<bhavans>
+	<volume vnum="58">
+		<part pnum="01" date="15" month="08" year="2011" cover="Vivekananda">
+			<entry>
+				<title num="">Holy... and Wise</title>
+				<feature></feature>
+				<series></series>
+				<page>0007-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Freedom</title>
+				<feature>Kulapati Vani</feature>
+				<series></series>
+				<page>0012-0012</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">From Gloom to Light Step by Step</title>
+				<feature>From the President</feature>
+				<series></series>
+				<page>0014-0016</page>
+				<allauthors>
+					<author type="0">Mehta, Surendralal G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Need to Raise Ourselves from Narrow Selfishness</title>
+				<feature></feature>
+				<series></series>
+				<page>0019-0023</page>
+				<allauthors>
+					<author type="0">Dastur, H. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">For Safety, Look Beyond Governments</title>
+				<feature>Editorial</feature>
+				<series></series>
+				<page>0025-0027</page>
+				<allauthor />
+			</entry>
+			<entry>
+				<title num="">Eternal Message for the Modern Age</title>
+				<feature></feature>
+				<series></series>
+				<page>0029-0044</page>
+				<allauthors>
+					<author type="0">Bhaskarananda, Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Two Disciples and the Mission</title>
+				<feature></feature>
+				<series></series>
+				<page>0047-0061</page>
+				<allauthors>
+					<author type="0">Krishnaswamy, N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Role of Ramakrishna Math in Reforming Prisoners</title>
+				<feature></feature>
+				<series></series>
+				<page>0063-0069</page>
+				<allauthors>
+					<author type="0">Murthy, B. M. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Empowering the Young: The Vivekananda Way</title>
+				<feature></feature>
+				<series></series>
+				<page>0071-0077</page>
+				<allauthors>
+					<author type="0">Sivaramkrishna, M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Ramakrishna Paramahamsa and The Rishi Parambara</title>
+				<feature></feature>
+				<series></series>
+				<page>0079-0084</page>
+				<allauthors>
+					<author type="0">Nair, T. P. Sankarankutty</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Vivekananda</title>
+				<feature></feature>
+				<series></series>
+				<page>0087-0089</page>
+				<allauthors>
+					<author type="0">Roy, Dilip Kumar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Swami Vivekananda and Revival of Hinduism</title>
+				<feature></feature>
+				<series></series>
+				<page>0091-0094</page>
+				<allauthors>
+					<author type="0">Kumar, Ravindra</author>
+					<author type="0">Bansod, Leena</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Three Great Souls in One Decade</title>
+				<feature></feature>
+				<series></series>
+				<page>0096-0102</page>
+				<allauthors>
+					<author type="0">Singh, Balmiki Prasad</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">He Inspired Our Freedom Fighters</title>
+				<feature></feature>
+				<series></series>
+				<page>0105-0111</page>
+				<allauthors>
+					<author type="0">Sudarshanananda, Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Swami Vivekananda in Tribal Dominion</title>
+				<feature></feature>
+				<series></series>
+				<page>0114-0121</page>
+				<allauthors>
+					<author type="0">Behera, Radhanath</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Swami Vivekananda and Kerala</title>
+				<feature></feature>
+				<series></series>
+				<page>0125-0134</page>
+				<allauthors>
+					<author type="0">Sivadas, Sathyabai</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Valmiki Ramayana (Swadhyaya)</title>
+				<feature>Valmiki Ramayana</feature>
+				<series></series>
+				<page>0140-0141</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">A Pontiff's Initiatives Sri Kashi Math Samsthan</title>
+				<feature></feature>
+				<series></series>
+				<page>0146-0151</page>
+				<allauthors>
+					<author type="0">V. S. R. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Arya Samaj and DAV Movement</title>
+				<feature></feature>
+				<series></series>
+				<page>0156-0171</page>
+				<allauthors>
+					<author type="0">Kapoor, Satish K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Adoration to the Infinite</title>
+				<feature></feature>
+				<series></series>
+				<page>0178-0189</page>
+				<allauthors>
+					<author type="0">Murthy, P. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Call of Motherland</title>
+				<feature></feature>
+				<series></series>
+				<page>0197-0202</page>
+				<allauthors>
+					<author type="0">Jogi, J. L.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">From Somebody to Nobody, Then Everybody</title>
+				<feature></feature>
+				<series></series>
+				<page>0207-0209</page>
+				<allauthors>
+					<author type="0">Langar, R. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Flash Back</title>
+				<feature></feature>
+				<series></series>
+				<page>0214-0215</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Reader.com</title>
+				<feature></feature>
+				<series></series>
+				<page>0217-0220</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Chetana</title>
+				<feature></feature>
+				<series></series>
+				<page>0221-0224</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's Book University Touching the Soul of India</title>
+				<feature></feature>
+				<series></series>
+				<page>0225-0226</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">For Your Book Self - Ever-Lasting Books</title>
+				<feature></feature>
+				<series></series>
+				<page>0227-0232</page>
+				<allauthors>
+					<author type="0">Vindhya</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Books Just Released</title>
+				<feature></feature>
+				<series></series>
+				<page>0233-0233</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Nandana</title>
+				<feature></feature>
+				<series></series>
+				<page>0234-0240</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
+				<series></series>
+				<page>0241-0248</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="02" date="31" month="08" year="2011" cover="Celebrating Tagore">
+			<entry>
+				<title num="">Holy... and Wise</title>
+				<feature></feature>
+				<series></series>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Flash Back</title>
+				<feature></feature>
+				<series></series>
+				<page>0006-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Reader.com</title>
+				<feature></feature>
+				<series></series>
+				<page>0008-0011</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Strive for Joy</title>
+				<feature>Kulapati Vani</feature>
+				<series></series>
+				<page>0012-0012</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">The Importance of a Healthy Self-Image</title>
+				<feature>From the President</feature>
+				<series></series>
+				<page>0013-0014</page>
+				<allauthors>
+					<author type="0">Mehta, Surendralal G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Have we Lost our Moral Voice?</title>
+				<feature></feature>
+				<series></series>
+				<page>0015-0018</page>
+				<allauthors>
+					<author type="0">Narayanan, V. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Concept of God in Advaita Vedanta</title>
+				<feature></feature>
+				<series></series>
+				<page>0019-0026</page>
+				<allauthors>
+					<author type="0">Bhaskarananda, Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Charkha: History's Spinning Wheel</title>
+				<feature></feature>
+				<series></series>
+				<page>0027-0038</page>
+				<allauthors>
+					<author type="0">Kapoor, Satish K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Celebrating Tagore</title>
+				<feature></feature>
+				<series></series>
+				<page>0039-0044</page>
+				<allauthors>
+					<author type="0">Ghosh, Santibrata</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Crime and Punishment</title>
+				<feature></feature>
+				<series></series>
+				<page>0045-0050</page>
+				<allauthors>
+					<author type="0">Sreenivas, Venkatachala I.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Kama-Basic and Vital Human Pursuit</title>
+				<feature></feature>
+				<series></series>
+				<page>0051-0058</page>
+				<allauthors>
+					<author type="0">Krishnamurthy, Radha</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Intellectual Terrorism</title>
+				<feature></feature>
+				<series></series>
+				<page>0059-0063</page>
+				<allauthors>
+					<author type="0">Hegde, B. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Rules of Life</title>
+				<feature></feature>
+				<series></series>
+				<page>0064-0066</page>
+				<allauthors>
+					<author type="0">Row, T. Subbha</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Nausherwan Framji Suntook</title>
+				<feature></feature>
+				<series></series>
+				<page>0067-0069</page>
+				<allauthors>
+					<author type="0">Balachandran, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Krishna, The Absolute God</title>
+				<feature></feature>
+				<series></series>
+				<page>0070-0072</page>
+				<allauthors>
+					<author type="0">Shrikant, Prasoon</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Valmiki Ramayana (Swadhyaya)</title>
+				<feature>Valmiki Ramayana</feature>
+				<series></series>
+				<page>0074-0075</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Unravelling Rural Women's Potential</title>
+				<feature></feature>
+				<series></series>
+				<page>0076-0082</page>
+				<allauthors>
+					<author type="0">Swaminathan, Mina</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Living by Silent Knowing</title>
+				<feature></feature>
+				<series></series>
+				<page>0083-0085</page>
+				<allauthors>
+					<author type="0">Iyer, T. G. L.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Music, Religion and Man</title>
+				<feature></feature>
+				<series></series>
+				<page>0086-0088</page>
+				<allauthors>
+					<author type="0">Verma, S. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">For Your Book Shelf : New One on Netaji, Baluchi Tales</title>
+				<feature></feature>
+				<series></series>
+				<page>0089-0093</page>
+				<allauthors>
+					<author type="0">Vindhya</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">MS in Disneyland Format</title>
+				<feature></feature>
+				<series></series>
+				<page>0095-0097</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Chetana</title>
+				<feature></feature>
+				<series></series>
+				<page>0098-0102</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Nandana</title>
+				<feature></feature>
+				<series></series>
+				<page>0103-0107</page>
+				<allauthors />  
+			</entry>
+			<entry>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
+				<series></series>
+				<page>0108-0112</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="03" date="15" month="08" year="2011" cover="N. R. Narayana Murthy">
+			<entry>
+				<title num="">Holy... and Wise</title>
+				<feature></feature>
+				<series></series>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Flash Back</title>
+				<feature></feature>
+				<series></series>
+				<page>0006-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Reader.com</title>
+				<feature></feature>
+				<series></series>
+				<page>0008-0011</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Culture Persists Through Time</title>
+				<feature>Kulapati Vani</feature>
+				<series></series>
+				<page>0012-0012</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Mahabharata and the Bhagavad Gita</title>
+				<feature>From the President</feature>
+				<series></series>
+				<page>0013-0015</page>
+				<allauthors>
+					<author type="0">Mehta, Surendralal G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A Role Model in a World of Limpets</title>
+				<feature></feature>
+				<series></series>
+				<page>0016-0021</page>
+				<allauthors>
+					<author type="0">Narayanan, V. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Blending of Man with Nature</title>
+				<feature></feature>
+				<series></series>
+				<page>0022-0028</page>
+				<allauthors>
+					<author type="0">Burnier, Radha</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Concept of God in Advaita Vedanta-II</title>
+				<feature></feature>
+				<series></series>
+				<page>0029-0035</page>
+				<allauthors>
+					<author type="0">Bhaskarananda, Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Does God Exist?</title>
+				<feature></feature>
+				<series></series>
+				<page>0036-0042</page>
+				<allauthors>
+					<author type="0">Santhanagopal, P. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Gender Justice and Peace-I</title>
+				<feature></feature>
+				<series></series>
+				<page>0043-0052</page>
+				<allauthors>
+					<author type="0">Patel, Vibhuti</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Humans Prefer Replicas, Not Originals</title>
+				<feature>Bhavan's Essay</feature>
+				<series></series>
+				<page>0053-0055</page>
+				<allauthors>
+					<author type="0">Menon, Pachu</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Divorce Facts from Bias, Not From Values</title>
+				<feature></feature>
+				<series></series>
+				<page>0056-0060</page>
+				<allauthors>
+					<author type="0">Dubey, Om Prakash</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">How Drona's Head was Cut Off</title>
+				<feature></feature>
+				<series></series>
+				<page>0061-0066</page>
+				<allauthors>
+					<author type="0">Prasoon, Shrikant</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Manusmriti on Human Rights and Duties</title>
+				<feature></feature>
+				<series></series>
+				<page>0067-0075</page>
+				<allauthors>
+					<author type="0">Umadevi S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Valmiki Ramayana (Swadhyaya)</title>
+				<feature>Valmiki Ramayana</feature>
+				<series></series>
+				<page>0078-0079</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">The Mechanism of Prayer</title>
+				<feature></feature>
+				<series></series>
+				<page>0080-0083</page>
+				<allauthors>
+					<author type="0">Pursram, Anu</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Saare Jahaan Se....</title>
+				<feature></feature>
+				<series></series>
+				<page>0085-0088</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">The Song of Divine Ecstasy</title>
+				<feature>Book Review</feature>
+				<series></series>
+				<page>0089-0092</page>
+				<allauthors>
+					<author type="">Chatterjee, M. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">For Your Bookshelf : India Re-Discovered</title>
+				<feature></feature>
+				<series></series>
+				<page>0093-0097</page>
+				<allauthors>
+					<author type="0">Vindhya</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Chetana</title>
+				<feature></feature>
+				<series></series>
+				<page>0099-0101</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Nandana</title>
+				<feature></feature>
+				<series></series>
+				<page>0102-0106</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
+				<series></series>
+				<page>0107-0112</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="04" date="30" month="09" year="2011" cover="Mahatma Gandhi and Anna Hazare">
+			<entry>
+				<title num="">Holy... and Wise</title>
+				<feature></feature>
+				<series></series>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Flash Back</title>
+				<feature></feature>
+				<series></series>
+				<page>0006-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Reader.com</title>
+				<feature></feature>
+				<series></series>
+				<page>0008-0010</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Discipline</title>
+				<feature>Kulapati Vani</feature>
+				<series></series>
+				<page>0011-0011</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Quest for Truth</title>
+				<feature>From the President</feature>
+				<series></series>
+				<page>0012-0013</page>
+				<allauthors>
+					<author type="0">Mehta, Surendralal G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The War on Corruption As Yet Unwaged</title>
+				<feature></feature>
+				<series></series>
+				<page>0014-0017</page>
+				<allauthors>
+					<author type="0">Narayanan, V. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Legacy of the Mahatma</title>
+				<feature></feature>
+				<series></series>
+				<page>0018-0028</page>
+				<allauthors>
+					<author type="0">Dubhashi, P. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Nai Talim - Gandhian Way to Education</title>
+				<feature></feature>
+				<series></series>
+				<page>0029-0037</page>
+				<allauthors>
+					<author type="0">Dhond, Arvind A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Mahatma called him `My Brother'</title>
+				<feature></feature>
+				<series></series>
+				<page>0038-0043</page>
+				<allauthors>
+					<author type="0">Murthy, B. M. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Gandhiji's `Conscience Keeper'</title>
+				<feature></feature>
+				<series></series>
+				<page>0044-0048</page>
+				<allauthors>
+					<author type="0">Gopalakrishnan, V. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Nehruvian Socialism in 21st Century</title>
+				<feature></feature>
+				<series></series>
+				<page>0049-0054</page>
+				<allauthors>
+					<author type="0">Kumar, Ravindra</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Black Income Culture</title>
+				<feature></feature>
+				<series></series>
+				<page>0055-0058</page>
+				<allauthors>
+					<author type="0">Wadhwa, Kamal</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Gender Justice and Peace-II: Need for Peace Journalism</title>
+				<feature></feature>
+				<series></series>
+				<page>0059-0064</page>
+				<allauthors>
+					<author type="0">Patel, Vibhuti</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Celebration of Liberty</title>
+				<feature></feature>
+				<series></series>
+				<page>0065-0068</page>
+				<allauthors>
+					<author type="0">Kennedy, Robert</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Dr. S. Radhakrishnan - An Ideal Educationist</title>
+				<feature></feature>
+				<series></series>
+				<page>0069-0072</page>
+				<allauthors>
+					<author type="0">Behera, Radhanath</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Valmiki Ramayana (Swadhyaya)</title>
+				<feature>Valmiki Ramayana</feature>
+				<series></series>
+				<page>0074-0075</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Oliver Goldsmith : Supreme Model for Precise Writing</title>
+				<feature></feature>
+				<series></series>
+				<page>0076-0079</page>
+				<allauthors>
+					<author type="0">Seshadri, K. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Are Religions Ethnic or Universal?</title>
+				<feature></feature>
+				<series></series>
+				<page>0080-0085</page>
+				<allauthors>
+					<author type="0">Ignatius, J.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Little Secrets of Happiness</title>
+				<feature></feature>
+				<series></series>
+				<page>0086-0090</page>
+				<allauthors>
+					<author type="0">Jokhi, Piroja Homi</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Self in Non-Self</title>
+				<feature></feature>
+				<series></series>
+				<page>0091-0091</page>
+				<allauthors>
+					<author type="0">Kapoor, Satish K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">For Your Bookshelf Gandhi, Gandhian and Others</title>
+				<feature></feature>
+				<series></series>
+				<page>0092-0096</page>
+				<allauthors>
+					<author type="0">Vindhya</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Chetana</title>
+				<feature></feature>
+				<series></series>
+				<page>0097-0100</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Nandana</title>
+				<feature></feature>
+				<series></series>
+				<page>0102-0105</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
+				<series></series>
+				<page>0106-0112</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="05" date="15" month="10" year="2011" cover="Nani Palkhivala">
+			<entry>
+				<title num="">Holy... and Wise</title>
+				<feature></feature>
+				<series></series>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Flash Back</title>
+				<feature></feature>
+				<series></series>
+				<page>0006-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Reader.com</title>
+				<feature></feature>
+				<series></series>
+				<page>0008-0010</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Trail of Glory</title>
+				<feature>Kulapati Vani</feature>
+				<series></series>
+				<page>0011-0011</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Space, Time and Us</title>
+				<feature>From the President</feature>
+				<series></series>
+				<page>0012-0013</page>
+				<allauthors>
+					<author type="0">Mehta, Surendralal G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A General Mess of Imprecise Feeling</title>
+				<feature></feature>
+				<series></series>
+				<page>0014-0019</page>
+				<allauthors>
+					<author type="0">Narayanan, V. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Democracy and the Citizen</title>
+				<feature></feature>
+				<series></series>
+				<page>0020-0027</page>
+				<allauthors>
+					<author type="0">Hegde, Justice N. Santosh</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Education Law and the Right</title>
+				<feature></feature>
+				<series></series>
+				<page>0028-0034</page>
+				<allauthors>
+					<author type="0">Veeraraghavan, J.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Nani Palkhivala What a Man!</title>
+				<feature></feature>
+				<series></series>
+				<page>0035-0046</page>
+				<allauthors>
+					<author type="0">Kumar, Ashutosh</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Karma and Dharma</title>
+				<feature></feature>
+				<series></series>
+				<page>0047-0053</page>
+				<allauthors>
+					<author type="0">Kothari, Gulab</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Einstein-The Man and the Legend</title>
+				<feature></feature>
+				<series></series>
+				<page>0054-0059</page>
+				<allauthors>
+					<author type="0">Behera, Radhanath</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The `First' War came 116 years earlier</title>
+				<feature></feature>
+				<series></series>
+				<page>0060-0064</page>
+				<allauthors>
+					<author type="0">Gopalakrishnan, V. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Agony and Ecstasy-I</title>
+				<feature></feature>
+				<series></series>
+				<page>0065-0072</page>
+				<allauthors>
+					<author type="0">Ramdas</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Present Reality and Recorded Reality</title>
+				<feature></feature>
+				<series></series>
+				<page>0073-0076</page>
+				<allauthors>
+					<author type="0">Jayaraman, T. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Valmiki Ramayana (Swadhyaya)</title>
+				<feature>Valmiki Ramayana</feature>
+				<series></series>
+				<page>0078-0079</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">``Ravana'' Happy in Panchavati</title>
+				<feature></feature>
+				<series></series>
+				<page>0080-0085</page>
+				<allauthors>
+					<author type="0">Adige, Veena</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Dance With Your Germs</title>
+				<feature></feature>
+				<series></series>
+				<page>0086-0088</page>
+				<allauthors>
+					<author type="0">Hegde, B. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">For Your Bookshelf: Of God and Miracles</title>
+				<feature></feature>
+				<series></series>
+				<page>0089-0092</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Chetana</title>
+				<feature></feature>
+				<series></series>
+				<page>0094-0099</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Nandana</title>
+				<feature></feature>
+				<series></series>
+				<page>0100-0104</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
+				<series></series>
+				<page>0105-0112</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="06" date="31" month="10" year="2011" cover="Places of Worship">
+			<entry>
+				<title num="">Holy... and Wise</title>
+				<feature></feature>
+				<series></series>
+				<page>0003-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Flash Back</title>
+				<feature></feature>
+				<series></series>
+				<page>0008-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Reader.com</title>
+				<feature></feature>
+				<series></series>
+				<page>0011-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Deepa Avali-The Festival of Lights</title>
+				<feature>From the President</feature>
+				<series></series>
+				<page>0018-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Shrines that Preserve Richness of Culture</title>
+				<feature>Editorial</feature>
+				<series></series>
+				<page>0021-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Mathoorji - A Jewel in Bhavan's Crown</title>
+				<feature></feature>
+				<series></series>
+				<page>0025-000</page>
+				<allauthors>
+					<author type="0">Narayanan, V. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Mathoorji A Pillar of Bhavan has Fallen</title>
+				<feature></feature>
+				<series></series>
+				<page>0036-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Temples as Symbols of God's Power and Man's Faith</title>
+				<feature></feature>
+				<series></series>
+				<page>0041-000</page>
+				<allauthors>
+					<author type="0">V. S. R. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Abodes of Solace and Succour</title>
+				<feature></feature>
+				<series></series>
+				<page>0049-000</page>
+				<allauthors>
+					<author type="0">Santhanagopal, P. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Holy Cross at Bambolim A Shrine of inimitable identity</title>
+				<feature></feature>
+				<series></series>
+				<page>0057-000</page>
+				<allauthors>
+					<author type="0">Menon, Pachu</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Jain Temples Dot India's History and Heritage</title>
+				<feature></feature>
+				<series></series>
+				<page>0064-000</page>
+				<allauthors>
+					<author type="0">Sripall, S.</author>
+					<author type="0">Elangovan, A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Sri Harimandir Sahib Holiest Shrine of the Sikhs</title>
+				<feature></feature>
+				<series></series>
+				<page>0079-000</page>
+				<allauthors>
+					<author type="0">Kapoor, Satish K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Tiruvannnamalai : An Abode of Wisdom</title>
+				<feature></feature>
+				<series></series>
+				<page>0093-000</page>
+				<allauthors>
+					<author type="0">Venkataraman, K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Shakthi Peetha in Guwahati</title>
+				<feature></feature>
+				<series></series>
+				<page>0101-000</page>
+				<allauthors>
+					<author type="0">Suresh, Gouri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Trinity of Bondage</title>
+				<feature></feature>
+				<series></series>
+				<page>0111-000</page>
+				<allauthors>
+					<author type="0">Sudarshanananda, Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Valmiki Ramayana</title>
+				<feature>Valmiki Ramayana</feature>
+				<series></series>
+				<page>0118-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Universal Mother Kali</title>
+				<feature></feature>
+				<series></series>
+				<page>0121-000</page>
+				<allauthors>
+					<author type="0">Singh, Vijay Deep</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Varaha Temple that Parasurama Built</title>
+				<feature></feature>
+				<series></series>
+				<page>0122-000</page>
+				<allauthors>
+					<author type="0">Sarabhai, Mrinalini</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Kapaleeshwara Temple, Mylapore</title>
+				<feature></feature>
+				<series></series>
+				<page>0131-000</page>
+				<allauthors>
+					<author type="0">Murthy, B. M. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Temple Jewels Secreted for Safety</title>
+				<feature></feature>
+				<series></series>
+				<page>0137-000</page>
+				<allauthors>
+					<author type="0">Rajagopalan, `Garland' N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A Haven of Peace and Practical Spirituality</title>
+				<feature></feature>
+				<series></series>
+				<page>0141-000</page>
+				<allauthors>
+					<author type="0">Bandyopadhyay, Shankar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">For Pilgrims, Plenty to Chooose from</title>
+				<feature></feature>
+				<series></series>
+				<page>0147-000</page>
+				<allauthors>
+					<author type="0">Pursram, Anu</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">75 Years of `Divine Life'</title>
+				<feature></feature>
+				<series></series>
+				<page>0155-000</page>
+				<allauthors>
+					<author type="0">Padmanabhananda, Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Shrines of Diverse Faiths</title>
+				<feature></feature>
+				<series></series>
+				<page>0159-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Chetana</title>
+				<feature></feature>
+				<series></series>
+				<page>0173-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Nandana</title>
+				<feature></feature>
+				<series></series>
+				<page>0179-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
+				<series></series>
+				<page>0186-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="" date="" month="" year="" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="" date="" month="" year="" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="" date="" month="" year="" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="" date="" month="" year="" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="" date="" month="" year="" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="" date="" month="" year="" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="" date="" month="" year="" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="" date="" month="" year="" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="" date="" month="" year="" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="" date="" month="" year="" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="" date="" month="" year="" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="" date="" month="" year="" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="" date="" month="" year="" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="" date="" month="" year="" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="" date="" month="" year="" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="" date="" month="" year="" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="" date="" month="" year="" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="" date="" month="" year="" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="" date="" month="" year="" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="" date="" month="" year="" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="" date="" month="" year="" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="" date="" month="" year="" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="" date="" month="" year="" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="" date="" month="" year="" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="" date="" month="" year="" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="" date="" month="" year="" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="" date="" month="" year="" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="" date="" month="" year="" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="" date="" month="" year="" cover="">
+			<entry>
+				<title num=""></title>
+				<feature></feature>
+				<series></series>
+				<page>000-000</page>
+				<allauthors>
+					<author type="0"></author>
+				</allauthors>
+			</entry>
+		</part>
+	</volume>
+</bhavans>
