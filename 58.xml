@@ -3841,66 +3841,76 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="24" date="31" month="07" year="2012" cover="Rashtrapati Pranab Mukherjee (India's 14th President)">%%% prathibha
+		<part pnum="24" date="31" month="07" year="2012" cover="Rashtrapati Pranab Mukherjee (India's 14th President)">
 			<entry>
 				<title num="">Holy... and Wise</title>
 				<feature></feature>
 				<series></series>
-				<page>0001-000</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
+				<page>0001-0001</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title num="">Flash Back</title>
 				<feature></feature>
 				<series></series>
-				<page>0006-000</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
+				<page>0006-0007</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title num="">Reader.com</title>
 				<feature></feature>
 				<series></series>
-				<page>0008-000</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
+				<page>0008-0010</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title num=""></title>
+				<title num="">Object of Education</title>
 				<feature>Kulapati Vani</feature>
 				<series></series>
-				<page>0011-000</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
+				<page>0011-0011</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title num="">Positivity-an Essential Component of a Healthy Society</title>
 				<feature>From the President</feature>
 				<series></series>
-				<page>0012-000</page>
+				<page>0012-0013</page>
 				<allauthors>
-					<author type="0"></author>
+					<author type="0">Mehta, Surendralal G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The New President</title>
+				<feature></feature>
+				<series></series>
+				<page>0014-0017</page>
+				<allauthors>
+					<author type="0">Narayanan, V. N.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title num="">From Ship to Mouth to Right to Food</title>
 				<feature></feature>
 				<series></series>
-				<page>0018-000</page>
+				<page>0018-0023</page>
 				<allauthors>
 					<author type="0">Swaminathan, M. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Wrong Ideas About Self</title>
+				<feature></feature>
+				<series></series>
+				<page>0024-0031</page>
+				<allauthors>
+					<author type="0">Rao, M. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title num="">Practical Vedanta and Swami Vivekananda</title>
 				<feature></feature>
 				<series></series>
-				<page>0032-000</page>
+				<page>0032-0037</page>
 				<allauthors>
 					<author type="0">Behera, Radhanath</author>
 				</allauthors>
@@ -3909,25 +3919,60 @@
 				<title num="">Emancipation of the Male</title>
 				<feature></feature>
 				<series></series>
-				<page>0038-000</page>
+				<page>0038-0042</page>
 				<allauthors>
 					<author type="0">Menon, Pachu</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Cultivating Self-Confidence</title>
+				<feature></feature>
+				<series></series>
+				<page>0043-0047</page>
+				<allauthors>
+					<author type="0">Sudarshanananda, Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Shock Treatment in Bhagavad Gita</title>
+				<feature></feature>
+				<series></series>
+				<page>0048-0051</page>
+				<allauthors>
+					<author type="0">Sreekrishna, Koti</author>
+					<author type="0">Ravikumar, Hari</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Mysterium Tremendum</title>
+				<feature></feature>
+				<series></series>
+				<page>0052-0057</page>
+				<allauthors>
+					<author type="0">Krishnamani, M. N.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title num="">What is Forgiveness?</title>
 				<feature></feature>
 				<series></series>
-				<page>0058-000</page>
+				<page>0058-0060</page>
 				<allauthors>
 					<author type="0">Vaswani, J. P.</author>
 				</allauthors>
 			</entry>
 			<entry>
+				<title num="">Valmiki Ramayana (Swadhyaya)</title>
+				<feature>Valmiki Ramayana</feature>
+				<series></series>
+				<page>0062-0063</page>
+				<allauthors />
+			</entry>
+			<entry>
 				<title num="">Caste Politics in all Religions</title>
 				<feature></feature>
 				<series></series>
-				<page>0064-000</page>
+				<page>0064-0066</page>
 				<allauthors>
 					<author type="0">Srinivas, Bobby</author>
 				</allauthors>
@@ -3936,7 +3981,7 @@
 				<title num="">Gamaka's Role in Raga Therapy</title>
 				<feature></feature>
 				<series></series>
-				<page>0067-000</page>
+				<page>0067-0071</page>
 				<allauthors>
 					<author type="0">Sairam, T. V.</author>
 				</allauthors>
@@ -3945,7 +3990,7 @@
 				<title num="">Simple Living, High Thinking</title>
 				<feature></feature>
 				<series></series>
-				<page>0072-000</page>
+				<page>0072-0073</page>
 				<allauthors>
 					<author type="0">Krishnan, Chitra</author>
 				</allauthors>
@@ -3954,7 +3999,7 @@
 				<title num="">A Collector's Must</title>
 				<feature>Book Review</feature>
 				<series></series>
-				<page>0074-000</page>
+				<page>0074-0076</page>
 				<allauthors>
 					<author type="0">Chandrasekhar, S. N.</author>
 				</allauthors>
@@ -3963,7 +4008,7 @@
 				<title num="">For Your Book Shelf : Of Gods and Demons</title>
 				<feature></feature>
 				<series></series>
-				<page>0077-000</page>
+				<page>0077-0082</page>
 				<allauthors>
 					<author type="0">Vindhya</author>
 				</allauthors>
@@ -3972,238 +4017,50 @@
 				<title num="">Book Just Released</title>
 				<feature></feature>
 				<series></series>
-				<page>0083-000</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
+				<page>0083-0083</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title num="">Saare Jahaan Se..</title>
 				<feature></feature>
 				<series></series>
-				<page>0084-000</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
+				<page>0084-0089</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title num="">Class X Toppers</title>
 				<feature></feature>
 				<series></series>
-				<page>0090-000</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
+				<page>0090-0094</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Shraddhanjali</title>
+				<title num="">Shraddhanjali Prof. A. P. Sarada (1930-2012)</title>
 				<feature></feature>
 				<series></series>
-				<page>0090-000</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title num="">Prof. A. P. Sarada</title>
-				<feature></feature>
-				<series></series>
-				<page>0095-000</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
+				<page>0095-0096</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title num="">Chetana</title>
 				<feature></feature>
 				<series></series>
-				<page>0097-000</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
+				<page>0097-0102</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title num="">Nandana</title>
 				<feature></feature>
 				<series></series>
-				<page>0103-000</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
+				<page>0103-0107</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title num="">Bhavan's News</title>
 				<feature>Bhavan's News</feature>
 				<series></series>
-				<page>0108-000</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>000-000</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>000-000</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>000-000</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>000-000</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>000-000</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>000-000</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>000-000</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>000-000</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>000-000</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>000-000</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>000-000</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>000-000</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>000-000</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>000-000</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
-			</entry>
-		</part>
-		<part pnum="" date="" month="" year="" cover="">
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>000-000</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
+				<page>0108-0112</page>
+				<allauthors />
 			</entry>
 		</part>
 	</volume>
