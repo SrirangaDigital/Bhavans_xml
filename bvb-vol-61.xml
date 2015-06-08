@@ -1818,7 +1818,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="00" date="00" month="00" year="2000" cover="">
+		<part pnum="00" date="00" month="00" year="0000" cover="">
 			<entry>
 				<title num=""></title>
 				<feature></feature>

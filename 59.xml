@@ -451,7 +451,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02" date="08" month="31" year="2012" cover="Char Dham Revisited">
+		<part pnum="02" date="31" month="08" year="2012" cover="Char Dham Revisited">
 			<entry>
 				<title num="">Holy... and Wise</title>
 				<feature></feature>
@@ -637,7 +637,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="03" date="08" month="15" year="2012" cover="">
+		<part pnum="03" date="15" month="09" year="2012" cover="Dr. S. Radhakrishnan">
 			<entry>
 				<title num="">Holy... and Wise</title>
 				<feature></feature>
@@ -1028,7 +1028,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="12" date="01" month="31" year="2013" cover="Indian Dances">
+		<part pnum="12" date="31" month="01" year="2013" cover="Indian Dances">
 			<entry>
 				<title num="">Holy... and Wise</title>
 				<feature></feature>
@@ -1241,7 +1241,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="13" date="02" month="15" year="2013" cover="Day of Celebration, Homage and Remembrance">
+		<part pnum="13" date="15" month="02" year="2013" cover="Day of Celebration, Homage and Remembrance">
 			<entry>
 				<title num="">Holy... and Wise</title>
 				<feature></feature>
@@ -1458,9 +1458,7 @@
 				<feature></feature>
 				<series></series>
 				<page>0001-0001</page>
-				<allauthors>
-					<author type="0"></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title num="">Flash Back</title>

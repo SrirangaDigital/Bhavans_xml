@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bsi SYSTEM "bhavans.dtd">
+
+<bhavans>
+	<volume vnum="49">
+		<part pnum="14" date="28" month="02" year="2003" cover="Maha Shivaratri">
+			<entry>
+				<title num="">Prayer</title>
+				<feature>Prayer</feature>
+				<series></series>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Echoes from Eternity - Bhakti</title>
+				<feature></feature>
+				<series></series>
+				<page>0005-0006</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Science and Technology</title>
+				<feature>From the Bhavan's President</feature>
+				<series></series>
+				<page>0007-0010</page>
+				<allauthors>
+					<author type="0">Venkataraman, R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Dr. Harivansha Rai Bachchan A Jewel in the Literary world</title>
+				<feature>Editorial</feature>
+				<series></series>
+				<page>0011-0018</page>
+				<allauthors>
+					<author type="0">Ramakrishnan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Gandhi Peace Prize to Bharatiya Vidya Bhavan</title>
+				<feature></feature>
+				<series></series>
+				<page>0020-0024</page>
+				<allauthors>
+					<author type="0">Ramakrishnan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Valmiki Ramayana (Swadhyaya)</title>
+				<feature>Valmiki Ramayana</feature>
+				<series></series>
+				<page>0026-0027</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Maha Shivaratri</title>
+				<feature></feature>
+				<series></series>
+				<page>0028-0032</page>
+				<allauthors>
+					<author type="0">Sashital, Meera S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Mahadeva Leela: A Changed Stance!</title>
+				<feature></feature>
+				<series></series>
+				<page>0033-0037</page>
+				<allauthors>
+					<author type="0">Natarajan, Venkatesa</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Vrata of Mahasivaratri</title>
+				<feature></feature>
+				<series></series>
+				<page>0039-0042</page>
+				<allauthors>
+					<author type="0">P.N.S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The Culture of the Indian Scientist</title>
+				<feature></feature>
+				<series></series>
+				<page>0043-0047</page>
+				<allauthors>
+					<author type="0">Chidambaram, R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Kashmir, War and Humanity</title>
+				<feature></feature>
+				<series></series>
+				<page>0049-0051</page>
+				<allauthors>
+					<author type="0">Mayur, Dr. Rashmi</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">A Boat to Cross the Ocean of Existence</title>
+				<feature></feature>
+				<series></series>
+				<page>0053-0059</page>
+				<allauthors>
+					<author type="0">Parthasarathy, Dr. Vanamala</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">The First Man on Earth</title>
+				<feature></feature>
+				<series></series>
+				<page>0060-0061</page>
+				<allauthors>
+					<author type="0">Pandey, Dr. Krishna Narayan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Correctives to Corruption</title>
+				<feature></feature>
+				<series></series>
+				<page>0062-0067</page>
+				<allauthors>
+					<author type="0">Sarma, Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">`Daana' is a lot more than mere charity</title>
+				<feature></feature>
+				<series></series>
+				<page>0068-0072</page>
+				<allauthors>
+					<author type="0">Prabhakaran</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Darshan</title>
+				<feature></feature>
+				<series></series>
+				<page>0073-0078</page>
+				<allauthors>
+					<author type="0">Raja, Dr. P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bhava-Rasa in Sahitya and Sangita: `Garland'</title>
+				<feature>Homage</feature>
+				<series></series>
+				<page>0079-0084</page>
+				<allauthors>
+					<author type="0">Rajagopalan, N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Doppler Effect of Kundalini</title>
+				<feature></feature>
+				<series></series>
+				<page>0085-0087</page>
+				<allauthors>
+					<author type="0">Kapur, Pradeep</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Ayurveda Unbound</title>
+				<feature></feature>
+				<series></series>
+				<page>0088-0093</page>
+				<allauthors>
+					<author type="0">Sairam, T. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Swasthasya swastha Rakshitham : Doctor Speaks</title>
+				<feature></feature>
+				<series></series>
+				<page>0094-0097</page>
+				<allauthors>
+					<author type="0">Hegde, Dr. B. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Bhavan's Book for the fortnight : Hindu Religion of Hindu Scientists</title>
+				<feature></feature>
+				<series></series>
+				<page>0098-0101</page>
+				<allauthors>
+					<author type="0">Deshpande, Dr. V. R.</author>
+					<author type="0">Ghatate, Ms. Sulabha</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Stories of Vikramaditya-24 : Vikrama and the Merchant's Daughter</title>
+				<feature></feature>
+				<series></series>
+				<page>0102-0106</page>
+				<allauthors>
+					<author type="0">Aiyer, V. A. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="">Prasnottara : You Ask, We Answer</title>
+				<feature></feature>
+				<series></series>
+				<page>0107-0107</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Chetna : Women's Section</title>
+				<feature></feature>
+				<series></series>
+				<page>0108-0113</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Nandana</title>
+				<feature></feature>
+				<series></series>
+				<page>0114-0119</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title num="">Bhavan's News</title>
+				<feature>Bhavan's News</feature>
+				<series></series>
+				<page>0120-0128</page>
+				<allauthors />
+			</entry>
+		</part>
+	</volume>
+</bhavans>
